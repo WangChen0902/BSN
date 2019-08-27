@@ -1,0 +1,4 @@
+5 345 121 ./result/主队/传球/True/ 3
+10 425 80 ./result/主队/传中/True/ 3
+18 475 70 ./result/主队/射门/True/ 2
+1 507 70 ./result/主队/射门/True/ 2

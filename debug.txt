@@ -1,0 +1,3 @@
+layer1: Tensor("Relu:0", shape=(1, 100, 512), dtype=float32)
+layer2: Tensor("Relu_1:0", shape=(1, 100, 512), dtype=float32)
+layer3: Tensor("Reshape_1:0", shape=(1, 100, 3), dtype=float32)

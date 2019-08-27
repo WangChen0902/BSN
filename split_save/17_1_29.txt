@@ -1,0 +1,4 @@
+33 86 180 ./result/客队/角球/False/ 0
+27 106 64 ./result/主队/拦截/False/ 3
+10 166 80 ./result/客队/传中/True/ 3
+1 216 70 ./result/客队/射门/True/ 2

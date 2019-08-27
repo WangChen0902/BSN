@@ -1,0 +1,600 @@
+2019-06-10 23:20:26
+Epoch-0 Train Loss: Action - 0.38971, StartEnd - 0.33846
+Epoch-0 Val   Loss: Action - 0.82159, StartEnd - 0.92017
+2019-06-10 23:21:44
+Epoch-1 Train Loss: Action - 0.30270, StartEnd - 0.27956
+Epoch-1 Val   Loss: Action - 0.66101, StartEnd - 0.99164
+2019-06-10 23:22:59
+Epoch-2 Train Loss: Action - 0.30775, StartEnd - 0.28817
+Epoch-2 Val   Loss: Action - 0.71330, StartEnd - 0.87573
+2019-06-10 23:24:16
+Epoch-3 Train Loss: Action - 0.31645, StartEnd - 0.29979
+Epoch-3 Val   Loss: Action - 0.67456, StartEnd - 0.94372
+2019-06-10 23:25:22
+Epoch-4 Train Loss: Action - 0.32020, StartEnd - 0.30314
+Epoch-4 Val   Loss: Action - 0.83100, StartEnd - 0.80379
+2019-06-10 23:26:27
+Epoch-5 Train Loss: Action - 0.33193, StartEnd - 0.31370
+Epoch-5 Val   Loss: Action - 0.66857, StartEnd - 0.82498
+2019-06-10 23:27:33
+Epoch-6 Train Loss: Action - 0.33666, StartEnd - 0.31929
+Epoch-6 Val   Loss: Action - 0.70733, StartEnd - 0.86510
+2019-06-10 23:28:38
+Epoch-7 Train Loss: Action - 0.34575, StartEnd - 0.32666
+Epoch-7 Val   Loss: Action - 0.70843, StartEnd - 0.76448
+2019-06-10 23:29:44
+Epoch-8 Train Loss: Action - 0.35295, StartEnd - 0.33293
+Epoch-8 Val   Loss: Action - 0.80847, StartEnd - 0.84138
+2019-06-10 23:30:50
+Epoch-9 Train Loss: Action - 0.35992, StartEnd - 0.33567
+Epoch-9 Val   Loss: Action - 0.76802, StartEnd - 0.84439
+2019-06-10 23:31:56
+Epoch-10 Train Loss: Action - 0.36810, StartEnd - 0.34613
+Epoch-10 Val   Loss: Action - 1.01681, StartEnd - 0.91836
+2019-06-10 23:33:02
+Epoch-11 Train Loss: Action - 0.37430, StartEnd - 0.35358
+Epoch-11 Val   Loss: Action - 0.75233, StartEnd - 0.86885
+2019-06-10 23:34:09
+Epoch-12 Train Loss: Action - 0.38259, StartEnd - 0.36134
+Epoch-12 Val   Loss: Action - 0.88899, StartEnd - 0.80860
+2019-06-10 23:35:14
+Epoch-13 Train Loss: Action - 0.38698, StartEnd - 0.36446
+Epoch-13 Val   Loss: Action - 0.79438, StartEnd - 0.95505
+2019-06-10 23:36:19
+Epoch-14 Train Loss: Action - 0.39421, StartEnd - 0.37330
+Epoch-14 Val   Loss: Action - 0.64975, StartEnd - 0.72487
+2019-06-10 23:37:25
+Epoch-15 Train Loss: Action - 0.39813, StartEnd - 0.38002
+Epoch-15 Val   Loss: Action - 0.70709, StartEnd - 0.90578
+2019-06-10 23:38:31
+Epoch-16 Train Loss: Action - 0.40067, StartEnd - 0.38221
+Epoch-16 Val   Loss: Action - 0.77202, StartEnd - 0.79761
+2019-06-10 23:39:37
+Epoch-17 Train Loss: Action - 0.40189, StartEnd - 0.38248
+Epoch-17 Val   Loss: Action - 0.66763, StartEnd - 0.85099
+2019-06-10 23:40:43
+Epoch-18 Train Loss: Action - 0.40639, StartEnd - 0.38343
+Epoch-18 Val   Loss: Action - 0.76700, StartEnd - 0.76245
+2019-06-10 23:41:49
+Epoch-19 Train Loss: Action - 0.40945, StartEnd - 0.38492
+Epoch-19 Val   Loss: Action - 0.65135, StartEnd - 0.69850
+2019-06-10 23:42:55
+Epoch-20 Train Loss: Action - 0.40260, StartEnd - 0.38034
+Epoch-20 Val   Loss: Action - 0.67549, StartEnd - 0.69787
+2019-06-10 23:44:01
+Epoch-21 Train Loss: Action - 0.40256, StartEnd - 0.37923
+Epoch-21 Val   Loss: Action - 0.69290, StartEnd - 0.75850
+2019-06-10 23:45:07
+Epoch-22 Train Loss: Action - 0.40133, StartEnd - 0.37837
+Epoch-22 Val   Loss: Action - 0.70905, StartEnd - 0.78470
+2019-06-10 23:46:11
+Epoch-23 Train Loss: Action - 0.41020, StartEnd - 0.38578
+Epoch-23 Val   Loss: Action - 0.75983, StartEnd - 0.84388
+2019-06-10 23:47:16
+Epoch-24 Train Loss: Action - 0.41094, StartEnd - 0.39028
+Epoch-24 Val   Loss: Action - 0.93339, StartEnd - 0.80840
+2019-06-10 23:48:22
+Epoch-25 Train Loss: Action - 0.41031, StartEnd - 0.39063
+Epoch-25 Val   Loss: Action - 0.68238, StartEnd - 0.68525
+2019-06-10 23:49:27
+Epoch-26 Train Loss: Action - 0.41583, StartEnd - 0.38882
+Epoch-26 Val   Loss: Action - 0.66843, StartEnd - 0.72764
+2019-06-10 23:50:33
+Epoch-27 Train Loss: Action - 0.41301, StartEnd - 0.38554
+Epoch-27 Val   Loss: Action - 0.70577, StartEnd - 0.68896
+2019-06-10 23:51:39
+Epoch-28 Train Loss: Action - 0.41105, StartEnd - 0.38574
+Epoch-28 Val   Loss: Action - 0.70515, StartEnd - 0.68901
+2019-06-10 23:52:45
+Epoch-29 Train Loss: Action - 0.40425, StartEnd - 0.38087
+Epoch-29 Val   Loss: Action - 0.66456, StartEnd - 0.76807
+2019-06-10 23:53:51
+Epoch-30 Train Loss: Action - 0.41039, StartEnd - 0.38623
+Epoch-30 Val   Loss: Action - 0.89973, StartEnd - 0.82367
+2019-06-10 23:54:57
+Epoch-31 Train Loss: Action - 0.41449, StartEnd - 0.38757
+Epoch-31 Val   Loss: Action - 0.70016, StartEnd - 0.70666
+2019-06-10 23:56:02
+Epoch-32 Train Loss: Action - 0.41744, StartEnd - 0.39402
+Epoch-32 Val   Loss: Action - 0.76452, StartEnd - 0.75263
+2019-06-10 23:57:08
+Epoch-33 Train Loss: Action - 0.41619, StartEnd - 0.39018
+Epoch-33 Val   Loss: Action - 0.95867, StartEnd - 0.85007
+2019-06-10 23:58:14
+Epoch-34 Train Loss: Action - 0.41532, StartEnd - 0.39530
+Epoch-34 Val   Loss: Action - 0.70287, StartEnd - 0.69101
+2019-06-10 23:59:21
+Epoch-35 Train Loss: Action - 0.41766, StartEnd - 0.40142
+Epoch-35 Val   Loss: Action - 0.74208, StartEnd - 0.80830
+2019-06-11 00:00:26
+Epoch-36 Train Loss: Action - 0.41709, StartEnd - 0.39849
+Epoch-36 Val   Loss: Action - 0.65387, StartEnd - 0.72628
+2019-06-11 00:01:32
+Epoch-37 Train Loss: Action - 0.41730, StartEnd - 0.39412
+Epoch-37 Val   Loss: Action - 0.70658, StartEnd - 0.66990
+2019-06-11 00:02:37
+Epoch-38 Train Loss: Action - 0.42448, StartEnd - 0.40712
+Epoch-38 Val   Loss: Action - 1.31815, StartEnd - 1.17295
+2019-06-11 00:03:42
+Epoch-39 Train Loss: Action - 0.42414, StartEnd - 0.40595
+Epoch-39 Val   Loss: Action - 0.63854, StartEnd - 0.82955
+2019-06-11 00:04:48
+Epoch-40 Train Loss: Action - 0.42199, StartEnd - 0.40359
+Epoch-40 Val   Loss: Action - 0.65376, StartEnd - 0.69478
+2019-06-11 00:05:54
+Epoch-41 Train Loss: Action - 0.42906, StartEnd - 0.40992
+Epoch-41 Val   Loss: Action - 0.64850, StartEnd - 0.69060
+2019-06-11 00:07:00
+Epoch-42 Train Loss: Action - 0.43089, StartEnd - 0.41343
+Epoch-42 Val   Loss: Action - 0.68299, StartEnd - 0.68629
+2019-06-11 00:08:05
+Epoch-43 Train Loss: Action - 0.42501, StartEnd - 0.40537
+Epoch-43 Val   Loss: Action - 0.67684, StartEnd - 0.71837
+2019-06-11 00:09:11
+Epoch-44 Train Loss: Action - 0.42794, StartEnd - 0.40340
+Epoch-44 Val   Loss: Action - 0.67843, StartEnd - 0.73385
+2019-06-11 00:10:16
+Epoch-45 Train Loss: Action - 0.42615, StartEnd - 0.40486
+Epoch-45 Val   Loss: Action - 0.65219, StartEnd - 0.71079
+2019-06-11 00:11:22
+Epoch-46 Train Loss: Action - 0.43295, StartEnd - 0.41516
+Epoch-46 Val   Loss: Action - 0.77817, StartEnd - 0.73175
+2019-06-11 00:12:28
+Epoch-47 Train Loss: Action - 0.43233, StartEnd - 0.41464
+Epoch-47 Val   Loss: Action - 0.83218, StartEnd - 0.73554
+2019-06-11 00:13:34
+Epoch-48 Train Loss: Action - 0.43786, StartEnd - 0.41594
+Epoch-48 Val   Loss: Action - 0.66271, StartEnd - 0.68651
+2019-06-11 00:14:39
+Epoch-49 Train Loss: Action - 0.43059, StartEnd - 0.41298
+Epoch-49 Val   Loss: Action - 0.90955, StartEnd - 0.83362
+2019-06-11 00:15:45
+Epoch-50 Train Loss: Action - 0.49149, StartEnd - 0.48599
+Epoch-50 Val   Loss: Action - 0.66874, StartEnd - 0.67999
+2019-06-11 00:16:49
+Epoch-51 Train Loss: Action - 0.47218, StartEnd - 0.46660
+Epoch-51 Val   Loss: Action - 0.67561, StartEnd - 0.70619
+2019-06-11 00:17:55
+Epoch-52 Train Loss: Action - 0.47030, StartEnd - 0.46883
+Epoch-52 Val   Loss: Action - 0.70862, StartEnd - 0.71087
+2019-06-11 00:19:01
+Epoch-53 Train Loss: Action - 0.46587, StartEnd - 0.46494
+Epoch-53 Val   Loss: Action - 0.70305, StartEnd - 0.70723
+2019-06-11 00:20:07
+Epoch-54 Train Loss: Action - 0.45867, StartEnd - 0.45645
+Epoch-54 Val   Loss: Action - 0.72443, StartEnd - 0.74188
+2019-06-11 00:21:13
+Epoch-55 Train Loss: Action - 0.45776, StartEnd - 0.45401
+Epoch-55 Val   Loss: Action - 0.74156, StartEnd - 0.79793
+2019-06-11 00:22:18
+Epoch-56 Train Loss: Action - 0.45637, StartEnd - 0.44572
+Epoch-56 Val   Loss: Action - 0.69695, StartEnd - 0.81138
+2019-06-11 00:23:24
+Epoch-57 Train Loss: Action - 0.45523, StartEnd - 0.43959
+Epoch-57 Val   Loss: Action - 0.72089, StartEnd - 0.73907
+2019-06-11 00:24:30
+Epoch-58 Train Loss: Action - 0.44613, StartEnd - 0.43220
+Epoch-58 Val   Loss: Action - 0.71480, StartEnd - 0.73621
+2019-06-11 00:25:37
+Epoch-59 Train Loss: Action - 0.44253, StartEnd - 0.42615
+Epoch-59 Val   Loss: Action - 0.72589, StartEnd - 0.76036
+2019-06-11 00:26:41
+Epoch-60 Train Loss: Action - 0.44316, StartEnd - 0.42347
+Epoch-60 Val   Loss: Action - 0.65948, StartEnd - 0.78379
+2019-06-11 00:27:48
+Epoch-61 Train Loss: Action - 0.43698, StartEnd - 0.41849
+Epoch-61 Val   Loss: Action - 0.75775, StartEnd - 0.75746
+2019-06-11 00:28:53
+Epoch-62 Train Loss: Action - 0.43135, StartEnd - 0.40736
+Epoch-62 Val   Loss: Action - 0.64869, StartEnd - 0.68240
+2019-06-11 00:29:59
+Epoch-63 Train Loss: Action - 0.43053, StartEnd - 0.40618
+Epoch-63 Val   Loss: Action - 0.75290, StartEnd - 0.79787
+2019-06-11 00:31:06
+Epoch-64 Train Loss: Action - 0.42934, StartEnd - 0.40300
+Epoch-64 Val   Loss: Action - 0.69851, StartEnd - 0.77150
+2019-06-11 00:32:12
+Epoch-65 Train Loss: Action - 0.42175, StartEnd - 0.39353
+Epoch-65 Val   Loss: Action - 0.83817, StartEnd - 0.83700
+2019-06-11 00:33:18
+Epoch-66 Train Loss: Action - 0.41767, StartEnd - 0.38981
+Epoch-66 Val   Loss: Action - 0.66166, StartEnd - 0.78593
+2019-06-11 00:34:24
+Epoch-67 Train Loss: Action - 0.41291, StartEnd - 0.38703
+Epoch-67 Val   Loss: Action - 0.73179, StartEnd - 0.74460
+2019-06-11 00:35:30
+Epoch-68 Train Loss: Action - 0.40338, StartEnd - 0.37671
+Epoch-68 Val   Loss: Action - 0.66411, StartEnd - 0.78259
+2019-06-11 00:36:34
+Epoch-69 Train Loss: Action - 0.39840, StartEnd - 0.36978
+Epoch-69 Val   Loss: Action - 0.72140, StartEnd - 0.76931
+2019-06-11 00:37:40
+Epoch-70 Train Loss: Action - 0.39337, StartEnd - 0.36383
+Epoch-70 Val   Loss: Action - 0.70795, StartEnd - 0.75385
+2019-06-11 00:38:47
+Epoch-71 Train Loss: Action - 0.39020, StartEnd - 0.35847
+Epoch-71 Val   Loss: Action - 0.68085, StartEnd - 0.79012
+2019-06-11 00:39:53
+Epoch-72 Train Loss: Action - 0.38936, StartEnd - 0.35572
+Epoch-72 Val   Loss: Action - 0.67165, StartEnd - 0.79347
+2019-06-11 00:40:58
+Epoch-73 Train Loss: Action - 0.38003, StartEnd - 0.34949
+Epoch-73 Val   Loss: Action - 0.68933, StartEnd - 0.85645
+2019-06-11 00:42:05
+Epoch-74 Train Loss: Action - 0.37662, StartEnd - 0.34672
+Epoch-74 Val   Loss: Action - 0.73170, StartEnd - 0.83430
+2019-06-11 00:43:11
+Epoch-75 Train Loss: Action - 0.37424, StartEnd - 0.34265
+Epoch-75 Val   Loss: Action - 0.73726, StartEnd - 0.97049
+2019-06-11 00:44:16
+Epoch-76 Train Loss: Action - 0.37146, StartEnd - 0.33940
+Epoch-76 Val   Loss: Action - 0.68465, StartEnd - 0.81566
+2019-06-11 00:45:23
+Epoch-77 Train Loss: Action - 0.36215, StartEnd - 0.33039
+Epoch-77 Val   Loss: Action - 0.67325, StartEnd - 0.83917
+2019-06-11 00:46:27
+Epoch-78 Train Loss: Action - 0.36161, StartEnd - 0.32833
+Epoch-78 Val   Loss: Action - 0.78889, StartEnd - 0.83059
+2019-06-11 00:47:33
+Epoch-79 Train Loss: Action - 0.36086, StartEnd - 0.32637
+Epoch-79 Val   Loss: Action - 0.73220, StartEnd - 0.93104
+2019-06-11 00:48:39
+Epoch-80 Train Loss: Action - 0.35420, StartEnd - 0.32081
+Epoch-80 Val   Loss: Action - 0.80164, StartEnd - 0.93081
+2019-06-11 00:49:45
+Epoch-81 Train Loss: Action - 0.35156, StartEnd - 0.31751
+Epoch-81 Val   Loss: Action - 0.71209, StartEnd - 0.92205
+2019-06-11 00:50:51
+Epoch-82 Train Loss: Action - 0.34773, StartEnd - 0.31223
+Epoch-82 Val   Loss: Action - 0.80237, StartEnd - 0.86163
+2019-06-11 00:51:57
+Epoch-83 Train Loss: Action - 0.34289, StartEnd - 0.30815
+Epoch-83 Val   Loss: Action - 0.72061, StartEnd - 0.96580
+2019-06-11 00:53:03
+Epoch-84 Train Loss: Action - 0.34121, StartEnd - 0.30863
+Epoch-84 Val   Loss: Action - 0.83374, StartEnd - 0.92600
+2019-06-11 00:54:09
+Epoch-85 Train Loss: Action - 0.33461, StartEnd - 0.30211
+Epoch-85 Val   Loss: Action - 0.78214, StartEnd - 0.86857
+2019-06-11 00:55:15
+Epoch-86 Train Loss: Action - 0.33416, StartEnd - 0.30274
+Epoch-86 Val   Loss: Action - 0.84449, StartEnd - 0.89928
+2019-06-11 00:56:21
+Epoch-87 Train Loss: Action - 0.33034, StartEnd - 0.29765
+Epoch-87 Val   Loss: Action - 0.70839, StartEnd - 0.95324
+2019-06-11 00:57:26
+Epoch-88 Train Loss: Action - 0.32449, StartEnd - 0.29250
+Epoch-88 Val   Loss: Action - 0.70923, StartEnd - 1.00097
+2019-06-11 00:58:31
+Epoch-89 Train Loss: Action - 0.31979, StartEnd - 0.28755
+Epoch-89 Val   Loss: Action - 0.64690, StartEnd - 0.96453
+2019-06-11 00:59:37
+Epoch-90 Train Loss: Action - 0.31740, StartEnd - 0.28530
+Epoch-90 Val   Loss: Action - 0.69269, StartEnd - 1.05542
+2019-06-11 01:00:43
+Epoch-91 Train Loss: Action - 0.31640, StartEnd - 0.28618
+Epoch-91 Val   Loss: Action - 0.77062, StartEnd - 0.97747
+2019-06-11 01:01:48
+Epoch-92 Train Loss: Action - 0.31194, StartEnd - 0.27922
+Epoch-92 Val   Loss: Action - 0.70273, StartEnd - 0.88982
+2019-06-11 01:02:54
+Epoch-93 Train Loss: Action - 0.30685, StartEnd - 0.27711
+Epoch-93 Val   Loss: Action - 0.70578, StartEnd - 1.00125
+2019-06-11 01:04:00
+Epoch-94 Train Loss: Action - 0.30431, StartEnd - 0.27515
+Epoch-94 Val   Loss: Action - 0.79558, StartEnd - 0.90306
+2019-06-11 01:05:05
+Epoch-95 Train Loss: Action - 0.30065, StartEnd - 0.27147
+Epoch-95 Val   Loss: Action - 0.75989, StartEnd - 0.96189
+2019-06-11 01:06:11
+Epoch-96 Train Loss: Action - 0.29815, StartEnd - 0.26886
+Epoch-96 Val   Loss: Action - 0.81384, StartEnd - 0.96016
+2019-06-11 01:07:16
+Epoch-97 Train Loss: Action - 0.29495, StartEnd - 0.26497
+Epoch-97 Val   Loss: Action - 0.86534, StartEnd - 1.08281
+2019-06-11 01:08:21
+Epoch-98 Train Loss: Action - 0.29293, StartEnd - 0.26359
+Epoch-98 Val   Loss: Action - 0.76928, StartEnd - 0.83403
+2019-06-11 01:09:27
+Epoch-99 Train Loss: Action - 0.28976, StartEnd - 0.26319
+Epoch-99 Val   Loss: Action - 0.77489, StartEnd - 0.82518
+2019-06-11 01:10:33
+Epoch-100 Train Loss: Action - 0.28831, StartEnd - 0.26176
+Epoch-100 Val   Loss: Action - 0.94024, StartEnd - 1.05329
+2019-06-11 01:11:39
+Epoch-101 Train Loss: Action - 0.28487, StartEnd - 0.25613
+Epoch-101 Val   Loss: Action - 0.84451, StartEnd - 1.11428
+2019-06-11 01:12:45
+Epoch-102 Train Loss: Action - 0.28200, StartEnd - 0.25654
+Epoch-102 Val   Loss: Action - 0.81632, StartEnd - 0.99928
+2019-06-11 01:13:51
+Epoch-103 Train Loss: Action - 0.28212, StartEnd - 0.25279
+Epoch-103 Val   Loss: Action - 0.92860, StartEnd - 1.05175
+2019-06-11 01:14:57
+Epoch-104 Train Loss: Action - 0.27448, StartEnd - 0.24974
+Epoch-104 Val   Loss: Action - 0.84846, StartEnd - 1.13201
+2019-06-11 01:16:03
+Epoch-105 Train Loss: Action - 0.27744, StartEnd - 0.25052
+Epoch-105 Val   Loss: Action - 0.86366, StartEnd - 1.09788
+2019-06-11 01:17:07
+Epoch-106 Train Loss: Action - 0.27292, StartEnd - 0.24839
+Epoch-106 Val   Loss: Action - 1.04791, StartEnd - 1.06134
+2019-06-11 01:18:13
+Epoch-107 Train Loss: Action - 0.26809, StartEnd - 0.24530
+Epoch-107 Val   Loss: Action - 0.92967, StartEnd - 1.00826
+2019-06-11 01:19:19
+Epoch-108 Train Loss: Action - 0.26818, StartEnd - 0.24579
+Epoch-108 Val   Loss: Action - 0.83148, StartEnd - 1.12418
+2019-06-11 01:20:24
+Epoch-109 Train Loss: Action - 0.26577, StartEnd - 0.24216
+Epoch-109 Val   Loss: Action - 0.88095, StartEnd - 1.15024
+2019-06-11 01:21:30
+Epoch-110 Train Loss: Action - 0.26506, StartEnd - 0.24118
+Epoch-110 Val   Loss: Action - 0.83586, StartEnd - 1.07046
+2019-06-11 01:22:35
+Epoch-111 Train Loss: Action - 0.26845, StartEnd - 0.24399
+Epoch-111 Val   Loss: Action - 0.97670, StartEnd - 1.00698
+2019-06-11 01:23:41
+Epoch-112 Train Loss: Action - 0.26314, StartEnd - 0.24143
+Epoch-112 Val   Loss: Action - 0.87842, StartEnd - 1.00627
+2019-06-11 01:24:47
+Epoch-113 Train Loss: Action - 0.26330, StartEnd - 0.23817
+Epoch-113 Val   Loss: Action - 0.79080, StartEnd - 0.85721
+2019-06-11 01:25:53
+Epoch-114 Train Loss: Action - 0.26193, StartEnd - 0.23856
+Epoch-114 Val   Loss: Action - 0.86993, StartEnd - 0.94086
+2019-06-11 01:26:57
+Epoch-115 Train Loss: Action - 0.26154, StartEnd - 0.23786
+Epoch-115 Val   Loss: Action - 0.72368, StartEnd - 0.95372
+2019-06-11 01:28:03
+Epoch-116 Train Loss: Action - 0.25984, StartEnd - 0.23632
+Epoch-116 Val   Loss: Action - 0.72575, StartEnd - 1.05178
+2019-06-11 01:29:08
+Epoch-117 Train Loss: Action - 0.25738, StartEnd - 0.23538
+Epoch-117 Val   Loss: Action - 0.74387, StartEnd - 0.99030
+2019-06-11 01:30:14
+Epoch-118 Train Loss: Action - 0.25645, StartEnd - 0.23133
+Epoch-118 Val   Loss: Action - 0.75618, StartEnd - 1.10710
+2019-06-11 01:31:19
+Epoch-119 Train Loss: Action - 0.25722, StartEnd - 0.23323
+Epoch-119 Val   Loss: Action - 0.71111, StartEnd - 1.04260
+2019-06-11 01:32:25
+Epoch-120 Train Loss: Action - 0.25701, StartEnd - 0.23268
+Epoch-120 Val   Loss: Action - 0.68764, StartEnd - 1.13637
+2019-06-11 01:33:30
+Epoch-121 Train Loss: Action - 0.25418, StartEnd - 0.23076
+Epoch-121 Val   Loss: Action - 0.83740, StartEnd - 1.20005
+2019-06-11 01:34:37
+Epoch-122 Train Loss: Action - 0.25333, StartEnd - 0.22887
+Epoch-122 Val   Loss: Action - 0.70700, StartEnd - 1.10418
+2019-06-11 01:35:42
+Epoch-123 Train Loss: Action - 0.25228, StartEnd - 0.22710
+Epoch-123 Val   Loss: Action - 0.73445, StartEnd - 1.07944
+2019-06-11 01:36:48
+Epoch-124 Train Loss: Action - 0.25210, StartEnd - 0.22687
+Epoch-124 Val   Loss: Action - 0.86708, StartEnd - 1.20215
+2019-06-11 01:37:52
+Epoch-125 Train Loss: Action - 0.24992, StartEnd - 0.22534
+Epoch-125 Val   Loss: Action - 0.67146, StartEnd - 1.06266
+2019-06-11 01:38:58
+Epoch-126 Train Loss: Action - 0.24833, StartEnd - 0.22363
+Epoch-126 Val   Loss: Action - 0.73818, StartEnd - 1.11714
+2019-06-11 01:40:03
+Epoch-127 Train Loss: Action - 0.24497, StartEnd - 0.22202
+Epoch-127 Val   Loss: Action - 0.85764, StartEnd - 1.26841
+2019-06-11 01:41:09
+Epoch-128 Train Loss: Action - 0.24777, StartEnd - 0.22326
+Epoch-128 Val   Loss: Action - 0.82492, StartEnd - 1.16736
+2019-06-11 01:42:15
+Epoch-129 Train Loss: Action - 0.24637, StartEnd - 0.22115
+Epoch-129 Val   Loss: Action - 0.66419, StartEnd - 1.18177
+2019-06-11 01:43:20
+Epoch-130 Train Loss: Action - 0.24276, StartEnd - 0.21862
+Epoch-130 Val   Loss: Action - 0.72838, StartEnd - 1.14857
+2019-06-11 01:44:27
+Epoch-131 Train Loss: Action - 0.24430, StartEnd - 0.21828
+Epoch-131 Val   Loss: Action - 0.73844, StartEnd - 1.27719
+2019-06-11 01:45:33
+Epoch-132 Train Loss: Action - 0.24151, StartEnd - 0.21667
+Epoch-132 Val   Loss: Action - 0.83982, StartEnd - 1.32651
+2019-06-11 01:46:38
+Epoch-133 Train Loss: Action - 0.24346, StartEnd - 0.21884
+Epoch-133 Val   Loss: Action - 0.77702, StartEnd - 1.26305
+2019-06-11 01:47:43
+Epoch-134 Train Loss: Action - 0.24183, StartEnd - 0.21522
+Epoch-134 Val   Loss: Action - 0.83951, StartEnd - 1.25138
+2019-06-11 01:48:48
+Epoch-135 Train Loss: Action - 0.24014, StartEnd - 0.21670
+Epoch-135 Val   Loss: Action - 0.84188, StartEnd - 1.18699
+2019-06-11 01:49:54
+Epoch-136 Train Loss: Action - 0.24145, StartEnd - 0.21510
+Epoch-136 Val   Loss: Action - 0.95343, StartEnd - 1.23958
+2019-06-11 01:51:00
+Epoch-137 Train Loss: Action - 0.24337, StartEnd - 0.21839
+Epoch-137 Val   Loss: Action - 0.73570, StartEnd - 1.26100
+2019-06-11 01:52:05
+Epoch-138 Train Loss: Action - 0.24165, StartEnd - 0.21654
+Epoch-138 Val   Loss: Action - 0.84486, StartEnd - 1.31698
+2019-06-11 01:53:11
+Epoch-139 Train Loss: Action - 0.24048, StartEnd - 0.21529
+Epoch-139 Val   Loss: Action - 0.88284, StartEnd - 1.35835
+2019-06-11 01:54:17
+Epoch-140 Train Loss: Action - 0.24045, StartEnd - 0.21573
+Epoch-140 Val   Loss: Action - 0.82201, StartEnd - 1.12057
+2019-06-11 01:55:23
+Epoch-141 Train Loss: Action - 0.24138, StartEnd - 0.21532
+Epoch-141 Val   Loss: Action - 0.88060, StartEnd - 1.23641
+2019-06-11 01:56:30
+Epoch-142 Train Loss: Action - 0.23988, StartEnd - 0.21404
+Epoch-142 Val   Loss: Action - 0.72826, StartEnd - 1.25070
+2019-06-11 01:57:36
+Epoch-143 Train Loss: Action - 0.23808, StartEnd - 0.21154
+Epoch-143 Val   Loss: Action - 0.78156, StartEnd - 1.16146
+2019-06-11 01:58:41
+Epoch-144 Train Loss: Action - 0.24038, StartEnd - 0.21402
+Epoch-144 Val   Loss: Action - 0.84425, StartEnd - 1.21955
+2019-06-11 01:59:47
+Epoch-145 Train Loss: Action - 0.24133, StartEnd - 0.21593
+Epoch-145 Val   Loss: Action - 0.74920, StartEnd - 1.19112
+2019-06-11 02:00:53
+Epoch-146 Train Loss: Action - 0.23933, StartEnd - 0.21269
+Epoch-146 Val   Loss: Action - 0.86809, StartEnd - 1.16611
+2019-06-11 02:01:59
+Epoch-147 Train Loss: Action - 0.23824, StartEnd - 0.21160
+Epoch-147 Val   Loss: Action - 0.90249, StartEnd - 1.21127
+2019-06-11 02:03:05
+Epoch-148 Train Loss: Action - 0.23892, StartEnd - 0.21226
+Epoch-148 Val   Loss: Action - 0.82229, StartEnd - 1.02589
+2019-06-11 02:04:10
+Epoch-149 Train Loss: Action - 0.24095, StartEnd - 0.21629
+Epoch-149 Val   Loss: Action - 0.87876, StartEnd - 1.18519
+2019-06-11 02:05:17
+Epoch-150 Train Loss: Action - 0.23610, StartEnd - 0.21152
+Epoch-150 Val   Loss: Action - 0.84397, StartEnd - 1.09543
+2019-06-11 02:06:22
+Epoch-151 Train Loss: Action - 0.23552, StartEnd - 0.21168
+Epoch-151 Val   Loss: Action - 0.93237, StartEnd - 1.09635
+2019-06-11 02:07:29
+Epoch-152 Train Loss: Action - 0.23468, StartEnd - 0.20968
+Epoch-152 Val   Loss: Action - 0.70582, StartEnd - 1.16557
+2019-06-11 02:08:34
+Epoch-153 Train Loss: Action - 0.23584, StartEnd - 0.21109
+Epoch-153 Val   Loss: Action - 0.87526, StartEnd - 1.08742
+2019-06-11 02:09:41
+Epoch-154 Train Loss: Action - 0.23296, StartEnd - 0.20725
+Epoch-154 Val   Loss: Action - 0.74284, StartEnd - 1.32805
+2019-06-11 02:10:46
+Epoch-155 Train Loss: Action - 0.23356, StartEnd - 0.20738
+Epoch-155 Val   Loss: Action - 0.94890, StartEnd - 1.24993
+2019-06-11 02:11:53
+Epoch-156 Train Loss: Action - 0.23274, StartEnd - 0.20768
+Epoch-156 Val   Loss: Action - 1.01332, StartEnd - 1.22581
+2019-06-11 02:12:58
+Epoch-157 Train Loss: Action - 0.23128, StartEnd - 0.20422
+Epoch-157 Val   Loss: Action - 0.91834, StartEnd - 1.26607
+2019-06-11 02:14:04
+Epoch-158 Train Loss: Action - 0.23013, StartEnd - 0.20431
+Epoch-158 Val   Loss: Action - 0.86228, StartEnd - 1.19655
+2019-06-11 02:15:10
+Epoch-159 Train Loss: Action - 0.23283, StartEnd - 0.20519
+Epoch-159 Val   Loss: Action - 0.92079, StartEnd - 1.22083
+2019-06-11 02:16:16
+Epoch-160 Train Loss: Action - 0.22932, StartEnd - 0.20286
+Epoch-160 Val   Loss: Action - 0.97085, StartEnd - 1.17330
+2019-06-11 02:17:23
+Epoch-161 Train Loss: Action - 0.23218, StartEnd - 0.20602
+Epoch-161 Val   Loss: Action - 0.89630, StartEnd - 1.19273
+2019-06-11 02:18:27
+Epoch-162 Train Loss: Action - 0.22672, StartEnd - 0.20150
+Epoch-162 Val   Loss: Action - 0.95413, StartEnd - 1.23931
+2019-06-11 02:19:33
+Epoch-163 Train Loss: Action - 0.22953, StartEnd - 0.20339
+Epoch-163 Val   Loss: Action - 0.93990, StartEnd - 1.24456
+2019-06-11 02:20:39
+Epoch-164 Train Loss: Action - 0.22870, StartEnd - 0.20309
+Epoch-164 Val   Loss: Action - 0.86166, StartEnd - 1.02228
+2019-06-11 02:21:45
+Epoch-165 Train Loss: Action - 0.22899, StartEnd - 0.20525
+Epoch-165 Val   Loss: Action - 1.00747, StartEnd - 1.14622
+2019-06-11 02:22:51
+Epoch-166 Train Loss: Action - 0.22673, StartEnd - 0.20224
+Epoch-166 Val   Loss: Action - 0.87612, StartEnd - 1.17820
+2019-06-11 02:23:57
+Epoch-167 Train Loss: Action - 0.22903, StartEnd - 0.20286
+Epoch-167 Val   Loss: Action - 0.89197, StartEnd - 1.17241
+2019-06-11 02:25:03
+Epoch-168 Train Loss: Action - 0.22905, StartEnd - 0.20329
+Epoch-168 Val   Loss: Action - 0.88083, StartEnd - 1.13459
+2019-06-11 02:26:09
+Epoch-169 Train Loss: Action - 0.22710, StartEnd - 0.20282
+Epoch-169 Val   Loss: Action - 0.98338, StartEnd - 1.21370
+2019-06-11 02:27:15
+Epoch-170 Train Loss: Action - 0.22984, StartEnd - 0.20495
+Epoch-170 Val   Loss: Action - 0.87214, StartEnd - 1.13087
+2019-06-11 02:28:20
+Epoch-171 Train Loss: Action - 0.22948, StartEnd - 0.20448
+Epoch-171 Val   Loss: Action - 0.91417, StartEnd - 1.24431
+2019-06-11 02:29:26
+Epoch-172 Train Loss: Action - 0.22814, StartEnd - 0.20251
+Epoch-172 Val   Loss: Action - 0.77930, StartEnd - 1.10884
+2019-06-11 02:30:32
+Epoch-173 Train Loss: Action - 0.22991, StartEnd - 0.20387
+Epoch-173 Val   Loss: Action - 0.84358, StartEnd - 1.19108
+2019-06-11 02:31:38
+Epoch-174 Train Loss: Action - 0.22857, StartEnd - 0.20352
+Epoch-174 Val   Loss: Action - 1.09635, StartEnd - 1.22099
+2019-06-11 02:32:43
+Epoch-175 Train Loss: Action - 0.22896, StartEnd - 0.20283
+Epoch-175 Val   Loss: Action - 0.98493, StartEnd - 1.08651
+2019-06-11 02:33:49
+Epoch-176 Train Loss: Action - 0.22545, StartEnd - 0.20096
+Epoch-176 Val   Loss: Action - 1.01431, StartEnd - 1.19701
+2019-06-11 02:34:54
+Epoch-177 Train Loss: Action - 0.22706, StartEnd - 0.20227
+Epoch-177 Val   Loss: Action - 0.80890, StartEnd - 1.13003
+2019-06-11 02:36:00
+Epoch-178 Train Loss: Action - 0.22755, StartEnd - 0.20248
+Epoch-178 Val   Loss: Action - 0.90507, StartEnd - 1.22771
+2019-06-11 02:37:06
+Epoch-179 Train Loss: Action - 0.22699, StartEnd - 0.20004
+Epoch-179 Val   Loss: Action - 0.97913, StartEnd - 1.22656
+2019-06-11 02:38:12
+Epoch-180 Train Loss: Action - 0.22899, StartEnd - 0.20243
+Epoch-180 Val   Loss: Action - 0.84484, StartEnd - 1.02374
+2019-06-11 02:39:18
+Epoch-181 Train Loss: Action - 0.22749, StartEnd - 0.20104
+Epoch-181 Val   Loss: Action - 0.80810, StartEnd - 1.15368
+2019-06-11 02:40:24
+Epoch-182 Train Loss: Action - 0.23026, StartEnd - 0.20059
+Epoch-182 Val   Loss: Action - 0.82240, StartEnd - 1.12524
+2019-06-11 02:41:30
+Epoch-183 Train Loss: Action - 0.23127, StartEnd - 0.20275
+Epoch-183 Val   Loss: Action - 0.93964, StartEnd - 1.18784
+2019-06-11 02:42:35
+Epoch-184 Train Loss: Action - 0.23021, StartEnd - 0.20410
+Epoch-184 Val   Loss: Action - 0.97138, StartEnd - 1.12673
+2019-06-11 02:43:41
+Epoch-185 Train Loss: Action - 0.22929, StartEnd - 0.20375
+Epoch-185 Val   Loss: Action - 0.77010, StartEnd - 1.15525
+2019-06-11 02:44:47
+Epoch-186 Train Loss: Action - 0.22989, StartEnd - 0.20260
+Epoch-186 Val   Loss: Action - 0.94186, StartEnd - 1.14310
+2019-06-11 02:45:52
+Epoch-187 Train Loss: Action - 0.23007, StartEnd - 0.20530
+Epoch-187 Val   Loss: Action - 1.04933, StartEnd - 1.29333
+2019-06-11 02:46:58
+Epoch-188 Train Loss: Action - 0.22673, StartEnd - 0.20075
+Epoch-188 Val   Loss: Action - 0.97846, StartEnd - 1.21508
+2019-06-11 02:48:04
+Epoch-189 Train Loss: Action - 0.22952, StartEnd - 0.20394
+Epoch-189 Val   Loss: Action - 0.96831, StartEnd - 1.21750
+2019-06-11 02:49:10
+Epoch-190 Train Loss: Action - 0.22913, StartEnd - 0.20293
+Epoch-190 Val   Loss: Action - 0.91341, StartEnd - 1.20624
+2019-06-11 02:50:16
+Epoch-191 Train Loss: Action - 0.22588, StartEnd - 0.20090
+Epoch-191 Val   Loss: Action - 0.98749, StartEnd - 1.11726
+2019-06-11 02:51:22
+Epoch-192 Train Loss: Action - 0.22775, StartEnd - 0.20537
+Epoch-192 Val   Loss: Action - 1.04433, StartEnd - 1.16984
+2019-06-11 02:52:26
+Epoch-193 Train Loss: Action - 0.22920, StartEnd - 0.20456
+Epoch-193 Val   Loss: Action - 1.08923, StartEnd - 1.15887
+2019-06-11 02:53:32
+Epoch-194 Train Loss: Action - 0.22887, StartEnd - 0.20431
+Epoch-194 Val   Loss: Action - 1.23492, StartEnd - 1.25015
+2019-06-11 02:54:38
+Epoch-195 Train Loss: Action - 0.22791, StartEnd - 0.20278
+Epoch-195 Val   Loss: Action - 1.03315, StartEnd - 1.12761
+2019-06-11 02:55:45
+Epoch-196 Train Loss: Action - 0.22614, StartEnd - 0.20147
+Epoch-196 Val   Loss: Action - 0.99205, StartEnd - 1.27135
+2019-06-11 02:56:51
+Epoch-197 Train Loss: Action - 0.22882, StartEnd - 0.20451
+Epoch-197 Val   Loss: Action - 0.98237, StartEnd - 1.14514
+2019-06-11 02:57:56
+Epoch-198 Train Loss: Action - 0.22690, StartEnd - 0.20100
+Epoch-198 Val   Loss: Action - 1.07703, StartEnd - 1.22897
+2019-06-11 02:59:02
+Epoch-199 Train Loss: Action - 0.22702, StartEnd - 0.20315
+Epoch-199 Val   Loss: Action - 1.00531, StartEnd - 1.13490

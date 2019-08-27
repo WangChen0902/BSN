@@ -1,0 +1,5 @@
+31 140 160 ./result/主队/任意球/False/ 1
+27 225 64 ./result/主队/拦截/False/ 3
+10 245 80 ./result/主队/传中/False/ 3
+18 410 70 ./result/主队/射门/True/ 2
+27 430 64 ./result/主队/拦截/False/ 3

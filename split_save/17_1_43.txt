@@ -1,0 +1,7 @@
+33 0 180 ./result/客队/角球/True/ 0
+5 285 60 ./result/主队/传球/False/ 3
+5 345 120 ./result/主队/传球/False/ 3
+5 641 60 ./result/主队/传球/False/ 3
+5 762 60 ./result/主队/传球/False/ 3
+5 822 60 ./result/主队/传球/True/ 3
+0 832 70 ./result/客队/射门/True/ 2

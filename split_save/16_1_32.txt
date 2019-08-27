@@ -1,0 +1,3 @@
+33 138 180 ./result/主队/角球/False/ 0
+0 208 70 ./result/客队/射门/True/ 2
+18 208 70 ./result/客队/射门/True/ 2

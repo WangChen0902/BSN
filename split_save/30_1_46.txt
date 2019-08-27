@@ -1,0 +1,5 @@
+31 265 160 ./result/主队/任意球/False/ 1
+5 525 60 ./result/主队/传球/False/ 3
+5 645 60 ./result/主队/传球/False/ 3
+5 764 60 ./result/主队/传球/False/ 3
+27 860 64 ./result/主队/拦截/False/ 3

@@ -1,0 +1,9 @@
+5 0 60 ./result/主队/传球/True/ 3
+27 51 64 ./result/主队/拦截/False/ 3
+5 51 60 ./result/主队/传球/False/ 3
+27 51 64 ./result/主队/拦截/False/ 3
+5 63 60 ./result/主队/传球/False/ 3
+5 123 60 ./result/主队/传球/False/ 3
+5 365 60 ./result/主队/传球/False/ 3
+27 535 64 ./result/主队/拦截/False/ 3
+19 535 70 ./result/主队/断球/False/ 4

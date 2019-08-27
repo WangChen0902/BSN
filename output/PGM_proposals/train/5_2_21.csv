@@ -1,0 +1,2 @@
+xmin,xmax,xmin_score,xmax_score,score,match_iou,match_ioa
+0.005,0.045,1.0,1.0,1.0,0.7777777777777779,0.8750000000000001

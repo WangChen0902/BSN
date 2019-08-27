@@ -1,0 +1,3 @@
+33 42 180 ./result/客队/角球/True/ 0
+19 152 70 ./result/客队/断球/True/ 4
+1 152 70 ./result/主队/射门/True/ 2

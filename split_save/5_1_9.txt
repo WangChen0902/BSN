@@ -1,0 +1,12 @@
+5 275 60 ./result/主队/传球/False/ 3
+5 335 60 ./result/主队/传球/False/ 3
+27 594 64 ./result/客队/拦截/False/ 3
+5 634 121 ./result/主队/传球/False/ 3
+27 735 64 ./result/主队/拦截/False/ 3
+5 754 60 ./result/主队/传球/False/ 3
+5 814 60 ./result/主队/传球/False/ 3
+5 935 120 ./result/主队/传球/False/ 3
+27 1034 64 ./result/主队/拦截/False/ 3
+18 1065 70 ./result/客队/射门/True/ 2
+5 1114 120 ./result/主队/传球/False/ 3
+22 1212 100 ./result/客队/犯规/ 6

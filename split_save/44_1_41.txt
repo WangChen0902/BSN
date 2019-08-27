@@ -1,0 +1,9 @@
+31 57 160 ./result/主队/任意球/False/ 1
+27 102 64 ./result/主队/拦截/False/ 3
+5 137 60 ./result/主队/传球/False/ 3
+27 206 64 ./result/主队/拦截/False/ 3
+27 286 64 ./result/主队/拦截/False/ 3
+5 310 60 ./result/主队/传球/False/ 3
+5 421 60 ./result/主队/传球/False/ 3
+19 451 70 ./result/客队/断球/False/ 4
+5 485 60 ./result/主队/传球/False/ 3

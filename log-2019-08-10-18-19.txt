@@ -1,0 +1,6004 @@
+learning_rates: [0.003]*2000 
+epoch: 2000
+batch_size: 16
+==============loss================
+2019-08-10 18:19:22
+Epoch-0 Train Loss - 0.32203
+Epoch-0 Val   Loss - 0.29693
+2019-08-10 18:19:29
+Epoch-1 Train Loss - 0.27640
+Epoch-1 Val   Loss - 0.26163
+2019-08-10 18:19:35
+Epoch-2 Train Loss - 0.25783
+Epoch-2 Val   Loss - 0.25047
+2019-08-10 18:19:42
+Epoch-3 Train Loss - 0.25156
+Epoch-3 Val   Loss - 0.24766
+2019-08-10 18:19:48
+Epoch-4 Train Loss - 0.24727
+Epoch-4 Val   Loss - 0.24324
+2019-08-10 18:19:54
+Epoch-5 Train Loss - 0.24453
+Epoch-5 Val   Loss - 0.24101
+2019-08-10 18:20:01
+Epoch-6 Train Loss - 0.24263
+Epoch-6 Val   Loss - 0.23644
+2019-08-10 18:20:07
+Epoch-7 Train Loss - 0.24140
+Epoch-7 Val   Loss - 0.23512
+2019-08-10 18:20:13
+Epoch-8 Train Loss - 0.24040
+Epoch-8 Val   Loss - 0.23421
+2019-08-10 18:20:20
+Epoch-9 Train Loss - 0.23824
+Epoch-9 Val   Loss - 0.23361
+2019-08-10 18:20:26
+Epoch-10 Train Loss - 0.23645
+Epoch-10 Val   Loss - 0.23217
+2019-08-10 18:20:33
+Epoch-11 Train Loss - 0.23384
+Epoch-11 Val   Loss - 0.23174
+2019-08-10 18:20:39
+Epoch-12 Train Loss - 0.23185
+Epoch-12 Val   Loss - 0.23087
+2019-08-10 18:20:46
+Epoch-13 Train Loss - 0.23096
+Epoch-13 Val   Loss - 0.23009
+2019-08-10 18:20:51
+Epoch-14 Train Loss - 0.22943
+Epoch-14 Val   Loss - 0.22995
+2019-08-10 18:20:57
+Epoch-15 Train Loss - 0.22832
+Epoch-15 Val   Loss - 0.22893
+2019-08-10 18:21:04
+Epoch-16 Train Loss - 0.22743
+Epoch-16 Val   Loss - 0.22698
+2019-08-10 18:21:10
+Epoch-17 Train Loss - 0.22643
+Epoch-17 Val   Loss - 0.22653
+2019-08-10 18:21:17
+Epoch-18 Train Loss - 0.22766
+Epoch-18 Val   Loss - 0.23154
+2019-08-10 18:21:23
+Epoch-19 Train Loss - 0.22769
+Epoch-19 Val   Loss - 0.23067
+2019-08-10 18:21:30
+Epoch-20 Train Loss - 0.22567
+Epoch-20 Val   Loss - 0.22696
+2019-08-10 18:21:36
+Epoch-21 Train Loss - 0.22690
+Epoch-21 Val   Loss - 0.22869
+2019-08-10 18:21:43
+Epoch-22 Train Loss - 0.22746
+Epoch-22 Val   Loss - 0.23009
+2019-08-10 18:21:49
+Epoch-23 Train Loss - 0.22531
+Epoch-23 Val   Loss - 0.22966
+2019-08-10 18:21:55
+Epoch-24 Train Loss - 0.22249
+Epoch-24 Val   Loss - 0.22781
+2019-08-10 18:22:02
+Epoch-25 Train Loss - 0.22155
+Epoch-25 Val   Loss - 0.22900
+2019-08-10 18:22:08
+Epoch-26 Train Loss - 0.22253
+Epoch-26 Val   Loss - 0.22735
+2019-08-10 18:22:14
+Epoch-27 Train Loss - 0.22279
+Epoch-27 Val   Loss - 0.22738
+2019-08-10 18:22:21
+Epoch-28 Train Loss - 0.22254
+Epoch-28 Val   Loss - 0.23205
+2019-08-10 18:22:27
+Epoch-29 Train Loss - 0.22465
+Epoch-29 Val   Loss - 0.23095
+2019-08-10 18:22:34
+Epoch-30 Train Loss - 0.22205
+Epoch-30 Val   Loss - 0.22740
+2019-08-10 18:22:40
+Epoch-31 Train Loss - 0.21884
+Epoch-31 Val   Loss - 0.22792
+2019-08-10 18:22:46
+Epoch-32 Train Loss - 0.21801
+Epoch-32 Val   Loss - 0.22805
+2019-08-10 18:22:52
+Epoch-33 Train Loss - 0.21699
+Epoch-33 Val   Loss - 0.22981
+2019-08-10 18:22:58
+Epoch-34 Train Loss - 0.21704
+Epoch-34 Val   Loss - 0.23072
+2019-08-10 18:23:05
+Epoch-35 Train Loss - 0.21773
+Epoch-35 Val   Loss - 0.22936
+2019-08-10 18:23:12
+Epoch-36 Train Loss - 0.21747
+Epoch-36 Val   Loss - 0.23399
+2019-08-10 18:23:18
+Epoch-37 Train Loss - 0.21670
+Epoch-37 Val   Loss - 0.23533
+2019-08-10 18:23:24
+Epoch-38 Train Loss - 0.21577
+Epoch-38 Val   Loss - 0.23794
+2019-08-10 18:23:30
+Epoch-39 Train Loss - 0.21562
+Epoch-39 Val   Loss - 0.23561
+2019-08-10 18:23:37
+Epoch-40 Train Loss - 0.21382
+Epoch-40 Val   Loss - 0.23809
+2019-08-10 18:23:43
+Epoch-41 Train Loss - 0.21424
+Epoch-41 Val   Loss - 0.23530
+2019-08-10 18:23:50
+Epoch-42 Train Loss - 0.21411
+Epoch-42 Val   Loss - 0.23840
+2019-08-10 18:23:56
+Epoch-43 Train Loss - 0.21429
+Epoch-43 Val   Loss - 0.23786
+2019-08-10 18:24:02
+Epoch-44 Train Loss - 0.21120
+Epoch-44 Val   Loss - 0.23358
+2019-08-10 18:24:08
+Epoch-45 Train Loss - 0.21131
+Epoch-45 Val   Loss - 0.23210
+2019-08-10 18:24:15
+Epoch-46 Train Loss - 0.20959
+Epoch-46 Val   Loss - 0.23407
+2019-08-10 18:24:21
+Epoch-47 Train Loss - 0.21148
+Epoch-47 Val   Loss - 0.23313
+2019-08-10 18:24:27
+Epoch-48 Train Loss - 0.21077
+Epoch-48 Val   Loss - 0.23638
+2019-08-10 18:24:34
+Epoch-49 Train Loss - 0.20731
+Epoch-49 Val   Loss - 0.23966
+2019-08-10 18:24:40
+Epoch-50 Train Loss - 0.20572
+Epoch-50 Val   Loss - 0.23988
+2019-08-10 18:24:47
+Epoch-51 Train Loss - 0.20505
+Epoch-51 Val   Loss - 0.24201
+2019-08-10 18:24:53
+Epoch-52 Train Loss - 0.20538
+Epoch-52 Val   Loss - 0.23660
+2019-08-10 18:24:59
+Epoch-53 Train Loss - 0.20371
+Epoch-53 Val   Loss - 0.23750
+2019-08-10 18:25:06
+Epoch-54 Train Loss - 0.20366
+Epoch-54 Val   Loss - 0.23652
+2019-08-10 18:25:12
+Epoch-55 Train Loss - 0.20473
+Epoch-55 Val   Loss - 0.23752
+2019-08-10 18:25:18
+Epoch-56 Train Loss - 0.20099
+Epoch-56 Val   Loss - 0.23864
+2019-08-10 18:25:25
+Epoch-57 Train Loss - 0.19918
+Epoch-57 Val   Loss - 0.24317
+2019-08-10 18:25:32
+Epoch-58 Train Loss - 0.19741
+Epoch-58 Val   Loss - 0.24477
+2019-08-10 18:25:38
+Epoch-59 Train Loss - 0.19621
+Epoch-59 Val   Loss - 0.24587
+2019-08-10 18:25:44
+Epoch-60 Train Loss - 0.19765
+Epoch-60 Val   Loss - 0.24192
+2019-08-10 18:25:51
+Epoch-61 Train Loss - 0.19760
+Epoch-61 Val   Loss - 0.24191
+2019-08-10 18:25:57
+Epoch-62 Train Loss - 0.19770
+Epoch-62 Val   Loss - 0.24602
+2019-08-10 18:26:03
+Epoch-63 Train Loss - 0.19844
+Epoch-63 Val   Loss - 0.24330
+2019-08-10 18:26:10
+Epoch-64 Train Loss - 0.19930
+Epoch-64 Val   Loss - 0.24334
+2019-08-10 18:26:16
+Epoch-65 Train Loss - 0.19592
+Epoch-65 Val   Loss - 0.24320
+2019-08-10 18:26:22
+Epoch-66 Train Loss - 0.19685
+Epoch-66 Val   Loss - 0.24355
+2019-08-10 18:26:29
+Epoch-67 Train Loss - 0.19623
+Epoch-67 Val   Loss - 0.23930
+2019-08-10 18:26:35
+Epoch-68 Train Loss - 0.19350
+Epoch-68 Val   Loss - 0.23795
+2019-08-10 18:26:41
+Epoch-69 Train Loss - 0.19184
+Epoch-69 Val   Loss - 0.24279
+2019-08-10 18:26:48
+Epoch-70 Train Loss - 0.19236
+Epoch-70 Val   Loss - 0.24598
+2019-08-10 18:26:54
+Epoch-71 Train Loss - 0.19380
+Epoch-71 Val   Loss - 0.24600
+2019-08-10 18:27:00
+Epoch-72 Train Loss - 0.19335
+Epoch-72 Val   Loss - 0.24252
+2019-08-10 18:27:07
+Epoch-73 Train Loss - 0.19257
+Epoch-73 Val   Loss - 0.24305
+2019-08-10 18:27:13
+Epoch-74 Train Loss - 0.19016
+Epoch-74 Val   Loss - 0.24246
+2019-08-10 18:27:20
+Epoch-75 Train Loss - 0.18935
+Epoch-75 Val   Loss - 0.23959
+2019-08-10 18:27:26
+Epoch-76 Train Loss - 0.18859
+Epoch-76 Val   Loss - 0.24300
+2019-08-10 18:27:32
+Epoch-77 Train Loss - 0.18920
+Epoch-77 Val   Loss - 0.24095
+2019-08-10 18:27:39
+Epoch-78 Train Loss - 0.18924
+Epoch-78 Val   Loss - 0.24154
+2019-08-10 18:27:45
+Epoch-79 Train Loss - 0.18999
+Epoch-79 Val   Loss - 0.24081
+2019-08-10 18:27:51
+Epoch-80 Train Loss - 0.19144
+Epoch-80 Val   Loss - 0.24641
+2019-08-10 18:27:57
+Epoch-81 Train Loss - 0.18822
+Epoch-81 Val   Loss - 0.24720
+2019-08-10 18:28:04
+Epoch-82 Train Loss - 0.18601
+Epoch-82 Val   Loss - 0.24462
+2019-08-10 18:28:10
+Epoch-83 Train Loss - 0.18542
+Epoch-83 Val   Loss - 0.25371
+2019-08-10 18:28:16
+Epoch-84 Train Loss - 0.18950
+Epoch-84 Val   Loss - 0.25593
+2019-08-10 18:28:23
+Epoch-85 Train Loss - 0.19192
+Epoch-85 Val   Loss - 0.25138
+2019-08-10 18:28:29
+Epoch-86 Train Loss - 0.19073
+Epoch-86 Val   Loss - 0.25896
+2019-08-10 18:28:35
+Epoch-87 Train Loss - 0.18989
+Epoch-87 Val   Loss - 0.25175
+2019-08-10 18:28:42
+Epoch-88 Train Loss - 0.18536
+Epoch-88 Val   Loss - 0.24852
+2019-08-10 18:28:48
+Epoch-89 Train Loss - 0.18252
+Epoch-89 Val   Loss - 0.24960
+2019-08-10 18:28:54
+Epoch-90 Train Loss - 0.18180
+Epoch-90 Val   Loss - 0.25025
+2019-08-10 18:29:01
+Epoch-91 Train Loss - 0.18121
+Epoch-91 Val   Loss - 0.25380
+2019-08-10 18:29:07
+Epoch-92 Train Loss - 0.18115
+Epoch-92 Val   Loss - 0.25099
+2019-08-10 18:29:13
+Epoch-93 Train Loss - 0.18245
+Epoch-93 Val   Loss - 0.25041
+2019-08-10 18:29:20
+Epoch-94 Train Loss - 0.18614
+Epoch-94 Val   Loss - 0.25532
+2019-08-10 18:29:26
+Epoch-95 Train Loss - 0.18696
+Epoch-95 Val   Loss - 0.24758
+2019-08-10 18:29:32
+Epoch-96 Train Loss - 0.18197
+Epoch-96 Val   Loss - 0.24785
+2019-08-10 18:29:39
+Epoch-97 Train Loss - 0.18000
+Epoch-97 Val   Loss - 0.25037
+2019-08-10 18:29:45
+Epoch-98 Train Loss - 0.18187
+Epoch-98 Val   Loss - 0.25708
+2019-08-10 18:29:51
+Epoch-99 Train Loss - 0.18567
+Epoch-99 Val   Loss - 0.26269
+2019-08-10 18:29:58
+Epoch-100 Train Loss - 0.18685
+Epoch-100 Val   Loss - 0.27035
+2019-08-10 18:30:04
+Epoch-101 Train Loss - 0.18852
+Epoch-101 Val   Loss - 0.26357
+2019-08-10 18:30:10
+Epoch-102 Train Loss - 0.19254
+Epoch-102 Val   Loss - 0.25808
+2019-08-10 18:30:17
+Epoch-103 Train Loss - 0.19344
+Epoch-103 Val   Loss - 0.25244
+2019-08-10 18:30:23
+Epoch-104 Train Loss - 0.18885
+Epoch-104 Val   Loss - 0.26797
+2019-08-10 18:30:30
+Epoch-105 Train Loss - 0.18676
+Epoch-105 Val   Loss - 0.26541
+2019-08-10 18:30:36
+Epoch-106 Train Loss - 0.19149
+Epoch-106 Val   Loss - 0.25043
+2019-08-10 18:30:42
+Epoch-107 Train Loss - 0.18388
+Epoch-107 Val   Loss - 0.25470
+2019-08-10 18:30:48
+Epoch-108 Train Loss - 0.18315
+Epoch-108 Val   Loss - 0.26428
+2019-08-10 18:30:55
+Epoch-109 Train Loss - 0.18502
+Epoch-109 Val   Loss - 0.27238
+2019-08-10 18:31:00
+Epoch-110 Train Loss - 0.18360
+Epoch-110 Val   Loss - 0.26242
+2019-08-10 18:31:06
+Epoch-111 Train Loss - 0.17926
+Epoch-111 Val   Loss - 0.26676
+2019-08-10 18:31:13
+Epoch-112 Train Loss - 0.17518
+Epoch-112 Val   Loss - 0.27338
+2019-08-10 18:31:19
+Epoch-113 Train Loss - 0.17631
+Epoch-113 Val   Loss - 0.26901
+2019-08-10 18:31:25
+Epoch-114 Train Loss - 0.17554
+Epoch-114 Val   Loss - 0.27538
+2019-08-10 18:31:31
+Epoch-115 Train Loss - 0.17434
+Epoch-115 Val   Loss - 0.27384
+2019-08-10 18:31:38
+Epoch-116 Train Loss - 0.17689
+Epoch-116 Val   Loss - 0.27694
+2019-08-10 18:31:44
+Epoch-117 Train Loss - 0.17968
+Epoch-117 Val   Loss - 0.26592
+2019-08-10 18:31:50
+Epoch-118 Train Loss - 0.17598
+Epoch-118 Val   Loss - 0.26996
+2019-08-10 18:31:57
+Epoch-119 Train Loss - 0.17054
+Epoch-119 Val   Loss - 0.27141
+2019-08-10 18:32:03
+Epoch-120 Train Loss - 0.16879
+Epoch-120 Val   Loss - 0.27829
+2019-08-10 18:32:10
+Epoch-121 Train Loss - 0.17043
+Epoch-121 Val   Loss - 0.27824
+2019-08-10 18:32:16
+Epoch-122 Train Loss - 0.17050
+Epoch-122 Val   Loss - 0.28015
+2019-08-10 18:32:23
+Epoch-123 Train Loss - 0.16962
+Epoch-123 Val   Loss - 0.28210
+2019-08-10 18:32:29
+Epoch-124 Train Loss - 0.17116
+Epoch-124 Val   Loss - 0.28567
+2019-08-10 18:32:35
+Epoch-125 Train Loss - 0.16776
+Epoch-125 Val   Loss - 0.28989
+2019-08-10 18:32:42
+Epoch-126 Train Loss - 0.16441
+Epoch-126 Val   Loss - 0.29947
+2019-08-10 18:32:48
+Epoch-127 Train Loss - 0.16603
+Epoch-127 Val   Loss - 0.30844
+2019-08-10 18:32:54
+Epoch-128 Train Loss - 0.16631
+Epoch-128 Val   Loss - 0.30438
+2019-08-10 18:33:00
+Epoch-129 Train Loss - 0.16857
+Epoch-129 Val   Loss - 0.29659
+2019-08-10 18:33:07
+Epoch-130 Train Loss - 0.16861
+Epoch-130 Val   Loss - 0.28051
+2019-08-10 18:33:14
+Epoch-131 Train Loss - 0.16819
+Epoch-131 Val   Loss - 0.29208
+2019-08-10 18:33:20
+Epoch-132 Train Loss - 0.16932
+Epoch-132 Val   Loss - 0.29487
+2019-08-10 18:33:26
+Epoch-133 Train Loss - 0.17838
+Epoch-133 Val   Loss - 0.30699
+2019-08-10 18:33:32
+Epoch-134 Train Loss - 0.17901
+Epoch-134 Val   Loss - 0.29881
+2019-08-10 18:33:39
+Epoch-135 Train Loss - 0.18643
+Epoch-135 Val   Loss - 0.28969
+2019-08-10 18:33:45
+Epoch-136 Train Loss - 0.17869
+Epoch-136 Val   Loss - 0.29638
+2019-08-10 18:33:52
+Epoch-137 Train Loss - 0.17446
+Epoch-137 Val   Loss - 0.29993
+2019-08-10 18:33:58
+Epoch-138 Train Loss - 0.17363
+Epoch-138 Val   Loss - 0.31014
+2019-08-10 18:34:04
+Epoch-139 Train Loss - 0.16926
+Epoch-139 Val   Loss - 0.31320
+2019-08-10 18:34:11
+Epoch-140 Train Loss - 0.16866
+Epoch-140 Val   Loss - 0.29694
+2019-08-10 18:34:17
+Epoch-141 Train Loss - 0.16851
+Epoch-141 Val   Loss - 0.28635
+2019-08-10 18:34:24
+Epoch-142 Train Loss - 0.17224
+Epoch-142 Val   Loss - 0.31080
+2019-08-10 18:34:30
+Epoch-143 Train Loss - 0.16795
+Epoch-143 Val   Loss - 0.31453
+2019-08-10 18:34:36
+Epoch-144 Train Loss - 0.16620
+Epoch-144 Val   Loss - 0.31507
+2019-08-10 18:34:42
+Epoch-145 Train Loss - 0.16635
+Epoch-145 Val   Loss - 0.31598
+2019-08-10 18:34:49
+Epoch-146 Train Loss - 0.17010
+Epoch-146 Val   Loss - 0.33572
+2019-08-10 18:34:55
+Epoch-147 Train Loss - 0.17069
+Epoch-147 Val   Loss - 0.29327
+2019-08-10 18:35:02
+Epoch-148 Train Loss - 0.17161
+Epoch-148 Val   Loss - 0.28115
+2019-08-10 18:35:08
+Epoch-149 Train Loss - 0.17378
+Epoch-149 Val   Loss - 0.28843
+2019-08-10 18:35:14
+Epoch-150 Train Loss - 0.17165
+Epoch-150 Val   Loss - 0.30000
+2019-08-10 18:35:21
+Epoch-151 Train Loss - 0.16524
+Epoch-151 Val   Loss - 0.29734
+2019-08-10 18:35:27
+Epoch-152 Train Loss - 0.16517
+Epoch-152 Val   Loss - 0.28511
+2019-08-10 18:35:34
+Epoch-153 Train Loss - 0.16937
+Epoch-153 Val   Loss - 0.28472
+2019-08-10 18:35:40
+Epoch-154 Train Loss - 0.17154
+Epoch-154 Val   Loss - 0.28825
+2019-08-10 18:35:46
+Epoch-155 Train Loss - 0.17095
+Epoch-155 Val   Loss - 0.27664
+2019-08-10 18:35:53
+Epoch-156 Train Loss - 0.16464
+Epoch-156 Val   Loss - 0.28467
+2019-08-10 18:35:59
+Epoch-157 Train Loss - 0.16645
+Epoch-157 Val   Loss - 0.28132
+2019-08-10 18:36:05
+Epoch-158 Train Loss - 0.16821
+Epoch-158 Val   Loss - 0.28050
+2019-08-10 18:36:11
+Epoch-159 Train Loss - 0.16882
+Epoch-159 Val   Loss - 0.28783
+2019-08-10 18:36:18
+Epoch-160 Train Loss - 0.16307
+Epoch-160 Val   Loss - 0.29496
+2019-08-10 18:36:24
+Epoch-161 Train Loss - 0.16096
+Epoch-161 Val   Loss - 0.29863
+2019-08-10 18:36:31
+Epoch-162 Train Loss - 0.15715
+Epoch-162 Val   Loss - 0.30082
+2019-08-10 18:36:37
+Epoch-163 Train Loss - 0.15570
+Epoch-163 Val   Loss - 0.30341
+2019-08-10 18:36:43
+Epoch-164 Train Loss - 0.15389
+Epoch-164 Val   Loss - 0.30562
+2019-08-10 18:36:50
+Epoch-165 Train Loss - 0.15342
+Epoch-165 Val   Loss - 0.30712
+2019-08-10 18:36:56
+Epoch-166 Train Loss - 0.15288
+Epoch-166 Val   Loss - 0.30315
+2019-08-10 18:37:03
+Epoch-167 Train Loss - 0.15120
+Epoch-167 Val   Loss - 0.30776
+2019-08-10 18:37:09
+Epoch-168 Train Loss - 0.15144
+Epoch-168 Val   Loss - 0.31743
+2019-08-10 18:37:15
+Epoch-169 Train Loss - 0.15122
+Epoch-169 Val   Loss - 0.31694
+2019-08-10 18:37:22
+Epoch-170 Train Loss - 0.15185
+Epoch-170 Val   Loss - 0.32142
+2019-08-10 18:37:28
+Epoch-171 Train Loss - 0.15134
+Epoch-171 Val   Loss - 0.32780
+2019-08-10 18:37:34
+Epoch-172 Train Loss - 0.15085
+Epoch-172 Val   Loss - 0.31362
+2019-08-10 18:37:41
+Epoch-173 Train Loss - 0.14823
+Epoch-173 Val   Loss - 0.31017
+2019-08-10 18:37:47
+Epoch-174 Train Loss - 0.14806
+Epoch-174 Val   Loss - 0.31381
+2019-08-10 18:37:53
+Epoch-175 Train Loss - 0.14897
+Epoch-175 Val   Loss - 0.30963
+2019-08-10 18:38:00
+Epoch-176 Train Loss - 0.14625
+Epoch-176 Val   Loss - 0.31791
+2019-08-10 18:38:06
+Epoch-177 Train Loss - 0.14232
+Epoch-177 Val   Loss - 0.32732
+2019-08-10 18:38:12
+Epoch-178 Train Loss - 0.14163
+Epoch-178 Val   Loss - 0.33736
+2019-08-10 18:38:19
+Epoch-179 Train Loss - 0.14227
+Epoch-179 Val   Loss - 0.34048
+2019-08-10 18:38:25
+Epoch-180 Train Loss - 0.14218
+Epoch-180 Val   Loss - 0.33357
+2019-08-10 18:38:32
+Epoch-181 Train Loss - 0.14481
+Epoch-181 Val   Loss - 0.32431
+2019-08-10 18:38:38
+Epoch-182 Train Loss - 0.14804
+Epoch-182 Val   Loss - 0.32440
+2019-08-10 18:38:44
+Epoch-183 Train Loss - 0.14567
+Epoch-183 Val   Loss - 0.32666
+2019-08-10 18:38:51
+Epoch-184 Train Loss - 0.14456
+Epoch-184 Val   Loss - 0.33439
+2019-08-10 18:38:57
+Epoch-185 Train Loss - 0.14312
+Epoch-185 Val   Loss - 0.33672
+2019-08-10 18:39:03
+Epoch-186 Train Loss - 0.14059
+Epoch-186 Val   Loss - 0.33567
+2019-08-10 18:39:10
+Epoch-187 Train Loss - 0.14285
+Epoch-187 Val   Loss - 0.33983
+2019-08-10 18:39:16
+Epoch-188 Train Loss - 0.14386
+Epoch-188 Val   Loss - 0.34138
+2019-08-10 18:39:23
+Epoch-189 Train Loss - 0.14376
+Epoch-189 Val   Loss - 0.34523
+2019-08-10 18:39:29
+Epoch-190 Train Loss - 0.14429
+Epoch-190 Val   Loss - 0.34984
+2019-08-10 18:39:36
+Epoch-191 Train Loss - 0.14737
+Epoch-191 Val   Loss - 0.34730
+2019-08-10 18:39:42
+Epoch-192 Train Loss - 0.14509
+Epoch-192 Val   Loss - 0.35077
+2019-08-10 18:39:48
+Epoch-193 Train Loss - 0.14041
+Epoch-193 Val   Loss - 0.35334
+2019-08-10 18:39:54
+Epoch-194 Train Loss - 0.14051
+Epoch-194 Val   Loss - 0.34873
+2019-08-10 18:40:01
+Epoch-195 Train Loss - 0.14216
+Epoch-195 Val   Loss - 0.33816
+2019-08-10 18:40:07
+Epoch-196 Train Loss - 0.14099
+Epoch-196 Val   Loss - 0.33988
+2019-08-10 18:40:13
+Epoch-197 Train Loss - 0.13666
+Epoch-197 Val   Loss - 0.34628
+2019-08-10 18:40:20
+Epoch-198 Train Loss - 0.13640
+Epoch-198 Val   Loss - 0.34686
+2019-08-10 18:40:26
+Epoch-199 Train Loss - 0.13981
+Epoch-199 Val   Loss - 0.34693
+2019-08-10 18:40:32
+Epoch-200 Train Loss - 0.14748
+Epoch-200 Val   Loss - 0.32074
+2019-08-10 18:40:39
+Epoch-201 Train Loss - 0.14462
+Epoch-201 Val   Loss - 0.32710
+2019-08-10 18:40:45
+Epoch-202 Train Loss - 0.13854
+Epoch-202 Val   Loss - 0.33385
+2019-08-10 18:40:51
+Epoch-203 Train Loss - 0.13496
+Epoch-203 Val   Loss - 0.34158
+2019-08-10 18:40:57
+Epoch-204 Train Loss - 0.13602
+Epoch-204 Val   Loss - 0.34646
+2019-08-10 18:41:03
+Epoch-205 Train Loss - 0.14000
+Epoch-205 Val   Loss - 0.35579
+2019-08-10 18:41:09
+Epoch-206 Train Loss - 0.14387
+Epoch-206 Val   Loss - 0.34854
+2019-08-10 18:41:16
+Epoch-207 Train Loss - 0.14207
+Epoch-207 Val   Loss - 0.34331
+2019-08-10 18:41:22
+Epoch-208 Train Loss - 0.14155
+Epoch-208 Val   Loss - 0.34699
+2019-08-10 18:41:29
+Epoch-209 Train Loss - 0.14121
+Epoch-209 Val   Loss - 0.33996
+2019-08-10 18:41:35
+Epoch-210 Train Loss - 0.14294
+Epoch-210 Val   Loss - 0.33428
+2019-08-10 18:41:41
+Epoch-211 Train Loss - 0.14287
+Epoch-211 Val   Loss - 0.32802
+2019-08-10 18:41:48
+Epoch-212 Train Loss - 0.14114
+Epoch-212 Val   Loss - 0.33433
+2019-08-10 18:41:54
+Epoch-213 Train Loss - 0.13807
+Epoch-213 Val   Loss - 0.33403
+2019-08-10 18:42:01
+Epoch-214 Train Loss - 0.13878
+Epoch-214 Val   Loss - 0.32796
+2019-08-10 18:42:07
+Epoch-215 Train Loss - 0.14496
+Epoch-215 Val   Loss - 0.33800
+2019-08-10 18:42:13
+Epoch-216 Train Loss - 0.14448
+Epoch-216 Val   Loss - 0.33060
+2019-08-10 18:42:19
+Epoch-217 Train Loss - 0.14179
+Epoch-217 Val   Loss - 0.33546
+2019-08-10 18:42:26
+Epoch-218 Train Loss - 0.14212
+Epoch-218 Val   Loss - 0.34204
+2019-08-10 18:42:32
+Epoch-219 Train Loss - 0.14534
+Epoch-219 Val   Loss - 0.32865
+2019-08-10 18:42:38
+Epoch-220 Train Loss - 0.14283
+Epoch-220 Val   Loss - 0.32217
+2019-08-10 18:42:45
+Epoch-221 Train Loss - 0.14060
+Epoch-221 Val   Loss - 0.32427
+2019-08-10 18:42:51
+Epoch-222 Train Loss - 0.13654
+Epoch-222 Val   Loss - 0.32387
+2019-08-10 18:42:58
+Epoch-223 Train Loss - 0.13533
+Epoch-223 Val   Loss - 0.33102
+2019-08-10 18:43:04
+Epoch-224 Train Loss - 0.13401
+Epoch-224 Val   Loss - 0.33285
+2019-08-10 18:43:10
+Epoch-225 Train Loss - 0.13528
+Epoch-225 Val   Loss - 0.34112
+2019-08-10 18:43:17
+Epoch-226 Train Loss - 0.13593
+Epoch-226 Val   Loss - 0.34543
+2019-08-10 18:43:23
+Epoch-227 Train Loss - 0.13594
+Epoch-227 Val   Loss - 0.34401
+2019-08-10 18:43:30
+Epoch-228 Train Loss - 0.13641
+Epoch-228 Val   Loss - 0.34155
+2019-08-10 18:43:36
+Epoch-229 Train Loss - 0.13586
+Epoch-229 Val   Loss - 0.36068
+2019-08-10 18:43:42
+Epoch-230 Train Loss - 0.13501
+Epoch-230 Val   Loss - 0.37598
+2019-08-10 18:43:48
+Epoch-231 Train Loss - 0.13458
+Epoch-231 Val   Loss - 0.37166
+2019-08-10 18:43:54
+Epoch-232 Train Loss - 0.13244
+Epoch-232 Val   Loss - 0.38080
+2019-08-10 18:44:01
+Epoch-233 Train Loss - 0.13209
+Epoch-233 Val   Loss - 0.37814
+2019-08-10 18:44:07
+Epoch-234 Train Loss - 0.13396
+Epoch-234 Val   Loss - 0.37056
+2019-08-10 18:44:14
+Epoch-235 Train Loss - 0.14251
+Epoch-235 Val   Loss - 0.37179
+2019-08-10 18:44:20
+Epoch-236 Train Loss - 0.13437
+Epoch-236 Val   Loss - 0.34917
+2019-08-10 18:44:27
+Epoch-237 Train Loss - 0.12779
+Epoch-237 Val   Loss - 0.35563
+2019-08-10 18:44:33
+Epoch-238 Train Loss - 0.12522
+Epoch-238 Val   Loss - 0.36709
+2019-08-10 18:44:39
+Epoch-239 Train Loss - 0.12353
+Epoch-239 Val   Loss - 0.36647
+2019-08-10 18:44:46
+Epoch-240 Train Loss - 0.12457
+Epoch-240 Val   Loss - 0.36547
+2019-08-10 18:44:52
+Epoch-241 Train Loss - 0.12566
+Epoch-241 Val   Loss - 0.37086
+2019-08-10 18:44:59
+Epoch-242 Train Loss - 0.12164
+Epoch-242 Val   Loss - 0.37654
+2019-08-10 18:45:05
+Epoch-243 Train Loss - 0.11891
+Epoch-243 Val   Loss - 0.37833
+2019-08-10 18:45:11
+Epoch-244 Train Loss - 0.12012
+Epoch-244 Val   Loss - 0.38649
+2019-08-10 18:45:18
+Epoch-245 Train Loss - 0.12237
+Epoch-245 Val   Loss - 0.38815
+2019-08-10 18:45:24
+Epoch-246 Train Loss - 0.12414
+Epoch-246 Val   Loss - 0.39362
+2019-08-10 18:45:30
+Epoch-247 Train Loss - 0.12981
+Epoch-247 Val   Loss - 0.37523
+2019-08-10 18:45:37
+Epoch-248 Train Loss - 0.13205
+Epoch-248 Val   Loss - 0.38212
+2019-08-10 18:45:43
+Epoch-249 Train Loss - 0.12975
+Epoch-249 Val   Loss - 0.38053
+2019-08-10 18:45:49
+Epoch-250 Train Loss - 0.12643
+Epoch-250 Val   Loss - 0.39879
+2019-08-10 18:45:56
+Epoch-251 Train Loss - 0.12395
+Epoch-251 Val   Loss - 0.39333
+2019-08-10 18:46:02
+Epoch-252 Train Loss - 0.12455
+Epoch-252 Val   Loss - 0.38384
+2019-08-10 18:46:09
+Epoch-253 Train Loss - 0.12276
+Epoch-253 Val   Loss - 0.38230
+2019-08-10 18:46:15
+Epoch-254 Train Loss - 0.12211
+Epoch-254 Val   Loss - 0.39230
+2019-08-10 18:46:21
+Epoch-255 Train Loss - 0.12193
+Epoch-255 Val   Loss - 0.41338
+2019-08-10 18:46:28
+Epoch-256 Train Loss - 0.12361
+Epoch-256 Val   Loss - 0.41966
+2019-08-10 18:46:34
+Epoch-257 Train Loss - 0.12402
+Epoch-257 Val   Loss - 0.39578
+2019-08-10 18:46:40
+Epoch-258 Train Loss - 0.12158
+Epoch-258 Val   Loss - 0.39036
+2019-08-10 18:46:46
+Epoch-259 Train Loss - 0.12300
+Epoch-259 Val   Loss - 0.38552
+2019-08-10 18:46:53
+Epoch-260 Train Loss - 0.12297
+Epoch-260 Val   Loss - 0.38146
+2019-08-10 18:46:59
+Epoch-261 Train Loss - 0.12037
+Epoch-261 Val   Loss - 0.38512
+2019-08-10 18:47:05
+Epoch-262 Train Loss - 0.11789
+Epoch-262 Val   Loss - 0.39180
+2019-08-10 18:47:11
+Epoch-263 Train Loss - 0.11705
+Epoch-263 Val   Loss - 0.39588
+2019-08-10 18:47:18
+Epoch-264 Train Loss - 0.12174
+Epoch-264 Val   Loss - 0.39631
+2019-08-10 18:47:24
+Epoch-265 Train Loss - 0.12271
+Epoch-265 Val   Loss - 0.40128
+2019-08-10 18:47:31
+Epoch-266 Train Loss - 0.12105
+Epoch-266 Val   Loss - 0.40237
+2019-08-10 18:47:37
+Epoch-267 Train Loss - 0.12149
+Epoch-267 Val   Loss - 0.39005
+2019-08-10 18:47:44
+Epoch-268 Train Loss - 0.12149
+Epoch-268 Val   Loss - 0.40637
+2019-08-10 18:47:50
+Epoch-269 Train Loss - 0.12016
+Epoch-269 Val   Loss - 0.43646
+2019-08-10 18:47:56
+Epoch-270 Train Loss - 0.11868
+Epoch-270 Val   Loss - 0.43262
+2019-08-10 18:48:03
+Epoch-271 Train Loss - 0.11789
+Epoch-271 Val   Loss - 0.43141
+2019-08-10 18:48:09
+Epoch-272 Train Loss - 0.11872
+Epoch-272 Val   Loss - 0.44396
+2019-08-10 18:48:15
+Epoch-273 Train Loss - 0.11976
+Epoch-273 Val   Loss - 0.45142
+2019-08-10 18:48:22
+Epoch-274 Train Loss - 0.11758
+Epoch-274 Val   Loss - 0.44924
+2019-08-10 18:48:28
+Epoch-275 Train Loss - 0.11846
+Epoch-275 Val   Loss - 0.43022
+2019-08-10 18:48:34
+Epoch-276 Train Loss - 0.11837
+Epoch-276 Val   Loss - 0.44648
+2019-08-10 18:48:41
+Epoch-277 Train Loss - 0.11719
+Epoch-277 Val   Loss - 0.47114
+2019-08-10 18:48:47
+Epoch-278 Train Loss - 0.12048
+Epoch-278 Val   Loss - 0.43011
+2019-08-10 18:48:53
+Epoch-279 Train Loss - 0.12639
+Epoch-279 Val   Loss - 0.40979
+2019-08-10 18:49:00
+Epoch-280 Train Loss - 0.12070
+Epoch-280 Val   Loss - 0.41006
+2019-08-10 18:49:06
+Epoch-281 Train Loss - 0.11736
+Epoch-281 Val   Loss - 0.42707
+2019-08-10 18:49:13
+Epoch-282 Train Loss - 0.11474
+Epoch-282 Val   Loss - 0.43251
+2019-08-10 18:49:19
+Epoch-283 Train Loss - 0.11393
+Epoch-283 Val   Loss - 0.43947
+2019-08-10 18:49:25
+Epoch-284 Train Loss - 0.11634
+Epoch-284 Val   Loss - 0.43549
+2019-08-10 18:49:32
+Epoch-285 Train Loss - 0.11381
+Epoch-285 Val   Loss - 0.42786
+2019-08-10 18:49:38
+Epoch-286 Train Loss - 0.11043
+Epoch-286 Val   Loss - 0.43374
+2019-08-10 18:49:45
+Epoch-287 Train Loss - 0.10895
+Epoch-287 Val   Loss - 0.43762
+2019-08-10 18:49:51
+Epoch-288 Train Loss - 0.10907
+Epoch-288 Val   Loss - 0.43561
+2019-08-10 18:49:57
+Epoch-289 Train Loss - 0.11091
+Epoch-289 Val   Loss - 0.45195
+2019-08-10 18:50:04
+Epoch-290 Train Loss - 0.11431
+Epoch-290 Val   Loss - 0.46125
+2019-08-10 18:50:10
+Epoch-291 Train Loss - 0.11682
+Epoch-291 Val   Loss - 0.46385
+2019-08-10 18:50:17
+Epoch-292 Train Loss - 0.11555
+Epoch-292 Val   Loss - 0.46390
+2019-08-10 18:50:23
+Epoch-293 Train Loss - 0.11475
+Epoch-293 Val   Loss - 0.46506
+2019-08-10 18:50:29
+Epoch-294 Train Loss - 0.11650
+Epoch-294 Val   Loss - 0.47720
+2019-08-10 18:50:36
+Epoch-295 Train Loss - 0.12129
+Epoch-295 Val   Loss - 0.46811
+2019-08-10 18:50:42
+Epoch-296 Train Loss - 0.11776
+Epoch-296 Val   Loss - 0.47403
+2019-08-10 18:50:49
+Epoch-297 Train Loss - 0.11799
+Epoch-297 Val   Loss - 0.48408
+2019-08-10 18:50:55
+Epoch-298 Train Loss - 0.11557
+Epoch-298 Val   Loss - 0.48103
+2019-08-10 18:51:01
+Epoch-299 Train Loss - 0.10857
+Epoch-299 Val   Loss - 0.49815
+2019-08-10 18:51:07
+Epoch-300 Train Loss - 0.10817
+Epoch-300 Val   Loss - 0.49790
+2019-08-10 18:51:13
+Epoch-301 Train Loss - 0.10781
+Epoch-301 Val   Loss - 0.49862
+2019-08-10 18:51:19
+Epoch-302 Train Loss - 0.10803
+Epoch-302 Val   Loss - 0.48253
+2019-08-10 18:51:26
+Epoch-303 Train Loss - 0.10894
+Epoch-303 Val   Loss - 0.47222
+2019-08-10 18:51:32
+Epoch-304 Train Loss - 0.10913
+Epoch-304 Val   Loss - 0.47858
+2019-08-10 18:51:39
+Epoch-305 Train Loss - 0.11023
+Epoch-305 Val   Loss - 0.49436
+2019-08-10 18:51:45
+Epoch-306 Train Loss - 0.10743
+Epoch-306 Val   Loss - 0.47174
+2019-08-10 18:51:51
+Epoch-307 Train Loss - 0.10765
+Epoch-307 Val   Loss - 0.46215
+2019-08-10 18:51:58
+Epoch-308 Train Loss - 0.11129
+Epoch-308 Val   Loss - 0.45305
+2019-08-10 18:52:04
+Epoch-309 Train Loss - 0.11761
+Epoch-309 Val   Loss - 0.42543
+2019-08-10 18:52:11
+Epoch-310 Train Loss - 0.11782
+Epoch-310 Val   Loss - 0.45399
+2019-08-10 18:52:17
+Epoch-311 Train Loss - 0.11658
+Epoch-311 Val   Loss - 0.46317
+2019-08-10 18:52:23
+Epoch-312 Train Loss - 0.11495
+Epoch-312 Val   Loss - 0.48791
+2019-08-10 18:52:30
+Epoch-313 Train Loss - 0.11480
+Epoch-313 Val   Loss - 0.48826
+2019-08-10 18:52:36
+Epoch-314 Train Loss - 0.11538
+Epoch-314 Val   Loss - 0.45370
+2019-08-10 18:52:42
+Epoch-315 Train Loss - 0.10876
+Epoch-315 Val   Loss - 0.46209
+2019-08-10 18:52:48
+Epoch-316 Train Loss - 0.10385
+Epoch-316 Val   Loss - 0.45716
+2019-08-10 18:52:55
+Epoch-317 Train Loss - 0.10070
+Epoch-317 Val   Loss - 0.46184
+2019-08-10 18:53:01
+Epoch-318 Train Loss - 0.09912
+Epoch-318 Val   Loss - 0.48305
+2019-08-10 18:53:08
+Epoch-319 Train Loss - 0.09889
+Epoch-319 Val   Loss - 0.49724
+2019-08-10 18:53:14
+Epoch-320 Train Loss - 0.09994
+Epoch-320 Val   Loss - 0.48324
+2019-08-10 18:53:20
+Epoch-321 Train Loss - 0.10169
+Epoch-321 Val   Loss - 0.49161
+2019-08-10 18:53:27
+Epoch-322 Train Loss - 0.10148
+Epoch-322 Val   Loss - 0.47707
+2019-08-10 18:53:33
+Epoch-323 Train Loss - 0.09870
+Epoch-323 Val   Loss - 0.46028
+2019-08-10 18:53:39
+Epoch-324 Train Loss - 0.09853
+Epoch-324 Val   Loss - 0.47284
+2019-08-10 18:53:45
+Epoch-325 Train Loss - 0.09828
+Epoch-325 Val   Loss - 0.47571
+2019-08-10 18:53:52
+Epoch-326 Train Loss - 0.09544
+Epoch-326 Val   Loss - 0.48727
+2019-08-10 18:53:58
+Epoch-327 Train Loss - 0.09815
+Epoch-327 Val   Loss - 0.48811
+2019-08-10 18:54:04
+Epoch-328 Train Loss - 0.09876
+Epoch-328 Val   Loss - 0.48066
+2019-08-10 18:54:11
+Epoch-329 Train Loss - 0.10135
+Epoch-329 Val   Loss - 0.46768
+2019-08-10 18:54:17
+Epoch-330 Train Loss - 0.10405
+Epoch-330 Val   Loss - 0.48930
+2019-08-10 18:54:23
+Epoch-331 Train Loss - 0.10614
+Epoch-331 Val   Loss - 0.49831
+2019-08-10 18:54:30
+Epoch-332 Train Loss - 0.10517
+Epoch-332 Val   Loss - 0.50201
+2019-08-10 18:54:36
+Epoch-333 Train Loss - 0.10203
+Epoch-333 Val   Loss - 0.50040
+2019-08-10 18:54:42
+Epoch-334 Train Loss - 0.10187
+Epoch-334 Val   Loss - 0.48881
+2019-08-10 18:54:49
+Epoch-335 Train Loss - 0.09924
+Epoch-335 Val   Loss - 0.51104
+2019-08-10 18:54:55
+Epoch-336 Train Loss - 0.09978
+Epoch-336 Val   Loss - 0.46168
+2019-08-10 18:55:01
+Epoch-337 Train Loss - 0.09849
+Epoch-337 Val   Loss - 0.47553
+2019-08-10 18:55:07
+Epoch-338 Train Loss - 0.09211
+Epoch-338 Val   Loss - 0.49183
+2019-08-10 18:55:14
+Epoch-339 Train Loss - 0.08990
+Epoch-339 Val   Loss - 0.50689
+2019-08-10 18:55:20
+Epoch-340 Train Loss - 0.08918
+Epoch-340 Val   Loss - 0.51021
+2019-08-10 18:55:26
+Epoch-341 Train Loss - 0.09006
+Epoch-341 Val   Loss - 0.51277
+2019-08-10 18:55:33
+Epoch-342 Train Loss - 0.09269
+Epoch-342 Val   Loss - 0.52250
+2019-08-10 18:55:39
+Epoch-343 Train Loss - 0.10107
+Epoch-343 Val   Loss - 0.51827
+2019-08-10 18:55:45
+Epoch-344 Train Loss - 0.11295
+Epoch-344 Val   Loss - 0.53189
+2019-08-10 18:55:52
+Epoch-345 Train Loss - 0.11343
+Epoch-345 Val   Loss - 0.54718
+2019-08-10 18:55:58
+Epoch-346 Train Loss - 0.11404
+Epoch-346 Val   Loss - 0.54034
+2019-08-10 18:56:04
+Epoch-347 Train Loss - 0.11841
+Epoch-347 Val   Loss - 0.51707
+2019-08-10 18:56:11
+Epoch-348 Train Loss - 0.11656
+Epoch-348 Val   Loss - 0.48800
+2019-08-10 18:56:17
+Epoch-349 Train Loss - 0.11305
+Epoch-349 Val   Loss - 0.49459
+2019-08-10 18:56:23
+Epoch-350 Train Loss - 0.11110
+Epoch-350 Val   Loss - 0.49009
+2019-08-10 18:56:30
+Epoch-351 Train Loss - 0.10476
+Epoch-351 Val   Loss - 0.51106
+2019-08-10 18:56:36
+Epoch-352 Train Loss - 0.09773
+Epoch-352 Val   Loss - 0.51959
+2019-08-10 18:56:42
+Epoch-353 Train Loss - 0.09708
+Epoch-353 Val   Loss - 0.52704
+2019-08-10 18:56:48
+Epoch-354 Train Loss - 0.09878
+Epoch-354 Val   Loss - 0.52385
+2019-08-10 18:56:54
+Epoch-355 Train Loss - 0.09927
+Epoch-355 Val   Loss - 0.51086
+2019-08-10 18:57:01
+Epoch-356 Train Loss - 0.10079
+Epoch-356 Val   Loss - 0.50714
+2019-08-10 18:57:07
+Epoch-357 Train Loss - 0.09759
+Epoch-357 Val   Loss - 0.49464
+2019-08-10 18:57:14
+Epoch-358 Train Loss - 0.09376
+Epoch-358 Val   Loss - 0.49471
+2019-08-10 18:57:20
+Epoch-359 Train Loss - 0.09272
+Epoch-359 Val   Loss - 0.50235
+2019-08-10 18:57:26
+Epoch-360 Train Loss - 0.09251
+Epoch-360 Val   Loss - 0.52173
+2019-08-10 18:57:33
+Epoch-361 Train Loss - 0.09070
+Epoch-361 Val   Loss - 0.53005
+2019-08-10 18:57:39
+Epoch-362 Train Loss - 0.08941
+Epoch-362 Val   Loss - 0.53267
+2019-08-10 18:57:46
+Epoch-363 Train Loss - 0.08980
+Epoch-363 Val   Loss - 0.52154
+2019-08-10 18:57:52
+Epoch-364 Train Loss - 0.08920
+Epoch-364 Val   Loss - 0.52659
+2019-08-10 18:57:58
+Epoch-365 Train Loss - 0.08811
+Epoch-365 Val   Loss - 0.54145
+2019-08-10 18:58:05
+Epoch-366 Train Loss - 0.08906
+Epoch-366 Val   Loss - 0.54595
+2019-08-10 18:58:11
+Epoch-367 Train Loss - 0.08872
+Epoch-367 Val   Loss - 0.53105
+2019-08-10 18:58:17
+Epoch-368 Train Loss - 0.09185
+Epoch-368 Val   Loss - 0.52429
+2019-08-10 18:58:23
+Epoch-369 Train Loss - 0.09482
+Epoch-369 Val   Loss - 0.51945
+2019-08-10 18:58:30
+Epoch-370 Train Loss - 0.10454
+Epoch-370 Val   Loss - 0.50704
+2019-08-10 18:58:36
+Epoch-371 Train Loss - 0.11123
+Epoch-371 Val   Loss - 0.51091
+2019-08-10 18:58:42
+Epoch-372 Train Loss - 0.11496
+Epoch-372 Val   Loss - 0.52203
+2019-08-10 18:58:49
+Epoch-373 Train Loss - 0.10926
+Epoch-373 Val   Loss - 0.53543
+2019-08-10 18:58:55
+Epoch-374 Train Loss - 0.10941
+Epoch-374 Val   Loss - 0.53908
+2019-08-10 18:59:01
+Epoch-375 Train Loss - 0.10553
+Epoch-375 Val   Loss - 0.51227
+2019-08-10 18:59:08
+Epoch-376 Train Loss - 0.09934
+Epoch-376 Val   Loss - 0.52226
+2019-08-10 18:59:14
+Epoch-377 Train Loss - 0.09305
+Epoch-377 Val   Loss - 0.52871
+2019-08-10 18:59:20
+Epoch-378 Train Loss - 0.09190
+Epoch-378 Val   Loss - 0.54236
+2019-08-10 18:59:27
+Epoch-379 Train Loss - 0.09292
+Epoch-379 Val   Loss - 0.55487
+2019-08-10 18:59:33
+Epoch-380 Train Loss - 0.09557
+Epoch-380 Val   Loss - 0.56128
+2019-08-10 18:59:40
+Epoch-381 Train Loss - 0.09981
+Epoch-381 Val   Loss - 0.56465
+2019-08-10 18:59:46
+Epoch-382 Train Loss - 0.10379
+Epoch-382 Val   Loss - 0.58190
+2019-08-10 18:59:52
+Epoch-383 Train Loss - 0.10423
+Epoch-383 Val   Loss - 0.56838
+2019-08-10 18:59:59
+Epoch-384 Train Loss - 0.10003
+Epoch-384 Val   Loss - 0.57084
+2019-08-10 19:00:05
+Epoch-385 Train Loss - 0.09758
+Epoch-385 Val   Loss - 0.56034
+2019-08-10 19:00:11
+Epoch-386 Train Loss - 0.09918
+Epoch-386 Val   Loss - 0.53553
+2019-08-10 19:00:18
+Epoch-387 Train Loss - 0.09532
+Epoch-387 Val   Loss - 0.53454
+2019-08-10 19:00:24
+Epoch-388 Train Loss - 0.09243
+Epoch-388 Val   Loss - 0.55015
+2019-08-10 19:00:30
+Epoch-389 Train Loss - 0.09237
+Epoch-389 Val   Loss - 0.55685
+2019-08-10 19:00:37
+Epoch-390 Train Loss - 0.09130
+Epoch-390 Val   Loss - 0.55927
+2019-08-10 19:00:43
+Epoch-391 Train Loss - 0.08938
+Epoch-391 Val   Loss - 0.56205
+2019-08-10 19:00:49
+Epoch-392 Train Loss - 0.08473
+Epoch-392 Val   Loss - 0.57680
+2019-08-10 19:00:56
+Epoch-393 Train Loss - 0.08496
+Epoch-393 Val   Loss - 0.58634
+2019-08-10 19:01:02
+Epoch-394 Train Loss - 0.08700
+Epoch-394 Val   Loss - 0.57510
+2019-08-10 19:01:08
+Epoch-395 Train Loss - 0.08664
+Epoch-395 Val   Loss - 0.56010
+2019-08-10 19:01:14
+Epoch-396 Train Loss - 0.08689
+Epoch-396 Val   Loss - 0.55575
+2019-08-10 19:01:20
+Epoch-397 Train Loss - 0.08809
+Epoch-397 Val   Loss - 0.55822
+2019-08-10 19:01:26
+Epoch-398 Train Loss - 0.08800
+Epoch-398 Val   Loss - 0.57283
+2019-08-10 19:01:33
+Epoch-399 Train Loss - 0.08416
+Epoch-399 Val   Loss - 0.57922
+2019-08-10 19:01:39
+Epoch-400 Train Loss - 0.08422
+Epoch-400 Val   Loss - 0.60390
+2019-08-10 19:01:45
+Epoch-401 Train Loss - 0.08769
+Epoch-401 Val   Loss - 0.59534
+2019-08-10 19:01:52
+Epoch-402 Train Loss - 0.09129
+Epoch-402 Val   Loss - 0.57398
+2019-08-10 19:01:58
+Epoch-403 Train Loss - 0.09061
+Epoch-403 Val   Loss - 0.56075
+2019-08-10 19:02:04
+Epoch-404 Train Loss - 0.08906
+Epoch-404 Val   Loss - 0.55531
+2019-08-10 19:02:11
+Epoch-405 Train Loss - 0.09105
+Epoch-405 Val   Loss - 0.54991
+2019-08-10 19:02:17
+Epoch-406 Train Loss - 0.09350
+Epoch-406 Val   Loss - 0.56773
+2019-08-10 19:02:24
+Epoch-407 Train Loss - 0.09192
+Epoch-407 Val   Loss - 0.57952
+2019-08-10 19:02:30
+Epoch-408 Train Loss - 0.08829
+Epoch-408 Val   Loss - 0.57038
+2019-08-10 19:02:37
+Epoch-409 Train Loss - 0.08451
+Epoch-409 Val   Loss - 0.57577
+2019-08-10 19:02:43
+Epoch-410 Train Loss - 0.08219
+Epoch-410 Val   Loss - 0.59649
+2019-08-10 19:02:49
+Epoch-411 Train Loss - 0.08094
+Epoch-411 Val   Loss - 0.60098
+2019-08-10 19:02:55
+Epoch-412 Train Loss - 0.08054
+Epoch-412 Val   Loss - 0.62610
+2019-08-10 19:03:02
+Epoch-413 Train Loss - 0.08203
+Epoch-413 Val   Loss - 0.62838
+2019-08-10 19:03:08
+Epoch-414 Train Loss - 0.08713
+Epoch-414 Val   Loss - 0.61841
+2019-08-10 19:03:14
+Epoch-415 Train Loss - 0.08529
+Epoch-415 Val   Loss - 0.58574
+2019-08-10 19:03:21
+Epoch-416 Train Loss - 0.08489
+Epoch-416 Val   Loss - 0.57526
+2019-08-10 19:03:27
+Epoch-417 Train Loss - 0.08712
+Epoch-417 Val   Loss - 0.56461
+2019-08-10 19:03:33
+Epoch-418 Train Loss - 0.09146
+Epoch-418 Val   Loss - 0.55639
+2019-08-10 19:03:40
+Epoch-419 Train Loss - 0.09067
+Epoch-419 Val   Loss - 0.55589
+2019-08-10 19:03:46
+Epoch-420 Train Loss - 0.08573
+Epoch-420 Val   Loss - 0.58355
+2019-08-10 19:03:52
+Epoch-421 Train Loss - 0.08267
+Epoch-421 Val   Loss - 0.56011
+2019-08-10 19:03:59
+Epoch-422 Train Loss - 0.08113
+Epoch-422 Val   Loss - 0.55074
+2019-08-10 19:04:05
+Epoch-423 Train Loss - 0.07860
+Epoch-423 Val   Loss - 0.54456
+2019-08-10 19:04:11
+Epoch-424 Train Loss - 0.07780
+Epoch-424 Val   Loss - 0.56131
+2019-08-10 19:04:18
+Epoch-425 Train Loss - 0.07831
+Epoch-425 Val   Loss - 0.57403
+2019-08-10 19:04:24
+Epoch-426 Train Loss - 0.07873
+Epoch-426 Val   Loss - 0.57541
+2019-08-10 19:04:30
+Epoch-427 Train Loss - 0.07862
+Epoch-427 Val   Loss - 0.58507
+2019-08-10 19:04:37
+Epoch-428 Train Loss - 0.08097
+Epoch-428 Val   Loss - 0.58776
+2019-08-10 19:04:43
+Epoch-429 Train Loss - 0.08450
+Epoch-429 Val   Loss - 0.56236
+2019-08-10 19:04:49
+Epoch-430 Train Loss - 0.08839
+Epoch-430 Val   Loss - 0.54680
+2019-08-10 19:04:56
+Epoch-431 Train Loss - 0.08726
+Epoch-431 Val   Loss - 0.54727
+2019-08-10 19:05:02
+Epoch-432 Train Loss - 0.08843
+Epoch-432 Val   Loss - 0.55408
+2019-08-10 19:05:09
+Epoch-433 Train Loss - 0.09259
+Epoch-433 Val   Loss - 0.57439
+2019-08-10 19:05:15
+Epoch-434 Train Loss - 0.09062
+Epoch-434 Val   Loss - 0.55977
+2019-08-10 19:05:21
+Epoch-435 Train Loss - 0.08943
+Epoch-435 Val   Loss - 0.55823
+2019-08-10 19:05:27
+Epoch-436 Train Loss - 0.09078
+Epoch-436 Val   Loss - 0.55738
+2019-08-10 19:05:34
+Epoch-437 Train Loss - 0.09251
+Epoch-437 Val   Loss - 0.54030
+2019-08-10 19:05:40
+Epoch-438 Train Loss - 0.09264
+Epoch-438 Val   Loss - 0.54324
+2019-08-10 19:05:46
+Epoch-439 Train Loss - 0.09410
+Epoch-439 Val   Loss - 0.55432
+2019-08-10 19:05:53
+Epoch-440 Train Loss - 0.09613
+Epoch-440 Val   Loss - 0.56624
+2019-08-10 19:05:59
+Epoch-441 Train Loss - 0.10038
+Epoch-441 Val   Loss - 0.57294
+2019-08-10 19:06:05
+Epoch-442 Train Loss - 0.10009
+Epoch-442 Val   Loss - 0.62237
+2019-08-10 19:06:12
+Epoch-443 Train Loss - 0.09758
+Epoch-443 Val   Loss - 0.61254
+2019-08-10 19:06:18
+Epoch-444 Train Loss - 0.09508
+Epoch-444 Val   Loss - 0.59340
+2019-08-10 19:06:24
+Epoch-445 Train Loss - 0.09162
+Epoch-445 Val   Loss - 0.59091
+2019-08-10 19:06:30
+Epoch-446 Train Loss - 0.09140
+Epoch-446 Val   Loss - 0.61184
+2019-08-10 19:06:37
+Epoch-447 Train Loss - 0.09179
+Epoch-447 Val   Loss - 0.62104
+2019-08-10 19:06:43
+Epoch-448 Train Loss - 0.09147
+Epoch-448 Val   Loss - 0.59666
+2019-08-10 19:06:50
+Epoch-449 Train Loss - 0.09040
+Epoch-449 Val   Loss - 0.58432
+2019-08-10 19:06:56
+Epoch-450 Train Loss - 0.08860
+Epoch-450 Val   Loss - 0.60408
+2019-08-10 19:07:02
+Epoch-451 Train Loss - 0.08585
+Epoch-451 Val   Loss - 0.62037
+2019-08-10 19:07:09
+Epoch-452 Train Loss - 0.08470
+Epoch-452 Val   Loss - 0.60630
+2019-08-10 19:07:15
+Epoch-453 Train Loss - 0.08504
+Epoch-453 Val   Loss - 0.57523
+2019-08-10 19:07:22
+Epoch-454 Train Loss - 0.08441
+Epoch-454 Val   Loss - 0.56794
+2019-08-10 19:07:28
+Epoch-455 Train Loss - 0.08398
+Epoch-455 Val   Loss - 0.58509
+2019-08-10 19:07:34
+Epoch-456 Train Loss - 0.08323
+Epoch-456 Val   Loss - 0.60176
+2019-08-10 19:07:40
+Epoch-457 Train Loss - 0.08376
+Epoch-457 Val   Loss - 0.60674
+2019-08-10 19:07:47
+Epoch-458 Train Loss - 0.08305
+Epoch-458 Val   Loss - 0.62192
+2019-08-10 19:07:53
+Epoch-459 Train Loss - 0.08256
+Epoch-459 Val   Loss - 0.61043
+2019-08-10 19:07:59
+Epoch-460 Train Loss - 0.08170
+Epoch-460 Val   Loss - 0.60282
+2019-08-10 19:08:06
+Epoch-461 Train Loss - 0.08438
+Epoch-461 Val   Loss - 0.60557
+2019-08-10 19:08:12
+Epoch-462 Train Loss - 0.08577
+Epoch-462 Val   Loss - 0.58581
+2019-08-10 19:08:19
+Epoch-463 Train Loss - 0.08768
+Epoch-463 Val   Loss - 0.58220
+2019-08-10 19:08:25
+Epoch-464 Train Loss - 0.08697
+Epoch-464 Val   Loss - 0.59184
+2019-08-10 19:08:31
+Epoch-465 Train Loss - 0.09025
+Epoch-465 Val   Loss - 0.56336
+2019-08-10 19:08:37
+Epoch-466 Train Loss - 0.09145
+Epoch-466 Val   Loss - 0.56219
+2019-08-10 19:08:44
+Epoch-467 Train Loss - 0.09262
+Epoch-467 Val   Loss - 0.58938
+2019-08-10 19:08:50
+Epoch-468 Train Loss - 0.09423
+Epoch-468 Val   Loss - 0.60512
+2019-08-10 19:08:56
+Epoch-469 Train Loss - 0.09511
+Epoch-469 Val   Loss - 0.61732
+2019-08-10 19:09:03
+Epoch-470 Train Loss - 0.09625
+Epoch-470 Val   Loss - 0.61620
+2019-08-10 19:09:09
+Epoch-471 Train Loss - 0.09697
+Epoch-471 Val   Loss - 0.58679
+2019-08-10 19:09:15
+Epoch-472 Train Loss - 0.09585
+Epoch-472 Val   Loss - 0.59537
+2019-08-10 19:09:21
+Epoch-473 Train Loss - 0.09401
+Epoch-473 Val   Loss - 0.60727
+2019-08-10 19:09:28
+Epoch-474 Train Loss - 0.09439
+Epoch-474 Val   Loss - 0.62052
+2019-08-10 19:09:34
+Epoch-475 Train Loss - 0.09467
+Epoch-475 Val   Loss - 0.57196
+2019-08-10 19:09:40
+Epoch-476 Train Loss - 0.09744
+Epoch-476 Val   Loss - 0.56376
+2019-08-10 19:09:47
+Epoch-477 Train Loss - 0.09586
+Epoch-477 Val   Loss - 0.55360
+2019-08-10 19:09:53
+Epoch-478 Train Loss - 0.09047
+Epoch-478 Val   Loss - 0.54942
+2019-08-10 19:10:00
+Epoch-479 Train Loss - 0.08464
+Epoch-479 Val   Loss - 0.54977
+2019-08-10 19:10:06
+Epoch-480 Train Loss - 0.08285
+Epoch-480 Val   Loss - 0.56457
+2019-08-10 19:10:12
+Epoch-481 Train Loss - 0.08373
+Epoch-481 Val   Loss - 0.57801
+2019-08-10 19:10:19
+Epoch-482 Train Loss - 0.08310
+Epoch-482 Val   Loss - 0.58392
+2019-08-10 19:10:25
+Epoch-483 Train Loss - 0.08287
+Epoch-483 Val   Loss - 0.58336
+2019-08-10 19:10:32
+Epoch-484 Train Loss - 0.08494
+Epoch-484 Val   Loss - 0.58214
+2019-08-10 19:10:38
+Epoch-485 Train Loss - 0.08700
+Epoch-485 Val   Loss - 0.58267
+2019-08-10 19:10:44
+Epoch-486 Train Loss - 0.08458
+Epoch-486 Val   Loss - 0.60397
+2019-08-10 19:10:50
+Epoch-487 Train Loss - 0.08450
+Epoch-487 Val   Loss - 0.61878
+2019-08-10 19:10:56
+Epoch-488 Train Loss - 0.08542
+Epoch-488 Val   Loss - 0.61886
+2019-08-10 19:11:03
+Epoch-489 Train Loss - 0.08566
+Epoch-489 Val   Loss - 0.60658
+2019-08-10 19:11:09
+Epoch-490 Train Loss - 0.08384
+Epoch-490 Val   Loss - 0.60278
+2019-08-10 19:11:16
+Epoch-491 Train Loss - 0.08253
+Epoch-491 Val   Loss - 0.58525
+2019-08-10 19:11:22
+Epoch-492 Train Loss - 0.08393
+Epoch-492 Val   Loss - 0.58337
+2019-08-10 19:11:28
+Epoch-493 Train Loss - 0.08623
+Epoch-493 Val   Loss - 0.62677
+2019-08-10 19:11:35
+Epoch-494 Train Loss - 0.08420
+Epoch-494 Val   Loss - 0.64433
+2019-08-10 19:11:41
+Epoch-495 Train Loss - 0.08629
+Epoch-495 Val   Loss - 0.61501
+2019-08-10 19:11:47
+Epoch-496 Train Loss - 0.08757
+Epoch-496 Val   Loss - 0.60558
+2019-08-10 19:11:53
+Epoch-497 Train Loss - 0.08520
+Epoch-497 Val   Loss - 0.62427
+2019-08-10 19:12:00
+Epoch-498 Train Loss - 0.08410
+Epoch-498 Val   Loss - 0.64224
+2019-08-10 19:12:06
+Epoch-499 Train Loss - 0.08545
+Epoch-499 Val   Loss - 0.63565
+2019-08-10 19:12:12
+Epoch-500 Train Loss - 0.08773
+Epoch-500 Val   Loss - 0.64900
+2019-08-10 19:12:19
+Epoch-501 Train Loss - 0.08614
+Epoch-501 Val   Loss - 0.63528
+2019-08-10 19:12:25
+Epoch-502 Train Loss - 0.08355
+Epoch-502 Val   Loss - 0.61582
+2019-08-10 19:12:32
+Epoch-503 Train Loss - 0.08256
+Epoch-503 Val   Loss - 0.61386
+2019-08-10 19:12:38
+Epoch-504 Train Loss - 0.08716
+Epoch-504 Val   Loss - 0.62635
+2019-08-10 19:12:44
+Epoch-505 Train Loss - 0.09316
+Epoch-505 Val   Loss - 0.61769
+2019-08-10 19:12:50
+Epoch-506 Train Loss - 0.09961
+Epoch-506 Val   Loss - 0.65044
+2019-08-10 19:12:57
+Epoch-507 Train Loss - 0.09809
+Epoch-507 Val   Loss - 0.65205
+2019-08-10 19:13:03
+Epoch-508 Train Loss - 0.08868
+Epoch-508 Val   Loss - 0.61683
+2019-08-10 19:13:10
+Epoch-509 Train Loss - 0.08508
+Epoch-509 Val   Loss - 0.60827
+2019-08-10 19:13:16
+Epoch-510 Train Loss - 0.08424
+Epoch-510 Val   Loss - 0.63949
+2019-08-10 19:13:22
+Epoch-511 Train Loss - 0.08516
+Epoch-511 Val   Loss - 0.66694
+2019-08-10 19:13:29
+Epoch-512 Train Loss - 0.08588
+Epoch-512 Val   Loss - 0.68436
+2019-08-10 19:13:35
+Epoch-513 Train Loss - 0.08401
+Epoch-513 Val   Loss - 0.68094
+2019-08-10 19:13:42
+Epoch-514 Train Loss - 0.08234
+Epoch-514 Val   Loss - 0.67822
+2019-08-10 19:13:48
+Epoch-515 Train Loss - 0.08086
+Epoch-515 Val   Loss - 0.66418
+2019-08-10 19:13:54
+Epoch-516 Train Loss - 0.08333
+Epoch-516 Val   Loss - 0.65173
+2019-08-10 19:14:01
+Epoch-517 Train Loss - 0.08508
+Epoch-517 Val   Loss - 0.62524
+2019-08-10 19:14:07
+Epoch-518 Train Loss - 0.08704
+Epoch-518 Val   Loss - 0.60000
+2019-08-10 19:14:13
+Epoch-519 Train Loss - 0.09143
+Epoch-519 Val   Loss - 0.58131
+2019-08-10 19:14:19
+Epoch-520 Train Loss - 0.09653
+Epoch-520 Val   Loss - 0.58894
+2019-08-10 19:14:26
+Epoch-521 Train Loss - 0.09578
+Epoch-521 Val   Loss - 0.58914
+2019-08-10 19:14:32
+Epoch-522 Train Loss - 0.09221
+Epoch-522 Val   Loss - 0.60040
+2019-08-10 19:14:39
+Epoch-523 Train Loss - 0.09041
+Epoch-523 Val   Loss - 0.59613
+2019-08-10 19:14:45
+Epoch-524 Train Loss - 0.08909
+Epoch-524 Val   Loss - 0.58013
+2019-08-10 19:14:51
+Epoch-525 Train Loss - 0.08434
+Epoch-525 Val   Loss - 0.58170
+2019-08-10 19:14:58
+Epoch-526 Train Loss - 0.08290
+Epoch-526 Val   Loss - 0.58911
+2019-08-10 19:15:04
+Epoch-527 Train Loss - 0.08300
+Epoch-527 Val   Loss - 0.58957
+2019-08-10 19:15:11
+Epoch-528 Train Loss - 0.08699
+Epoch-528 Val   Loss - 0.61178
+2019-08-10 19:15:17
+Epoch-529 Train Loss - 0.08990
+Epoch-529 Val   Loss - 0.61930
+2019-08-10 19:15:23
+Epoch-530 Train Loss - 0.08651
+Epoch-530 Val   Loss - 0.62907
+2019-08-10 19:15:29
+Epoch-531 Train Loss - 0.08630
+Epoch-531 Val   Loss - 0.60469
+2019-08-10 19:15:36
+Epoch-532 Train Loss - 0.08677
+Epoch-532 Val   Loss - 0.58150
+2019-08-10 19:15:42
+Epoch-533 Train Loss - 0.08606
+Epoch-533 Val   Loss - 0.58673
+2019-08-10 19:15:48
+Epoch-534 Train Loss - 0.08456
+Epoch-534 Val   Loss - 0.58882
+2019-08-10 19:15:55
+Epoch-535 Train Loss - 0.08812
+Epoch-535 Val   Loss - 0.58045
+2019-08-10 19:16:01
+Epoch-536 Train Loss - 0.09386
+Epoch-536 Val   Loss - 0.59693
+2019-08-10 19:16:08
+Epoch-537 Train Loss - 0.09994
+Epoch-537 Val   Loss - 0.63817
+2019-08-10 19:16:14
+Epoch-538 Train Loss - 0.09657
+Epoch-538 Val   Loss - 0.62037
+2019-08-10 19:16:20
+Epoch-539 Train Loss - 0.09108
+Epoch-539 Val   Loss - 0.60090
+2019-08-10 19:16:27
+Epoch-540 Train Loss - 0.09378
+Epoch-540 Val   Loss - 0.59606
+2019-08-10 19:16:33
+Epoch-541 Train Loss - 0.10046
+Epoch-541 Val   Loss - 0.60563
+2019-08-10 19:16:40
+Epoch-542 Train Loss - 0.10130
+Epoch-542 Val   Loss - 0.62347
+2019-08-10 19:16:46
+Epoch-543 Train Loss - 0.10192
+Epoch-543 Val   Loss - 0.58802
+2019-08-10 19:16:52
+Epoch-544 Train Loss - 0.10259
+Epoch-544 Val   Loss - 0.60706
+2019-08-10 19:16:59
+Epoch-545 Train Loss - 0.10454
+Epoch-545 Val   Loss - 0.64606
+2019-08-10 19:17:05
+Epoch-546 Train Loss - 0.10357
+Epoch-546 Val   Loss - 0.63923
+2019-08-10 19:17:11
+Epoch-547 Train Loss - 0.10335
+Epoch-547 Val   Loss - 0.62937
+2019-08-10 19:17:18
+Epoch-548 Train Loss - 0.10245
+Epoch-548 Val   Loss - 0.60896
+2019-08-10 19:17:24
+Epoch-549 Train Loss - 0.10495
+Epoch-549 Val   Loss - 0.63772
+2019-08-10 19:17:31
+Epoch-550 Train Loss - 0.10659
+Epoch-550 Val   Loss - 0.61312
+2019-08-10 19:17:37
+Epoch-551 Train Loss - 0.10084
+Epoch-551 Val   Loss - 0.62423
+2019-08-10 19:17:43
+Epoch-552 Train Loss - 0.09468
+Epoch-552 Val   Loss - 0.63228
+2019-08-10 19:17:50
+Epoch-553 Train Loss - 0.09010
+Epoch-553 Val   Loss - 0.63536
+2019-08-10 19:17:56
+Epoch-554 Train Loss - 0.08474
+Epoch-554 Val   Loss - 0.61312
+2019-08-10 19:18:02
+Epoch-555 Train Loss - 0.08263
+Epoch-555 Val   Loss - 0.62440
+2019-08-10 19:18:09
+Epoch-556 Train Loss - 0.08107
+Epoch-556 Val   Loss - 0.62640
+2019-08-10 19:18:15
+Epoch-557 Train Loss - 0.07973
+Epoch-557 Val   Loss - 0.63668
+2019-08-10 19:18:21
+Epoch-558 Train Loss - 0.07795
+Epoch-558 Val   Loss - 0.64704
+2019-08-10 19:18:28
+Epoch-559 Train Loss - 0.07660
+Epoch-559 Val   Loss - 0.65422
+2019-08-10 19:18:34
+Epoch-560 Train Loss - 0.07619
+Epoch-560 Val   Loss - 0.67112
+2019-08-10 19:18:40
+Epoch-561 Train Loss - 0.07761
+Epoch-561 Val   Loss - 0.69232
+2019-08-10 19:18:46
+Epoch-562 Train Loss - 0.07831
+Epoch-562 Val   Loss - 0.70927
+2019-08-10 19:18:52
+Epoch-563 Train Loss - 0.07903
+Epoch-563 Val   Loss - 0.69677
+2019-08-10 19:18:58
+Epoch-564 Train Loss - 0.07938
+Epoch-564 Val   Loss - 0.66628
+2019-08-10 19:19:04
+Epoch-565 Train Loss - 0.07973
+Epoch-565 Val   Loss - 0.66569
+2019-08-10 19:19:10
+Epoch-566 Train Loss - 0.08104
+Epoch-566 Val   Loss - 0.68529
+2019-08-10 19:19:17
+Epoch-567 Train Loss - 0.08419
+Epoch-567 Val   Loss - 0.70046
+2019-08-10 19:19:23
+Epoch-568 Train Loss - 0.08522
+Epoch-568 Val   Loss - 0.67107
+2019-08-10 19:19:30
+Epoch-569 Train Loss - 0.08410
+Epoch-569 Val   Loss - 0.65069
+2019-08-10 19:19:36
+Epoch-570 Train Loss - 0.07720
+Epoch-570 Val   Loss - 0.64725
+2019-08-10 19:19:43
+Epoch-571 Train Loss - 0.07415
+Epoch-571 Val   Loss - 0.66771
+2019-08-10 19:19:49
+Epoch-572 Train Loss - 0.07073
+Epoch-572 Val   Loss - 0.69739
+2019-08-10 19:19:55
+Epoch-573 Train Loss - 0.06832
+Epoch-573 Val   Loss - 0.71474
+2019-08-10 19:20:01
+Epoch-574 Train Loss - 0.06778
+Epoch-574 Val   Loss - 0.72268
+2019-08-10 19:20:07
+Epoch-575 Train Loss - 0.06694
+Epoch-575 Val   Loss - 0.71874
+2019-08-10 19:20:13
+Epoch-576 Train Loss - 0.06656
+Epoch-576 Val   Loss - 0.71453
+2019-08-10 19:20:20
+Epoch-577 Train Loss - 0.06755
+Epoch-577 Val   Loss - 0.72819
+2019-08-10 19:20:26
+Epoch-578 Train Loss - 0.06839
+Epoch-578 Val   Loss - 0.71633
+2019-08-10 19:20:33
+Epoch-579 Train Loss - 0.07078
+Epoch-579 Val   Loss - 0.70006
+2019-08-10 19:20:39
+Epoch-580 Train Loss - 0.07371
+Epoch-580 Val   Loss - 0.67097
+2019-08-10 19:20:45
+Epoch-581 Train Loss - 0.07460
+Epoch-581 Val   Loss - 0.67079
+2019-08-10 19:20:52
+Epoch-582 Train Loss - 0.06988
+Epoch-582 Val   Loss - 0.70741
+2019-08-10 19:20:58
+Epoch-583 Train Loss - 0.06819
+Epoch-583 Val   Loss - 0.68745
+2019-08-10 19:21:05
+Epoch-584 Train Loss - 0.06684
+Epoch-584 Val   Loss - 0.65799
+2019-08-10 19:21:11
+Epoch-585 Train Loss - 0.06644
+Epoch-585 Val   Loss - 0.66000
+2019-08-10 19:21:17
+Epoch-586 Train Loss - 0.06898
+Epoch-586 Val   Loss - 0.68230
+2019-08-10 19:21:24
+Epoch-587 Train Loss - 0.07222
+Epoch-587 Val   Loss - 0.68383
+2019-08-10 19:21:30
+Epoch-588 Train Loss - 0.07351
+Epoch-588 Val   Loss - 0.65829
+2019-08-10 19:21:37
+Epoch-589 Train Loss - 0.07444
+Epoch-589 Val   Loss - 0.65383
+2019-08-10 19:21:43
+Epoch-590 Train Loss - 0.07574
+Epoch-590 Val   Loss - 0.72193
+2019-08-10 19:21:49
+Epoch-591 Train Loss - 0.07671
+Epoch-591 Val   Loss - 0.72937
+2019-08-10 19:21:56
+Epoch-592 Train Loss - 0.07450
+Epoch-592 Val   Loss - 0.71921
+2019-08-10 19:22:02
+Epoch-593 Train Loss - 0.07098
+Epoch-593 Val   Loss - 0.70694
+2019-08-10 19:22:08
+Epoch-594 Train Loss - 0.07092
+Epoch-594 Val   Loss - 0.70307
+2019-08-10 19:22:15
+Epoch-595 Train Loss - 0.07239
+Epoch-595 Val   Loss - 0.70161
+2019-08-10 19:22:21
+Epoch-596 Train Loss - 0.07338
+Epoch-596 Val   Loss - 0.67746
+2019-08-10 19:22:27
+Epoch-597 Train Loss - 0.07641
+Epoch-597 Val   Loss - 0.67674
+2019-08-10 19:22:34
+Epoch-598 Train Loss - 0.08003
+Epoch-598 Val   Loss - 0.72091
+2019-08-10 19:22:40
+Epoch-599 Train Loss - 0.08538
+Epoch-599 Val   Loss - 0.72910
+2019-08-10 19:22:46
+Epoch-600 Train Loss - 0.08870
+Epoch-600 Val   Loss - 0.69566
+2019-08-10 19:22:53
+Epoch-601 Train Loss - 0.08620
+Epoch-601 Val   Loss - 0.67844
+2019-08-10 19:22:59
+Epoch-602 Train Loss - 0.07639
+Epoch-602 Val   Loss - 0.70913
+2019-08-10 19:23:05
+Epoch-603 Train Loss - 0.07023
+Epoch-603 Val   Loss - 0.69299
+2019-08-10 19:23:11
+Epoch-604 Train Loss - 0.06709
+Epoch-604 Val   Loss - 0.70803
+2019-08-10 19:23:18
+Epoch-605 Train Loss - 0.06565
+Epoch-605 Val   Loss - 0.71665
+2019-08-10 19:23:24
+Epoch-606 Train Loss - 0.06586
+Epoch-606 Val   Loss - 0.72746
+2019-08-10 19:23:30
+Epoch-607 Train Loss - 0.06379
+Epoch-607 Val   Loss - 0.70822
+2019-08-10 19:23:37
+Epoch-608 Train Loss - 0.06382
+Epoch-608 Val   Loss - 0.67930
+2019-08-10 19:23:43
+Epoch-609 Train Loss - 0.06515
+Epoch-609 Val   Loss - 0.65921
+2019-08-10 19:23:50
+Epoch-610 Train Loss - 0.06634
+Epoch-610 Val   Loss - 0.63232
+2019-08-10 19:23:56
+Epoch-611 Train Loss - 0.06718
+Epoch-611 Val   Loss - 0.62085
+2019-08-10 19:24:02
+Epoch-612 Train Loss - 0.06811
+Epoch-612 Val   Loss - 0.62704
+2019-08-10 19:24:08
+Epoch-613 Train Loss - 0.06917
+Epoch-613 Val   Loss - 0.61529
+2019-08-10 19:24:15
+Epoch-614 Train Loss - 0.06967
+Epoch-614 Val   Loss - 0.62438
+2019-08-10 19:24:21
+Epoch-615 Train Loss - 0.07207
+Epoch-615 Val   Loss - 0.64514
+2019-08-10 19:24:27
+Epoch-616 Train Loss - 0.07605
+Epoch-616 Val   Loss - 0.64341
+2019-08-10 19:24:34
+Epoch-617 Train Loss - 0.07882
+Epoch-617 Val   Loss - 0.67030
+2019-08-10 19:24:40
+Epoch-618 Train Loss - 0.08218
+Epoch-618 Val   Loss - 0.68318
+2019-08-10 19:24:46
+Epoch-619 Train Loss - 0.08250
+Epoch-619 Val   Loss - 0.68898
+2019-08-10 19:24:52
+Epoch-620 Train Loss - 0.07968
+Epoch-620 Val   Loss - 0.68431
+2019-08-10 19:24:59
+Epoch-621 Train Loss - 0.07389
+Epoch-621 Val   Loss - 0.70007
+2019-08-10 19:25:05
+Epoch-622 Train Loss - 0.06920
+Epoch-622 Val   Loss - 0.70390
+2019-08-10 19:25:12
+Epoch-623 Train Loss - 0.06691
+Epoch-623 Val   Loss - 0.69381
+2019-08-10 19:25:18
+Epoch-624 Train Loss - 0.06488
+Epoch-624 Val   Loss - 0.69689
+2019-08-10 19:25:25
+Epoch-625 Train Loss - 0.06446
+Epoch-625 Val   Loss - 0.70571
+2019-08-10 19:25:31
+Epoch-626 Train Loss - 0.06467
+Epoch-626 Val   Loss - 0.69185
+2019-08-10 19:25:37
+Epoch-627 Train Loss - 0.06692
+Epoch-627 Val   Loss - 0.67327
+2019-08-10 19:25:43
+Epoch-628 Train Loss - 0.07073
+Epoch-628 Val   Loss - 0.67394
+2019-08-10 19:25:50
+Epoch-629 Train Loss - 0.07604
+Epoch-629 Val   Loss - 0.69271
+2019-08-10 19:25:56
+Epoch-630 Train Loss - 0.07578
+Epoch-630 Val   Loss - 0.67130
+2019-08-10 19:26:03
+Epoch-631 Train Loss - 0.07540
+Epoch-631 Val   Loss - 0.68906
+2019-08-10 19:26:09
+Epoch-632 Train Loss - 0.07380
+Epoch-632 Val   Loss - 0.71403
+2019-08-10 19:26:15
+Epoch-633 Train Loss - 0.07631
+Epoch-633 Val   Loss - 0.74931
+2019-08-10 19:26:22
+Epoch-634 Train Loss - 0.07996
+Epoch-634 Val   Loss - 0.73151
+2019-08-10 19:26:28
+Epoch-635 Train Loss - 0.08566
+Epoch-635 Val   Loss - 0.71002
+2019-08-10 19:26:34
+Epoch-636 Train Loss - 0.07931
+Epoch-636 Val   Loss - 0.74447
+2019-08-10 19:26:41
+Epoch-637 Train Loss - 0.07454
+Epoch-637 Val   Loss - 0.73451
+2019-08-10 19:26:47
+Epoch-638 Train Loss - 0.06880
+Epoch-638 Val   Loss - 0.72279
+2019-08-10 19:26:53
+Epoch-639 Train Loss - 0.06722
+Epoch-639 Val   Loss - 0.68422
+2019-08-10 19:27:00
+Epoch-640 Train Loss - 0.06699
+Epoch-640 Val   Loss - 0.67987
+2019-08-10 19:27:06
+Epoch-641 Train Loss - 0.06661
+Epoch-641 Val   Loss - 0.69278
+2019-08-10 19:27:13
+Epoch-642 Train Loss - 0.06720
+Epoch-642 Val   Loss - 0.70853
+2019-08-10 19:27:19
+Epoch-643 Train Loss - 0.06658
+Epoch-643 Val   Loss - 0.71696
+2019-08-10 19:27:26
+Epoch-644 Train Loss - 0.06665
+Epoch-644 Val   Loss - 0.72833
+2019-08-10 19:27:32
+Epoch-645 Train Loss - 0.06729
+Epoch-645 Val   Loss - 0.74989
+2019-08-10 19:27:39
+Epoch-646 Train Loss - 0.06719
+Epoch-646 Val   Loss - 0.73860
+2019-08-10 19:27:45
+Epoch-647 Train Loss - 0.06378
+Epoch-647 Val   Loss - 0.73740
+2019-08-10 19:27:51
+Epoch-648 Train Loss - 0.06081
+Epoch-648 Val   Loss - 0.73401
+2019-08-10 19:27:58
+Epoch-649 Train Loss - 0.05907
+Epoch-649 Val   Loss - 0.73762
+2019-08-10 19:28:04
+Epoch-650 Train Loss - 0.06043
+Epoch-650 Val   Loss - 0.75455
+2019-08-10 19:28:11
+Epoch-651 Train Loss - 0.06175
+Epoch-651 Val   Loss - 0.77352
+2019-08-10 19:28:17
+Epoch-652 Train Loss - 0.06028
+Epoch-652 Val   Loss - 0.78938
+2019-08-10 19:28:23
+Epoch-653 Train Loss - 0.06004
+Epoch-653 Val   Loss - 0.77791
+2019-08-10 19:28:30
+Epoch-654 Train Loss - 0.05933
+Epoch-654 Val   Loss - 0.75772
+2019-08-10 19:28:36
+Epoch-655 Train Loss - 0.05864
+Epoch-655 Val   Loss - 0.73418
+2019-08-10 19:28:43
+Epoch-656 Train Loss - 0.05825
+Epoch-656 Val   Loss - 0.71727
+2019-08-10 19:28:49
+Epoch-657 Train Loss - 0.05977
+Epoch-657 Val   Loss - 0.74499
+2019-08-10 19:28:54
+Epoch-658 Train Loss - 0.05994
+Epoch-658 Val   Loss - 0.77932
+2019-08-10 19:29:00
+Epoch-659 Train Loss - 0.06149
+Epoch-659 Val   Loss - 0.75334
+2019-08-10 19:29:07
+Epoch-660 Train Loss - 0.06092
+Epoch-660 Val   Loss - 0.75661
+2019-08-10 19:29:13
+Epoch-661 Train Loss - 0.06385
+Epoch-661 Val   Loss - 0.75974
+2019-08-10 19:29:20
+Epoch-662 Train Loss - 0.06572
+Epoch-662 Val   Loss - 0.74757
+2019-08-10 19:29:26
+Epoch-663 Train Loss - 0.06596
+Epoch-663 Val   Loss - 0.71021
+2019-08-10 19:29:33
+Epoch-664 Train Loss - 0.06567
+Epoch-664 Val   Loss - 0.71050
+2019-08-10 19:29:39
+Epoch-665 Train Loss - 0.06640
+Epoch-665 Val   Loss - 0.70021
+2019-08-10 19:29:46
+Epoch-666 Train Loss - 0.06818
+Epoch-666 Val   Loss - 0.72076
+2019-08-10 19:29:52
+Epoch-667 Train Loss - 0.06829
+Epoch-667 Val   Loss - 0.76658
+2019-08-10 19:29:59
+Epoch-668 Train Loss - 0.06816
+Epoch-668 Val   Loss - 0.80155
+2019-08-10 19:30:05
+Epoch-669 Train Loss - 0.06298
+Epoch-669 Val   Loss - 0.80553
+2019-08-10 19:30:11
+Epoch-670 Train Loss - 0.06014
+Epoch-670 Val   Loss - 0.79394
+2019-08-10 19:30:18
+Epoch-671 Train Loss - 0.06144
+Epoch-671 Val   Loss - 0.75766
+2019-08-10 19:30:24
+Epoch-672 Train Loss - 0.06178
+Epoch-672 Val   Loss - 0.75250
+2019-08-10 19:30:30
+Epoch-673 Train Loss - 0.06245
+Epoch-673 Val   Loss - 0.75822
+2019-08-10 19:30:37
+Epoch-674 Train Loss - 0.06566
+Epoch-674 Val   Loss - 0.76433
+2019-08-10 19:30:44
+Epoch-675 Train Loss - 0.06850
+Epoch-675 Val   Loss - 0.73358
+2019-08-10 19:30:50
+Epoch-676 Train Loss - 0.07108
+Epoch-676 Val   Loss - 0.70254
+2019-08-10 19:30:57
+Epoch-677 Train Loss - 0.07036
+Epoch-677 Val   Loss - 0.67168
+2019-08-10 19:31:03
+Epoch-678 Train Loss - 0.06992
+Epoch-678 Val   Loss - 0.67431
+2019-08-10 19:31:09
+Epoch-679 Train Loss - 0.06922
+Epoch-679 Val   Loss - 0.67238
+2019-08-10 19:31:16
+Epoch-680 Train Loss - 0.07020
+Epoch-680 Val   Loss - 0.66784
+2019-08-10 19:31:22
+Epoch-681 Train Loss - 0.06868
+Epoch-681 Val   Loss - 0.68763
+2019-08-10 19:31:29
+Epoch-682 Train Loss - 0.06581
+Epoch-682 Val   Loss - 0.67402
+2019-08-10 19:31:35
+Epoch-683 Train Loss - 0.06620
+Epoch-683 Val   Loss - 0.64011
+2019-08-10 19:31:42
+Epoch-684 Train Loss - 0.06845
+Epoch-684 Val   Loss - 0.65800
+2019-08-10 19:31:48
+Epoch-685 Train Loss - 0.07171
+Epoch-685 Val   Loss - 0.67410
+2019-08-10 19:31:54
+Epoch-686 Train Loss - 0.07453
+Epoch-686 Val   Loss - 0.69170
+2019-08-10 19:32:01
+Epoch-687 Train Loss - 0.07871
+Epoch-687 Val   Loss - 0.68848
+2019-08-10 19:32:07
+Epoch-688 Train Loss - 0.08385
+Epoch-688 Val   Loss - 0.68521
+2019-08-10 19:32:13
+Epoch-689 Train Loss - 0.08394
+Epoch-689 Val   Loss - 0.68563
+2019-08-10 19:32:20
+Epoch-690 Train Loss - 0.07963
+Epoch-690 Val   Loss - 0.70375
+2019-08-10 19:32:26
+Epoch-691 Train Loss - 0.07579
+Epoch-691 Val   Loss - 0.69804
+2019-08-10 19:32:32
+Epoch-692 Train Loss - 0.07842
+Epoch-692 Val   Loss - 0.71282
+2019-08-10 19:32:39
+Epoch-693 Train Loss - 0.08226
+Epoch-693 Val   Loss - 0.74180
+2019-08-10 19:32:45
+Epoch-694 Train Loss - 0.08897
+Epoch-694 Val   Loss - 0.73538
+2019-08-10 19:32:52
+Epoch-695 Train Loss - 0.09010
+Epoch-695 Val   Loss - 0.70255
+2019-08-10 19:32:58
+Epoch-696 Train Loss - 0.08957
+Epoch-696 Val   Loss - 0.69548
+2019-08-10 19:33:05
+Epoch-697 Train Loss - 0.08657
+Epoch-697 Val   Loss - 0.68827
+2019-08-10 19:33:11
+Epoch-698 Train Loss - 0.08411
+Epoch-698 Val   Loss - 0.69907
+2019-08-10 19:33:17
+Epoch-699 Train Loss - 0.08096
+Epoch-699 Val   Loss - 0.71741
+2019-08-10 19:33:24
+Epoch-700 Train Loss - 0.08377
+Epoch-700 Val   Loss - 0.68656
+2019-08-10 19:33:30
+Epoch-701 Train Loss - 0.08586
+Epoch-701 Val   Loss - 0.68206
+2019-08-10 19:33:37
+Epoch-702 Train Loss - 0.08078
+Epoch-702 Val   Loss - 0.69526
+2019-08-10 19:33:43
+Epoch-703 Train Loss - 0.07778
+Epoch-703 Val   Loss - 0.70808
+2019-08-10 19:33:49
+Epoch-704 Train Loss - 0.07615
+Epoch-704 Val   Loss - 0.70201
+2019-08-10 19:33:56
+Epoch-705 Train Loss - 0.07347
+Epoch-705 Val   Loss - 0.71268
+2019-08-10 19:34:02
+Epoch-706 Train Loss - 0.06980
+Epoch-706 Val   Loss - 0.72120
+2019-08-10 19:34:08
+Epoch-707 Train Loss - 0.06811
+Epoch-707 Val   Loss - 0.74932
+2019-08-10 19:34:15
+Epoch-708 Train Loss - 0.06706
+Epoch-708 Val   Loss - 0.75882
+2019-08-10 19:34:21
+Epoch-709 Train Loss - 0.06707
+Epoch-709 Val   Loss - 0.74433
+2019-08-10 19:34:28
+Epoch-710 Train Loss - 0.06804
+Epoch-710 Val   Loss - 0.73807
+2019-08-10 19:34:34
+Epoch-711 Train Loss - 0.06865
+Epoch-711 Val   Loss - 0.73051
+2019-08-10 19:34:41
+Epoch-712 Train Loss - 0.06864
+Epoch-712 Val   Loss - 0.69201
+2019-08-10 19:34:47
+Epoch-713 Train Loss - 0.06916
+Epoch-713 Val   Loss - 0.69096
+2019-08-10 19:34:53
+Epoch-714 Train Loss - 0.06651
+Epoch-714 Val   Loss - 0.68437
+2019-08-10 19:34:59
+Epoch-715 Train Loss - 0.06593
+Epoch-715 Val   Loss - 0.67408
+2019-08-10 19:35:06
+Epoch-716 Train Loss - 0.06350
+Epoch-716 Val   Loss - 0.67236
+2019-08-10 19:35:12
+Epoch-717 Train Loss - 0.06198
+Epoch-717 Val   Loss - 0.69283
+2019-08-10 19:35:19
+Epoch-718 Train Loss - 0.06071
+Epoch-718 Val   Loss - 0.69336
+2019-08-10 19:35:25
+Epoch-719 Train Loss - 0.05993
+Epoch-719 Val   Loss - 0.68216
+2019-08-10 19:35:31
+Epoch-720 Train Loss - 0.05974
+Epoch-720 Val   Loss - 0.69203
+2019-08-10 19:35:38
+Epoch-721 Train Loss - 0.05978
+Epoch-721 Val   Loss - 0.70099
+2019-08-10 19:35:44
+Epoch-722 Train Loss - 0.05913
+Epoch-722 Val   Loss - 0.72501
+2019-08-10 19:35:51
+Epoch-723 Train Loss - 0.05919
+Epoch-723 Val   Loss - 0.72974
+2019-08-10 19:35:57
+Epoch-724 Train Loss - 0.05988
+Epoch-724 Val   Loss - 0.73116
+2019-08-10 19:36:04
+Epoch-725 Train Loss - 0.06011
+Epoch-725 Val   Loss - 0.73002
+2019-08-10 19:36:10
+Epoch-726 Train Loss - 0.06112
+Epoch-726 Val   Loss - 0.74233
+2019-08-10 19:36:16
+Epoch-727 Train Loss - 0.06270
+Epoch-727 Val   Loss - 0.73597
+2019-08-10 19:36:23
+Epoch-728 Train Loss - 0.06191
+Epoch-728 Val   Loss - 0.73921
+2019-08-10 19:36:29
+Epoch-729 Train Loss - 0.06055
+Epoch-729 Val   Loss - 0.74587
+2019-08-10 19:36:36
+Epoch-730 Train Loss - 0.05881
+Epoch-730 Val   Loss - 0.74051
+2019-08-10 19:36:42
+Epoch-731 Train Loss - 0.05605
+Epoch-731 Val   Loss - 0.75709
+2019-08-10 19:36:48
+Epoch-732 Train Loss - 0.05264
+Epoch-732 Val   Loss - 0.73190
+2019-08-10 19:36:55
+Epoch-733 Train Loss - 0.05033
+Epoch-733 Val   Loss - 0.71363
+2019-08-10 19:37:01
+Epoch-734 Train Loss - 0.04859
+Epoch-734 Val   Loss - 0.71078
+2019-08-10 19:37:07
+Epoch-735 Train Loss - 0.04920
+Epoch-735 Val   Loss - 0.71931
+2019-08-10 19:37:14
+Epoch-736 Train Loss - 0.04957
+Epoch-736 Val   Loss - 0.73363
+2019-08-10 19:37:20
+Epoch-737 Train Loss - 0.05084
+Epoch-737 Val   Loss - 0.78124
+2019-08-10 19:37:27
+Epoch-738 Train Loss - 0.05148
+Epoch-738 Val   Loss - 0.79467
+2019-08-10 19:37:34
+Epoch-739 Train Loss - 0.05342
+Epoch-739 Val   Loss - 0.80235
+2019-08-10 19:37:40
+Epoch-740 Train Loss - 0.05494
+Epoch-740 Val   Loss - 0.77213
+2019-08-10 19:37:46
+Epoch-741 Train Loss - 0.05178
+Epoch-741 Val   Loss - 0.73903
+2019-08-10 19:37:53
+Epoch-742 Train Loss - 0.05098
+Epoch-742 Val   Loss - 0.73261
+2019-08-10 19:37:59
+Epoch-743 Train Loss - 0.04940
+Epoch-743 Val   Loss - 0.78477
+2019-08-10 19:38:06
+Epoch-744 Train Loss - 0.04855
+Epoch-744 Val   Loss - 0.80366
+2019-08-10 19:38:12
+Epoch-745 Train Loss - 0.04960
+Epoch-745 Val   Loss - 0.79647
+2019-08-10 19:38:18
+Epoch-746 Train Loss - 0.05112
+Epoch-746 Val   Loss - 0.78414
+2019-08-10 19:38:25
+Epoch-747 Train Loss - 0.05361
+Epoch-747 Val   Loss - 0.78325
+2019-08-10 19:38:31
+Epoch-748 Train Loss - 0.05582
+Epoch-748 Val   Loss - 0.79778
+2019-08-10 19:38:38
+Epoch-749 Train Loss - 0.05654
+Epoch-749 Val   Loss - 0.82008
+2019-08-10 19:38:44
+Epoch-750 Train Loss - 0.05682
+Epoch-750 Val   Loss - 0.83784
+2019-08-10 19:38:51
+Epoch-751 Train Loss - 0.05685
+Epoch-751 Val   Loss - 0.84367
+2019-08-10 19:38:57
+Epoch-752 Train Loss - 0.05918
+Epoch-752 Val   Loss - 0.82230
+2019-08-10 19:39:02
+Epoch-753 Train Loss - 0.06376
+Epoch-753 Val   Loss - 0.80702
+2019-08-10 19:39:09
+Epoch-754 Train Loss - 0.06613
+Epoch-754 Val   Loss - 0.82363
+2019-08-10 19:39:15
+Epoch-755 Train Loss - 0.06477
+Epoch-755 Val   Loss - 0.78900
+2019-08-10 19:39:21
+Epoch-756 Train Loss - 0.06258
+Epoch-756 Val   Loss - 0.74550
+2019-08-10 19:39:27
+Epoch-757 Train Loss - 0.06355
+Epoch-757 Val   Loss - 0.72348
+2019-08-10 19:39:34
+Epoch-758 Train Loss - 0.06332
+Epoch-758 Val   Loss - 0.78020
+2019-08-10 19:39:41
+Epoch-759 Train Loss - 0.05986
+Epoch-759 Val   Loss - 0.76940
+2019-08-10 19:39:47
+Epoch-760 Train Loss - 0.05630
+Epoch-760 Val   Loss - 0.78030
+2019-08-10 19:39:54
+Epoch-761 Train Loss - 0.05601
+Epoch-761 Val   Loss - 0.81339
+2019-08-10 19:40:00
+Epoch-762 Train Loss - 0.05525
+Epoch-762 Val   Loss - 0.84567
+2019-08-10 19:40:06
+Epoch-763 Train Loss - 0.05522
+Epoch-763 Val   Loss - 0.85973
+2019-08-10 19:40:12
+Epoch-764 Train Loss - 0.05640
+Epoch-764 Val   Loss - 0.84624
+2019-08-10 19:40:19
+Epoch-765 Train Loss - 0.05794
+Epoch-765 Val   Loss - 0.81759
+2019-08-10 19:40:25
+Epoch-766 Train Loss - 0.06067
+Epoch-766 Val   Loss - 0.80271
+2019-08-10 19:40:31
+Epoch-767 Train Loss - 0.06222
+Epoch-767 Val   Loss - 0.78236
+2019-08-10 19:40:38
+Epoch-768 Train Loss - 0.06223
+Epoch-768 Val   Loss - 0.79809
+2019-08-10 19:40:44
+Epoch-769 Train Loss - 0.05898
+Epoch-769 Val   Loss - 0.87916
+2019-08-10 19:40:51
+Epoch-770 Train Loss - 0.05597
+Epoch-770 Val   Loss - 0.88733
+2019-08-10 19:40:57
+Epoch-771 Train Loss - 0.05470
+Epoch-771 Val   Loss - 0.87723
+2019-08-10 19:41:03
+Epoch-772 Train Loss - 0.05530
+Epoch-772 Val   Loss - 0.88426
+2019-08-10 19:41:10
+Epoch-773 Train Loss - 0.05744
+Epoch-773 Val   Loss - 0.86206
+2019-08-10 19:41:16
+Epoch-774 Train Loss - 0.06193
+Epoch-774 Val   Loss - 0.82463
+2019-08-10 19:41:23
+Epoch-775 Train Loss - 0.06618
+Epoch-775 Val   Loss - 0.83034
+2019-08-10 19:41:29
+Epoch-776 Train Loss - 0.07003
+Epoch-776 Val   Loss - 0.82147
+2019-08-10 19:41:36
+Epoch-777 Train Loss - 0.06729
+Epoch-777 Val   Loss - 0.82466
+2019-08-10 19:41:42
+Epoch-778 Train Loss - 0.06916
+Epoch-778 Val   Loss - 0.82063
+2019-08-10 19:41:48
+Epoch-779 Train Loss - 0.07588
+Epoch-779 Val   Loss - 0.86880
+2019-08-10 19:41:55
+Epoch-780 Train Loss - 0.07545
+Epoch-780 Val   Loss - 0.90055
+2019-08-10 19:42:01
+Epoch-781 Train Loss - 0.07187
+Epoch-781 Val   Loss - 0.81719
+2019-08-10 19:42:07
+Epoch-782 Train Loss - 0.06533
+Epoch-782 Val   Loss - 0.81012
+2019-08-10 19:42:14
+Epoch-783 Train Loss - 0.06201
+Epoch-783 Val   Loss - 0.80989
+2019-08-10 19:42:20
+Epoch-784 Train Loss - 0.06117
+Epoch-784 Val   Loss - 0.81003
+2019-08-10 19:42:26
+Epoch-785 Train Loss - 0.05829
+Epoch-785 Val   Loss - 0.83810
+2019-08-10 19:42:33
+Epoch-786 Train Loss - 0.05456
+Epoch-786 Val   Loss - 0.85606
+2019-08-10 19:42:39
+Epoch-787 Train Loss - 0.05383
+Epoch-787 Val   Loss - 0.85909
+2019-08-10 19:42:46
+Epoch-788 Train Loss - 0.05187
+Epoch-788 Val   Loss - 0.83770
+2019-08-10 19:42:52
+Epoch-789 Train Loss - 0.05125
+Epoch-789 Val   Loss - 0.83652
+2019-08-10 19:42:59
+Epoch-790 Train Loss - 0.05217
+Epoch-790 Val   Loss - 0.82908
+2019-08-10 19:43:05
+Epoch-791 Train Loss - 0.05336
+Epoch-791 Val   Loss - 0.83215
+2019-08-10 19:43:11
+Epoch-792 Train Loss - 0.05071
+Epoch-792 Val   Loss - 0.88169
+2019-08-10 19:43:18
+Epoch-793 Train Loss - 0.04751
+Epoch-793 Val   Loss - 0.93311
+2019-08-10 19:43:24
+Epoch-794 Train Loss - 0.04575
+Epoch-794 Val   Loss - 0.94673
+2019-08-10 19:43:31
+Epoch-795 Train Loss - 0.04431
+Epoch-795 Val   Loss - 0.92883
+2019-08-10 19:43:37
+Epoch-796 Train Loss - 0.04365
+Epoch-796 Val   Loss - 0.92290
+2019-08-10 19:43:43
+Epoch-797 Train Loss - 0.04365
+Epoch-797 Val   Loss - 0.92491
+2019-08-10 19:43:49
+Epoch-798 Train Loss - 0.04382
+Epoch-798 Val   Loss - 0.87795
+2019-08-10 19:43:56
+Epoch-799 Train Loss - 0.04387
+Epoch-799 Val   Loss - 0.88224
+2019-08-10 19:44:02
+Epoch-800 Train Loss - 0.04453
+Epoch-800 Val   Loss - 0.88382
+2019-08-10 19:44:09
+Epoch-801 Train Loss - 0.04642
+Epoch-801 Val   Loss - 0.88908
+2019-08-10 19:44:15
+Epoch-802 Train Loss - 0.04876
+Epoch-802 Val   Loss - 0.87230
+2019-08-10 19:44:21
+Epoch-803 Train Loss - 0.04817
+Epoch-803 Val   Loss - 0.88821
+2019-08-10 19:44:27
+Epoch-804 Train Loss - 0.04655
+Epoch-804 Val   Loss - 0.93501
+2019-08-10 19:44:34
+Epoch-805 Train Loss - 0.04637
+Epoch-805 Val   Loss - 0.94139
+2019-08-10 19:44:40
+Epoch-806 Train Loss - 0.04692
+Epoch-806 Val   Loss - 0.94326
+2019-08-10 19:44:47
+Epoch-807 Train Loss - 0.04677
+Epoch-807 Val   Loss - 0.93873
+2019-08-10 19:44:53
+Epoch-808 Train Loss - 0.04743
+Epoch-808 Val   Loss - 0.95177
+2019-08-10 19:45:00
+Epoch-809 Train Loss - 0.04932
+Epoch-809 Val   Loss - 0.94815
+2019-08-10 19:45:06
+Epoch-810 Train Loss - 0.04879
+Epoch-810 Val   Loss - 0.94081
+2019-08-10 19:45:13
+Epoch-811 Train Loss - 0.04620
+Epoch-811 Val   Loss - 0.92782
+2019-08-10 19:45:19
+Epoch-812 Train Loss - 0.04588
+Epoch-812 Val   Loss - 0.92357
+2019-08-10 19:45:25
+Epoch-813 Train Loss - 0.04654
+Epoch-813 Val   Loss - 0.94622
+2019-08-10 19:45:32
+Epoch-814 Train Loss - 0.05011
+Epoch-814 Val   Loss - 0.96643
+2019-08-10 19:45:38
+Epoch-815 Train Loss - 0.05351
+Epoch-815 Val   Loss - 0.96943
+2019-08-10 19:45:44
+Epoch-816 Train Loss - 0.05963
+Epoch-816 Val   Loss - 0.90836
+2019-08-10 19:45:51
+Epoch-817 Train Loss - 0.06117
+Epoch-817 Val   Loss - 0.88808
+2019-08-10 19:45:57
+Epoch-818 Train Loss - 0.05999
+Epoch-818 Val   Loss - 0.90118
+2019-08-10 19:46:03
+Epoch-819 Train Loss - 0.05557
+Epoch-819 Val   Loss - 0.92074
+2019-08-10 19:46:10
+Epoch-820 Train Loss - 0.05585
+Epoch-820 Val   Loss - 0.94437
+2019-08-10 19:46:16
+Epoch-821 Train Loss - 0.04935
+Epoch-821 Val   Loss - 0.93805
+2019-08-10 19:46:22
+Epoch-822 Train Loss - 0.04630
+Epoch-822 Val   Loss - 0.96071
+2019-08-10 19:46:29
+Epoch-823 Train Loss - 0.04596
+Epoch-823 Val   Loss - 0.98348
+2019-08-10 19:46:35
+Epoch-824 Train Loss - 0.04675
+Epoch-824 Val   Loss - 0.98950
+2019-08-10 19:46:41
+Epoch-825 Train Loss - 0.04783
+Epoch-825 Val   Loss - 1.00071
+2019-08-10 19:46:48
+Epoch-826 Train Loss - 0.04830
+Epoch-826 Val   Loss - 1.01463
+2019-08-10 19:46:54
+Epoch-827 Train Loss - 0.05031
+Epoch-827 Val   Loss - 1.00652
+2019-08-10 19:47:01
+Epoch-828 Train Loss - 0.04978
+Epoch-828 Val   Loss - 0.98897
+2019-08-10 19:47:07
+Epoch-829 Train Loss - 0.04977
+Epoch-829 Val   Loss - 1.00235
+2019-08-10 19:47:13
+Epoch-830 Train Loss - 0.04599
+Epoch-830 Val   Loss - 1.04592
+2019-08-10 19:47:20
+Epoch-831 Train Loss - 0.04448
+Epoch-831 Val   Loss - 1.05469
+2019-08-10 19:47:26
+Epoch-832 Train Loss - 0.04566
+Epoch-832 Val   Loss - 1.05697
+2019-08-10 19:47:33
+Epoch-833 Train Loss - 0.04771
+Epoch-833 Val   Loss - 1.08346
+2019-08-10 19:47:39
+Epoch-834 Train Loss - 0.05035
+Epoch-834 Val   Loss - 1.10176
+2019-08-10 19:47:45
+Epoch-835 Train Loss - 0.05104
+Epoch-835 Val   Loss - 1.07376
+2019-08-10 19:47:52
+Epoch-836 Train Loss - 0.04970
+Epoch-836 Val   Loss - 1.06088
+2019-08-10 19:47:58
+Epoch-837 Train Loss - 0.04763
+Epoch-837 Val   Loss - 1.04863
+2019-08-10 19:48:05
+Epoch-838 Train Loss - 0.04892
+Epoch-838 Val   Loss - 1.02693
+2019-08-10 19:48:11
+Epoch-839 Train Loss - 0.04955
+Epoch-839 Val   Loss - 1.00995
+2019-08-10 19:48:18
+Epoch-840 Train Loss - 0.05337
+Epoch-840 Val   Loss - 0.99808
+2019-08-10 19:48:24
+Epoch-841 Train Loss - 0.05663
+Epoch-841 Val   Loss - 1.00839
+2019-08-10 19:48:30
+Epoch-842 Train Loss - 0.05862
+Epoch-842 Val   Loss - 1.00532
+2019-08-10 19:48:37
+Epoch-843 Train Loss - 0.06048
+Epoch-843 Val   Loss - 0.96575
+2019-08-10 19:48:43
+Epoch-844 Train Loss - 0.06454
+Epoch-844 Val   Loss - 0.99969
+2019-08-10 19:48:50
+Epoch-845 Train Loss - 0.06094
+Epoch-845 Val   Loss - 0.93970
+2019-08-10 19:48:56
+Epoch-846 Train Loss - 0.05749
+Epoch-846 Val   Loss - 0.93726
+2019-08-10 19:49:02
+Epoch-847 Train Loss - 0.05375
+Epoch-847 Val   Loss - 0.93401
+2019-08-10 19:49:07
+Epoch-848 Train Loss - 0.05355
+Epoch-848 Val   Loss - 0.95520
+2019-08-10 19:49:14
+Epoch-849 Train Loss - 0.05436
+Epoch-849 Val   Loss - 0.97412
+2019-08-10 19:49:20
+Epoch-850 Train Loss - 0.05682
+Epoch-850 Val   Loss - 1.00619
+2019-08-10 19:49:26
+Epoch-851 Train Loss - 0.05571
+Epoch-851 Val   Loss - 0.99053
+2019-08-10 19:49:33
+Epoch-852 Train Loss - 0.05572
+Epoch-852 Val   Loss - 0.99198
+2019-08-10 19:49:39
+Epoch-853 Train Loss - 0.05607
+Epoch-853 Val   Loss - 0.89795
+2019-08-10 19:49:45
+Epoch-854 Train Loss - 0.05680
+Epoch-854 Val   Loss - 0.83128
+2019-08-10 19:49:51
+Epoch-855 Train Loss - 0.05514
+Epoch-855 Val   Loss - 0.82931
+2019-08-10 19:49:58
+Epoch-856 Train Loss - 0.05214
+Epoch-856 Val   Loss - 0.85017
+2019-08-10 19:50:04
+Epoch-857 Train Loss - 0.05100
+Epoch-857 Val   Loss - 0.88258
+2019-08-10 19:50:10
+Epoch-858 Train Loss - 0.04924
+Epoch-858 Val   Loss - 0.91815
+2019-08-10 19:50:17
+Epoch-859 Train Loss - 0.04592
+Epoch-859 Val   Loss - 0.89415
+2019-08-10 19:50:23
+Epoch-860 Train Loss - 0.04316
+Epoch-860 Val   Loss - 0.87307
+2019-08-10 19:50:30
+Epoch-861 Train Loss - 0.04135
+Epoch-861 Val   Loss - 0.88364
+2019-08-10 19:50:36
+Epoch-862 Train Loss - 0.04067
+Epoch-862 Val   Loss - 0.88525
+2019-08-10 19:50:42
+Epoch-863 Train Loss - 0.04114
+Epoch-863 Val   Loss - 0.90202
+2019-08-10 19:50:49
+Epoch-864 Train Loss - 0.04130
+Epoch-864 Val   Loss - 0.92378
+2019-08-10 19:50:55
+Epoch-865 Train Loss - 0.04183
+Epoch-865 Val   Loss - 0.92524
+2019-08-10 19:51:02
+Epoch-866 Train Loss - 0.04354
+Epoch-866 Val   Loss - 0.91865
+2019-08-10 19:51:08
+Epoch-867 Train Loss - 0.04504
+Epoch-867 Val   Loss - 0.88868
+2019-08-10 19:51:14
+Epoch-868 Train Loss - 0.04439
+Epoch-868 Val   Loss - 0.87504
+2019-08-10 19:51:21
+Epoch-869 Train Loss - 0.04398
+Epoch-869 Val   Loss - 0.86920
+2019-08-10 19:51:27
+Epoch-870 Train Loss - 0.04269
+Epoch-870 Val   Loss - 0.88064
+2019-08-10 19:51:34
+Epoch-871 Train Loss - 0.04247
+Epoch-871 Val   Loss - 0.87590
+2019-08-10 19:51:40
+Epoch-872 Train Loss - 0.04191
+Epoch-872 Val   Loss - 0.87109
+2019-08-10 19:51:46
+Epoch-873 Train Loss - 0.04134
+Epoch-873 Val   Loss - 0.87183
+2019-08-10 19:51:53
+Epoch-874 Train Loss - 0.04108
+Epoch-874 Val   Loss - 0.86780
+2019-08-10 19:51:59
+Epoch-875 Train Loss - 0.04034
+Epoch-875 Val   Loss - 0.88357
+2019-08-10 19:52:05
+Epoch-876 Train Loss - 0.03761
+Epoch-876 Val   Loss - 0.89816
+2019-08-10 19:52:11
+Epoch-877 Train Loss - 0.03698
+Epoch-877 Val   Loss - 0.90072
+2019-08-10 19:52:18
+Epoch-878 Train Loss - 0.03787
+Epoch-878 Val   Loss - 0.89249
+2019-08-10 19:52:24
+Epoch-879 Train Loss - 0.03881
+Epoch-879 Val   Loss - 0.90301
+2019-08-10 19:52:30
+Epoch-880 Train Loss - 0.03944
+Epoch-880 Val   Loss - 0.89572
+2019-08-10 19:52:37
+Epoch-881 Train Loss - 0.04073
+Epoch-881 Val   Loss - 0.96140
+2019-08-10 19:52:43
+Epoch-882 Train Loss - 0.04155
+Epoch-882 Val   Loss - 0.96283
+2019-08-10 19:52:50
+Epoch-883 Train Loss - 0.04540
+Epoch-883 Val   Loss - 0.93231
+2019-08-10 19:52:56
+Epoch-884 Train Loss - 0.04221
+Epoch-884 Val   Loss - 0.94921
+2019-08-10 19:53:02
+Epoch-885 Train Loss - 0.04152
+Epoch-885 Val   Loss - 0.97298
+2019-08-10 19:53:09
+Epoch-886 Train Loss - 0.04067
+Epoch-886 Val   Loss - 0.98906
+2019-08-10 19:53:15
+Epoch-887 Train Loss - 0.04300
+Epoch-887 Val   Loss - 0.96645
+2019-08-10 19:53:21
+Epoch-888 Train Loss - 0.04596
+Epoch-888 Val   Loss - 0.93256
+2019-08-10 19:53:28
+Epoch-889 Train Loss - 0.05081
+Epoch-889 Val   Loss - 0.92724
+2019-08-10 19:53:35
+Epoch-890 Train Loss - 0.05057
+Epoch-890 Val   Loss - 0.89634
+2019-08-10 19:53:42
+Epoch-891 Train Loss - 0.04765
+Epoch-891 Val   Loss - 0.88913
+2019-08-10 19:53:48
+Epoch-892 Train Loss - 0.04234
+Epoch-892 Val   Loss - 0.90447
+2019-08-10 19:53:55
+Epoch-893 Train Loss - 0.03919
+Epoch-893 Val   Loss - 0.91437
+2019-08-10 19:54:01
+Epoch-894 Train Loss - 0.03754
+Epoch-894 Val   Loss - 0.92015
+2019-08-10 19:54:08
+Epoch-895 Train Loss - 0.03837
+Epoch-895 Val   Loss - 0.94421
+2019-08-10 19:54:15
+Epoch-896 Train Loss - 0.03901
+Epoch-896 Val   Loss - 0.96177
+2019-08-10 19:54:21
+Epoch-897 Train Loss - 0.04107
+Epoch-897 Val   Loss - 0.95372
+2019-08-10 19:54:27
+Epoch-898 Train Loss - 0.04473
+Epoch-898 Val   Loss - 0.92515
+2019-08-10 19:54:34
+Epoch-899 Train Loss - 0.04512
+Epoch-899 Val   Loss - 0.92439
+2019-08-10 19:54:41
+Epoch-900 Train Loss - 0.04464
+Epoch-900 Val   Loss - 1.00098
+2019-08-10 19:54:47
+Epoch-901 Train Loss - 0.04548
+Epoch-901 Val   Loss - 1.02880
+2019-08-10 19:54:54
+Epoch-902 Train Loss - 0.04630
+Epoch-902 Val   Loss - 1.02818
+2019-08-10 19:55:01
+Epoch-903 Train Loss - 0.04568
+Epoch-903 Val   Loss - 1.03285
+2019-08-10 19:55:07
+Epoch-904 Train Loss - 0.04865
+Epoch-904 Val   Loss - 1.00716
+2019-08-10 19:55:14
+Epoch-905 Train Loss - 0.04435
+Epoch-905 Val   Loss - 1.00246
+2019-08-10 19:55:20
+Epoch-906 Train Loss - 0.04417
+Epoch-906 Val   Loss - 0.99398
+2019-08-10 19:55:27
+Epoch-907 Train Loss - 0.04229
+Epoch-907 Val   Loss - 1.01308
+2019-08-10 19:55:33
+Epoch-908 Train Loss - 0.04148
+Epoch-908 Val   Loss - 1.00676
+2019-08-10 19:55:40
+Epoch-909 Train Loss - 0.04022
+Epoch-909 Val   Loss - 1.01393
+2019-08-10 19:55:46
+Epoch-910 Train Loss - 0.04029
+Epoch-910 Val   Loss - 0.98635
+2019-08-10 19:55:53
+Epoch-911 Train Loss - 0.03922
+Epoch-911 Val   Loss - 1.00768
+2019-08-10 19:55:59
+Epoch-912 Train Loss - 0.03986
+Epoch-912 Val   Loss - 1.07140
+2019-08-10 19:56:06
+Epoch-913 Train Loss - 0.03971
+Epoch-913 Val   Loss - 1.10084
+2019-08-10 19:56:12
+Epoch-914 Train Loss - 0.04174
+Epoch-914 Val   Loss - 1.09321
+2019-08-10 19:56:19
+Epoch-915 Train Loss - 0.04143
+Epoch-915 Val   Loss - 1.08577
+2019-08-10 19:56:26
+Epoch-916 Train Loss - 0.04134
+Epoch-916 Val   Loss - 1.06678
+2019-08-10 19:56:32
+Epoch-917 Train Loss - 0.04232
+Epoch-917 Val   Loss - 1.06158
+2019-08-10 19:56:39
+Epoch-918 Train Loss - 0.04152
+Epoch-918 Val   Loss - 1.08056
+2019-08-10 19:56:46
+Epoch-919 Train Loss - 0.04268
+Epoch-919 Val   Loss - 1.09421
+2019-08-10 19:56:52
+Epoch-920 Train Loss - 0.04127
+Epoch-920 Val   Loss - 1.08663
+2019-08-10 19:56:58
+Epoch-921 Train Loss - 0.04013
+Epoch-921 Val   Loss - 1.10669
+2019-08-10 19:57:05
+Epoch-922 Train Loss - 0.04070
+Epoch-922 Val   Loss - 1.10424
+2019-08-10 19:57:12
+Epoch-923 Train Loss - 0.03989
+Epoch-923 Val   Loss - 1.09410
+2019-08-10 19:57:18
+Epoch-924 Train Loss - 0.03809
+Epoch-924 Val   Loss - 1.09156
+2019-08-10 19:57:25
+Epoch-925 Train Loss - 0.03782
+Epoch-925 Val   Loss - 1.10053
+2019-08-10 19:57:31
+Epoch-926 Train Loss - 0.03844
+Epoch-926 Val   Loss - 1.10556
+2019-08-10 19:57:37
+Epoch-927 Train Loss - 0.03881
+Epoch-927 Val   Loss - 1.10119
+2019-08-10 19:57:44
+Epoch-928 Train Loss - 0.03990
+Epoch-928 Val   Loss - 1.08545
+2019-08-10 19:57:50
+Epoch-929 Train Loss - 0.03862
+Epoch-929 Val   Loss - 1.04716
+2019-08-10 19:57:57
+Epoch-930 Train Loss - 0.03755
+Epoch-930 Val   Loss - 1.04681
+2019-08-10 19:58:03
+Epoch-931 Train Loss - 0.03703
+Epoch-931 Val   Loss - 1.05928
+2019-08-10 19:58:10
+Epoch-932 Train Loss - 0.03793
+Epoch-932 Val   Loss - 1.05913
+2019-08-10 19:58:16
+Epoch-933 Train Loss - 0.04082
+Epoch-933 Val   Loss - 1.06303
+2019-08-10 19:58:23
+Epoch-934 Train Loss - 0.03973
+Epoch-934 Val   Loss - 1.07879
+2019-08-10 19:58:29
+Epoch-935 Train Loss - 0.03581
+Epoch-935 Val   Loss - 1.07128
+2019-08-10 19:58:36
+Epoch-936 Train Loss - 0.03330
+Epoch-936 Val   Loss - 1.03641
+2019-08-10 19:58:42
+Epoch-937 Train Loss - 0.03297
+Epoch-937 Val   Loss - 1.01859
+2019-08-10 19:58:49
+Epoch-938 Train Loss - 0.03175
+Epoch-938 Val   Loss - 1.00876
+2019-08-10 19:58:55
+Epoch-939 Train Loss - 0.03263
+Epoch-939 Val   Loss - 1.02949
+2019-08-10 19:59:02
+Epoch-940 Train Loss - 0.03241
+Epoch-940 Val   Loss - 1.05435
+2019-08-10 19:59:08
+Epoch-941 Train Loss - 0.03318
+Epoch-941 Val   Loss - 1.06269
+2019-08-10 19:59:13
+Epoch-942 Train Loss - 0.03482
+Epoch-942 Val   Loss - 1.00956
+2019-08-10 19:59:20
+Epoch-943 Train Loss - 0.03676
+Epoch-943 Val   Loss - 0.97227
+2019-08-10 19:59:27
+Epoch-944 Train Loss - 0.03562
+Epoch-944 Val   Loss - 1.02964
+2019-08-10 19:59:33
+Epoch-945 Train Loss - 0.03068
+Epoch-945 Val   Loss - 1.11315
+2019-08-10 19:59:40
+Epoch-946 Train Loss - 0.02875
+Epoch-946 Val   Loss - 1.17088
+2019-08-10 19:59:47
+Epoch-947 Train Loss - 0.02909
+Epoch-947 Val   Loss - 1.17227
+2019-08-10 19:59:53
+Epoch-948 Train Loss - 0.02911
+Epoch-948 Val   Loss - 1.17946
+2019-08-10 20:00:00
+Epoch-949 Train Loss - 0.03064
+Epoch-949 Val   Loss - 1.20611
+2019-08-10 20:00:06
+Epoch-950 Train Loss - 0.03333
+Epoch-950 Val   Loss - 1.21438
+2019-08-10 20:00:13
+Epoch-951 Train Loss - 0.03661
+Epoch-951 Val   Loss - 1.20772
+2019-08-10 20:00:19
+Epoch-952 Train Loss - 0.04068
+Epoch-952 Val   Loss - 1.20161
+2019-08-10 20:00:26
+Epoch-953 Train Loss - 0.04503
+Epoch-953 Val   Loss - 1.16039
+2019-08-10 20:00:32
+Epoch-954 Train Loss - 0.04767
+Epoch-954 Val   Loss - 1.15410
+2019-08-10 20:00:39
+Epoch-955 Train Loss - 0.04827
+Epoch-955 Val   Loss - 1.13854
+2019-08-10 20:00:46
+Epoch-956 Train Loss - 0.04825
+Epoch-956 Val   Loss - 1.06796
+2019-08-10 20:00:52
+Epoch-957 Train Loss - 0.04740
+Epoch-957 Val   Loss - 1.06150
+2019-08-10 20:00:59
+Epoch-958 Train Loss - 0.04448
+Epoch-958 Val   Loss - 1.02232
+2019-08-10 20:01:05
+Epoch-959 Train Loss - 0.04380
+Epoch-959 Val   Loss - 1.08623
+2019-08-10 20:01:12
+Epoch-960 Train Loss - 0.03694
+Epoch-960 Val   Loss - 1.15963
+2019-08-10 20:01:18
+Epoch-961 Train Loss - 0.03294
+Epoch-961 Val   Loss - 1.20185
+2019-08-10 20:01:25
+Epoch-962 Train Loss - 0.03103
+Epoch-962 Val   Loss - 1.18221
+2019-08-10 20:01:31
+Epoch-963 Train Loss - 0.03192
+Epoch-963 Val   Loss - 1.15623
+2019-08-10 20:01:38
+Epoch-964 Train Loss - 0.03173
+Epoch-964 Val   Loss - 1.15233
+2019-08-10 20:01:45
+Epoch-965 Train Loss - 0.03185
+Epoch-965 Val   Loss - 1.16056
+2019-08-10 20:01:51
+Epoch-966 Train Loss - 0.03388
+Epoch-966 Val   Loss - 1.14208
+2019-08-10 20:01:58
+Epoch-967 Train Loss - 0.03768
+Epoch-967 Val   Loss - 1.12868
+2019-08-10 20:02:04
+Epoch-968 Train Loss - 0.03647
+Epoch-968 Val   Loss - 1.14613
+2019-08-10 20:02:11
+Epoch-969 Train Loss - 0.03440
+Epoch-969 Val   Loss - 1.12310
+2019-08-10 20:02:18
+Epoch-970 Train Loss - 0.03369
+Epoch-970 Val   Loss - 1.09700
+2019-08-10 20:02:24
+Epoch-971 Train Loss - 0.03349
+Epoch-971 Val   Loss - 1.08459
+2019-08-10 20:02:31
+Epoch-972 Train Loss - 0.03331
+Epoch-972 Val   Loss - 1.07698
+2019-08-10 20:02:37
+Epoch-973 Train Loss - 0.03286
+Epoch-973 Val   Loss - 1.06081
+2019-08-10 20:02:44
+Epoch-974 Train Loss - 0.03368
+Epoch-974 Val   Loss - 1.08196
+2019-08-10 20:02:50
+Epoch-975 Train Loss - 0.03566
+Epoch-975 Val   Loss - 1.09305
+2019-08-10 20:02:57
+Epoch-976 Train Loss - 0.03621
+Epoch-976 Val   Loss - 1.10462
+2019-08-10 20:03:03
+Epoch-977 Train Loss - 0.03702
+Epoch-977 Val   Loss - 1.10881
+2019-08-10 20:03:10
+Epoch-978 Train Loss - 0.03853
+Epoch-978 Val   Loss - 1.12724
+2019-08-10 20:03:17
+Epoch-979 Train Loss - 0.03865
+Epoch-979 Val   Loss - 1.15206
+2019-08-10 20:03:23
+Epoch-980 Train Loss - 0.03992
+Epoch-980 Val   Loss - 1.18344
+2019-08-10 20:03:30
+Epoch-981 Train Loss - 0.03878
+Epoch-981 Val   Loss - 1.19837
+2019-08-10 20:03:36
+Epoch-982 Train Loss - 0.03878
+Epoch-982 Val   Loss - 1.16413
+2019-08-10 20:03:43
+Epoch-983 Train Loss - 0.03681
+Epoch-983 Val   Loss - 1.13899
+2019-08-10 20:03:49
+Epoch-984 Train Loss - 0.03652
+Epoch-984 Val   Loss - 1.13776
+2019-08-10 20:03:55
+Epoch-985 Train Loss - 0.03547
+Epoch-985 Val   Loss - 1.08847
+2019-08-10 20:04:02
+Epoch-986 Train Loss - 0.03279
+Epoch-986 Val   Loss - 1.09873
+2019-08-10 20:04:08
+Epoch-987 Train Loss - 0.03156
+Epoch-987 Val   Loss - 1.10130
+2019-08-10 20:04:15
+Epoch-988 Train Loss - 0.03125
+Epoch-988 Val   Loss - 1.13458
+2019-08-10 20:04:22
+Epoch-989 Train Loss - 0.03167
+Epoch-989 Val   Loss - 1.15202
+2019-08-10 20:04:28
+Epoch-990 Train Loss - 0.03253
+Epoch-990 Val   Loss - 1.13182
+2019-08-10 20:04:35
+Epoch-991 Train Loss - 0.03442
+Epoch-991 Val   Loss - 1.10297
+2019-08-10 20:04:42
+Epoch-992 Train Loss - 0.03479
+Epoch-992 Val   Loss - 1.07928
+2019-08-10 20:04:48
+Epoch-993 Train Loss - 0.03576
+Epoch-993 Val   Loss - 1.09782
+2019-08-10 20:04:55
+Epoch-994 Train Loss - 0.03659
+Epoch-994 Val   Loss - 1.10893
+2019-08-10 20:05:01
+Epoch-995 Train Loss - 0.03613
+Epoch-995 Val   Loss - 1.13225
+2019-08-10 20:05:08
+Epoch-996 Train Loss - 0.03673
+Epoch-996 Val   Loss - 1.14952
+2019-08-10 20:05:14
+Epoch-997 Train Loss - 0.03565
+Epoch-997 Val   Loss - 1.12708
+2019-08-10 20:05:21
+Epoch-998 Train Loss - 0.03450
+Epoch-998 Val   Loss - 1.11129
+2019-08-10 20:05:28
+Epoch-999 Train Loss - 0.03425
+Epoch-999 Val   Loss - 1.12310
+2019-08-10 20:05:34
+Epoch-1000 Train Loss - 0.03345
+Epoch-1000 Val   Loss - 1.18889
+2019-08-10 20:05:41
+Epoch-1001 Train Loss - 0.03479
+Epoch-1001 Val   Loss - 1.16685
+2019-08-10 20:05:47
+Epoch-1002 Train Loss - 0.03421
+Epoch-1002 Val   Loss - 1.13397
+2019-08-10 20:05:54
+Epoch-1003 Train Loss - 0.03556
+Epoch-1003 Val   Loss - 1.12923
+2019-08-10 20:06:00
+Epoch-1004 Train Loss - 0.03708
+Epoch-1004 Val   Loss - 1.13205
+2019-08-10 20:06:07
+Epoch-1005 Train Loss - 0.03694
+Epoch-1005 Val   Loss - 1.12046
+2019-08-10 20:06:13
+Epoch-1006 Train Loss - 0.03675
+Epoch-1006 Val   Loss - 1.12651
+2019-08-10 20:06:20
+Epoch-1007 Train Loss - 0.03715
+Epoch-1007 Val   Loss - 1.11618
+2019-08-10 20:06:26
+Epoch-1008 Train Loss - 0.03811
+Epoch-1008 Val   Loss - 1.11228
+2019-08-10 20:06:33
+Epoch-1009 Train Loss - 0.03618
+Epoch-1009 Val   Loss - 1.13548
+2019-08-10 20:06:39
+Epoch-1010 Train Loss - 0.03613
+Epoch-1010 Val   Loss - 1.09812
+2019-08-10 20:06:45
+Epoch-1011 Train Loss - 0.03494
+Epoch-1011 Val   Loss - 1.06782
+2019-08-10 20:06:52
+Epoch-1012 Train Loss - 0.03463
+Epoch-1012 Val   Loss - 1.05420
+2019-08-10 20:06:59
+Epoch-1013 Train Loss - 0.03457
+Epoch-1013 Val   Loss - 1.08589
+2019-08-10 20:07:05
+Epoch-1014 Train Loss - 0.03602
+Epoch-1014 Val   Loss - 1.12648
+2019-08-10 20:07:12
+Epoch-1015 Train Loss - 0.03612
+Epoch-1015 Val   Loss - 1.13504
+2019-08-10 20:07:18
+Epoch-1016 Train Loss - 0.03498
+Epoch-1016 Val   Loss - 1.15182
+2019-08-10 20:07:25
+Epoch-1017 Train Loss - 0.03368
+Epoch-1017 Val   Loss - 1.17693
+2019-08-10 20:07:32
+Epoch-1018 Train Loss - 0.03415
+Epoch-1018 Val   Loss - 1.17235
+2019-08-10 20:07:38
+Epoch-1019 Train Loss - 0.03443
+Epoch-1019 Val   Loss - 1.16307
+2019-08-10 20:07:45
+Epoch-1020 Train Loss - 0.03232
+Epoch-1020 Val   Loss - 1.13693
+2019-08-10 20:07:52
+Epoch-1021 Train Loss - 0.03109
+Epoch-1021 Val   Loss - 1.12572
+2019-08-10 20:07:58
+Epoch-1022 Train Loss - 0.02925
+Epoch-1022 Val   Loss - 1.11091
+2019-08-10 20:08:05
+Epoch-1023 Train Loss - 0.02823
+Epoch-1023 Val   Loss - 1.13512
+2019-08-10 20:08:11
+Epoch-1024 Train Loss - 0.02900
+Epoch-1024 Val   Loss - 1.16897
+2019-08-10 20:08:18
+Epoch-1025 Train Loss - 0.03074
+Epoch-1025 Val   Loss - 1.17314
+2019-08-10 20:08:24
+Epoch-1026 Train Loss - 0.03144
+Epoch-1026 Val   Loss - 1.14590
+2019-08-10 20:08:31
+Epoch-1027 Train Loss - 0.03210
+Epoch-1027 Val   Loss - 1.06291
+2019-08-10 20:08:38
+Epoch-1028 Train Loss - 0.03282
+Epoch-1028 Val   Loss - 1.02253
+2019-08-10 20:08:44
+Epoch-1029 Train Loss - 0.03590
+Epoch-1029 Val   Loss - 0.99622
+2019-08-10 20:08:51
+Epoch-1030 Train Loss - 0.03900
+Epoch-1030 Val   Loss - 1.02000
+2019-08-10 20:08:57
+Epoch-1031 Train Loss - 0.04067
+Epoch-1031 Val   Loss - 1.04516
+2019-08-10 20:09:04
+Epoch-1032 Train Loss - 0.04307
+Epoch-1032 Val   Loss - 1.03314
+2019-08-10 20:09:10
+Epoch-1033 Train Loss - 0.04251
+Epoch-1033 Val   Loss - 0.98878
+2019-08-10 20:09:16
+Epoch-1034 Train Loss - 0.04143
+Epoch-1034 Val   Loss - 1.02195
+2019-08-10 20:09:22
+Epoch-1035 Train Loss - 0.04100
+Epoch-1035 Val   Loss - 1.11241
+2019-08-10 20:09:29
+Epoch-1036 Train Loss - 0.03684
+Epoch-1036 Val   Loss - 1.19368
+2019-08-10 20:09:35
+Epoch-1037 Train Loss - 0.03366
+Epoch-1037 Val   Loss - 1.19375
+2019-08-10 20:09:42
+Epoch-1038 Train Loss - 0.03093
+Epoch-1038 Val   Loss - 1.20317
+2019-08-10 20:09:48
+Epoch-1039 Train Loss - 0.02933
+Epoch-1039 Val   Loss - 1.18147
+2019-08-10 20:09:54
+Epoch-1040 Train Loss - 0.02819
+Epoch-1040 Val   Loss - 1.16614
+2019-08-10 20:10:01
+Epoch-1041 Train Loss - 0.02796
+Epoch-1041 Val   Loss - 1.13783
+2019-08-10 20:10:08
+Epoch-1042 Train Loss - 0.02709
+Epoch-1042 Val   Loss - 1.12523
+2019-08-10 20:10:14
+Epoch-1043 Train Loss - 0.02725
+Epoch-1043 Val   Loss - 1.14343
+2019-08-10 20:10:20
+Epoch-1044 Train Loss - 0.02802
+Epoch-1044 Val   Loss - 1.15587
+2019-08-10 20:10:27
+Epoch-1045 Train Loss - 0.02930
+Epoch-1045 Val   Loss - 1.18112
+2019-08-10 20:10:34
+Epoch-1046 Train Loss - 0.03102
+Epoch-1046 Val   Loss - 1.19309
+2019-08-10 20:10:40
+Epoch-1047 Train Loss - 0.03153
+Epoch-1047 Val   Loss - 1.20656
+2019-08-10 20:10:47
+Epoch-1048 Train Loss - 0.03099
+Epoch-1048 Val   Loss - 1.18421
+2019-08-10 20:10:53
+Epoch-1049 Train Loss - 0.03174
+Epoch-1049 Val   Loss - 1.15872
+2019-08-10 20:11:00
+Epoch-1050 Train Loss - 0.03030
+Epoch-1050 Val   Loss - 1.20946
+2019-08-10 20:11:06
+Epoch-1051 Train Loss - 0.02971
+Epoch-1051 Val   Loss - 1.25733
+2019-08-10 20:11:13
+Epoch-1052 Train Loss - 0.03010
+Epoch-1052 Val   Loss - 1.24624
+2019-08-10 20:11:19
+Epoch-1053 Train Loss - 0.03273
+Epoch-1053 Val   Loss - 1.19944
+2019-08-10 20:11:26
+Epoch-1054 Train Loss - 0.03229
+Epoch-1054 Val   Loss - 1.19264
+2019-08-10 20:11:32
+Epoch-1055 Train Loss - 0.03163
+Epoch-1055 Val   Loss - 1.17840
+2019-08-10 20:11:39
+Epoch-1056 Train Loss - 0.03131
+Epoch-1056 Val   Loss - 1.18634
+2019-08-10 20:11:45
+Epoch-1057 Train Loss - 0.03178
+Epoch-1057 Val   Loss - 1.14937
+2019-08-10 20:11:51
+Epoch-1058 Train Loss - 0.03455
+Epoch-1058 Val   Loss - 1.11506
+2019-08-10 20:11:58
+Epoch-1059 Train Loss - 0.03596
+Epoch-1059 Val   Loss - 1.09908
+2019-08-10 20:12:04
+Epoch-1060 Train Loss - 0.03796
+Epoch-1060 Val   Loss - 1.14994
+2019-08-10 20:12:11
+Epoch-1061 Train Loss - 0.04149
+Epoch-1061 Val   Loss - 1.15314
+2019-08-10 20:12:18
+Epoch-1062 Train Loss - 0.04023
+Epoch-1062 Val   Loss - 1.13852
+2019-08-10 20:12:24
+Epoch-1063 Train Loss - 0.04101
+Epoch-1063 Val   Loss - 1.16961
+2019-08-10 20:12:31
+Epoch-1064 Train Loss - 0.03545
+Epoch-1064 Val   Loss - 1.20897
+2019-08-10 20:12:37
+Epoch-1065 Train Loss - 0.03283
+Epoch-1065 Val   Loss - 1.19519
+2019-08-10 20:12:44
+Epoch-1066 Train Loss - 0.03211
+Epoch-1066 Val   Loss - 1.19960
+2019-08-10 20:12:50
+Epoch-1067 Train Loss - 0.03392
+Epoch-1067 Val   Loss - 1.22662
+2019-08-10 20:12:57
+Epoch-1068 Train Loss - 0.03644
+Epoch-1068 Val   Loss - 1.20451
+2019-08-10 20:13:04
+Epoch-1069 Train Loss - 0.03911
+Epoch-1069 Val   Loss - 1.20753
+2019-08-10 20:13:10
+Epoch-1070 Train Loss - 0.03861
+Epoch-1070 Val   Loss - 1.25608
+2019-08-10 20:13:16
+Epoch-1071 Train Loss - 0.04067
+Epoch-1071 Val   Loss - 1.24949
+2019-08-10 20:13:23
+Epoch-1072 Train Loss - 0.03465
+Epoch-1072 Val   Loss - 1.26457
+2019-08-10 20:13:29
+Epoch-1073 Train Loss - 0.03237
+Epoch-1073 Val   Loss - 1.29041
+2019-08-10 20:13:36
+Epoch-1074 Train Loss - 0.03205
+Epoch-1074 Val   Loss - 1.34328
+2019-08-10 20:13:42
+Epoch-1075 Train Loss - 0.03317
+Epoch-1075 Val   Loss - 1.28617
+2019-08-10 20:13:49
+Epoch-1076 Train Loss - 0.03527
+Epoch-1076 Val   Loss - 1.25404
+2019-08-10 20:13:55
+Epoch-1077 Train Loss - 0.03273
+Epoch-1077 Val   Loss - 1.28388
+2019-08-10 20:14:02
+Epoch-1078 Train Loss - 0.03260
+Epoch-1078 Val   Loss - 1.33780
+2019-08-10 20:14:09
+Epoch-1079 Train Loss - 0.03221
+Epoch-1079 Val   Loss - 1.31691
+2019-08-10 20:14:15
+Epoch-1080 Train Loss - 0.03302
+Epoch-1080 Val   Loss - 1.31623
+2019-08-10 20:14:21
+Epoch-1081 Train Loss - 0.03669
+Epoch-1081 Val   Loss - 1.34160
+2019-08-10 20:14:28
+Epoch-1082 Train Loss - 0.04127
+Epoch-1082 Val   Loss - 1.37835
+2019-08-10 20:14:34
+Epoch-1083 Train Loss - 0.04233
+Epoch-1083 Val   Loss - 1.34846
+2019-08-10 20:14:41
+Epoch-1084 Train Loss - 0.04548
+Epoch-1084 Val   Loss - 1.31874
+2019-08-10 20:14:48
+Epoch-1085 Train Loss - 0.05327
+Epoch-1085 Val   Loss - 1.32045
+2019-08-10 20:14:54
+Epoch-1086 Train Loss - 0.05808
+Epoch-1086 Val   Loss - 1.25057
+2019-08-10 20:15:01
+Epoch-1087 Train Loss - 0.06610
+Epoch-1087 Val   Loss - 1.20426
+2019-08-10 20:15:07
+Epoch-1088 Train Loss - 0.06632
+Epoch-1088 Val   Loss - 1.30155
+2019-08-10 20:15:14
+Epoch-1089 Train Loss - 0.06138
+Epoch-1089 Val   Loss - 1.28104
+2019-08-10 20:15:21
+Epoch-1090 Train Loss - 0.04714
+Epoch-1090 Val   Loss - 1.24986
+2019-08-10 20:15:27
+Epoch-1091 Train Loss - 0.04174
+Epoch-1091 Val   Loss - 1.20970
+2019-08-10 20:15:33
+Epoch-1092 Train Loss - 0.04132
+Epoch-1092 Val   Loss - 1.19426
+2019-08-10 20:15:40
+Epoch-1093 Train Loss - 0.04056
+Epoch-1093 Val   Loss - 1.20720
+2019-08-10 20:15:46
+Epoch-1094 Train Loss - 0.03899
+Epoch-1094 Val   Loss - 1.25685
+2019-08-10 20:15:53
+Epoch-1095 Train Loss - 0.03600
+Epoch-1095 Val   Loss - 1.26337
+2019-08-10 20:16:00
+Epoch-1096 Train Loss - 0.03289
+Epoch-1096 Val   Loss - 1.28469
+2019-08-10 20:16:06
+Epoch-1097 Train Loss - 0.02944
+Epoch-1097 Val   Loss - 1.31231
+2019-08-10 20:16:13
+Epoch-1098 Train Loss - 0.02825
+Epoch-1098 Val   Loss - 1.30634
+2019-08-10 20:16:19
+Epoch-1099 Train Loss - 0.02720
+Epoch-1099 Val   Loss - 1.28187
+2019-08-10 20:16:26
+Epoch-1100 Train Loss - 0.02755
+Epoch-1100 Val   Loss - 1.25077
+2019-08-10 20:16:33
+Epoch-1101 Train Loss - 0.02824
+Epoch-1101 Val   Loss - 1.24192
+2019-08-10 20:16:39
+Epoch-1102 Train Loss - 0.02868
+Epoch-1102 Val   Loss - 1.25729
+2019-08-10 20:16:46
+Epoch-1103 Train Loss - 0.03037
+Epoch-1103 Val   Loss - 1.29093
+2019-08-10 20:16:52
+Epoch-1104 Train Loss - 0.02867
+Epoch-1104 Val   Loss - 1.33523
+2019-08-10 20:16:59
+Epoch-1105 Train Loss - 0.02822
+Epoch-1105 Val   Loss - 1.32963
+2019-08-10 20:17:05
+Epoch-1106 Train Loss - 0.02753
+Epoch-1106 Val   Loss - 1.34028
+2019-08-10 20:17:12
+Epoch-1107 Train Loss - 0.02769
+Epoch-1107 Val   Loss - 1.37768
+2019-08-10 20:17:18
+Epoch-1108 Train Loss - 0.02819
+Epoch-1108 Val   Loss - 1.37147
+2019-08-10 20:17:25
+Epoch-1109 Train Loss - 0.02851
+Epoch-1109 Val   Loss - 1.36837
+2019-08-10 20:17:32
+Epoch-1110 Train Loss - 0.02909
+Epoch-1110 Val   Loss - 1.32278
+2019-08-10 20:17:38
+Epoch-1111 Train Loss - 0.02999
+Epoch-1111 Val   Loss - 1.25811
+2019-08-10 20:17:44
+Epoch-1112 Train Loss - 0.03009
+Epoch-1112 Val   Loss - 1.25879
+2019-08-10 20:17:51
+Epoch-1113 Train Loss - 0.03022
+Epoch-1113 Val   Loss - 1.26310
+2019-08-10 20:17:57
+Epoch-1114 Train Loss - 0.03144
+Epoch-1114 Val   Loss - 1.25359
+2019-08-10 20:18:04
+Epoch-1115 Train Loss - 0.03149
+Epoch-1115 Val   Loss - 1.25071
+2019-08-10 20:18:10
+Epoch-1116 Train Loss - 0.03114
+Epoch-1116 Val   Loss - 1.24130
+2019-08-10 20:18:17
+Epoch-1117 Train Loss - 0.03018
+Epoch-1117 Val   Loss - 1.25976
+2019-08-10 20:18:23
+Epoch-1118 Train Loss - 0.02875
+Epoch-1118 Val   Loss - 1.28093
+2019-08-10 20:18:30
+Epoch-1119 Train Loss - 0.02724
+Epoch-1119 Val   Loss - 1.28203
+2019-08-10 20:18:36
+Epoch-1120 Train Loss - 0.02808
+Epoch-1120 Val   Loss - 1.27511
+2019-08-10 20:18:43
+Epoch-1121 Train Loss - 0.02692
+Epoch-1121 Val   Loss - 1.24605
+2019-08-10 20:18:50
+Epoch-1122 Train Loss - 0.02694
+Epoch-1122 Val   Loss - 1.25037
+2019-08-10 20:18:56
+Epoch-1123 Train Loss - 0.02719
+Epoch-1123 Val   Loss - 1.22221
+2019-08-10 20:19:02
+Epoch-1124 Train Loss - 0.02868
+Epoch-1124 Val   Loss - 1.19996
+2019-08-10 20:19:09
+Epoch-1125 Train Loss - 0.02693
+Epoch-1125 Val   Loss - 1.21637
+2019-08-10 20:19:15
+Epoch-1126 Train Loss - 0.02660
+Epoch-1126 Val   Loss - 1.20550
+2019-08-10 20:19:21
+Epoch-1127 Train Loss - 0.02733
+Epoch-1127 Val   Loss - 1.17207
+2019-08-10 20:19:27
+Epoch-1128 Train Loss - 0.02667
+Epoch-1128 Val   Loss - 1.17259
+2019-08-10 20:19:33
+Epoch-1129 Train Loss - 0.02770
+Epoch-1129 Val   Loss - 1.19646
+2019-08-10 20:19:40
+Epoch-1130 Train Loss - 0.02808
+Epoch-1130 Val   Loss - 1.24087
+2019-08-10 20:19:47
+Epoch-1131 Train Loss - 0.02791
+Epoch-1131 Val   Loss - 1.26608
+2019-08-10 20:19:53
+Epoch-1132 Train Loss - 0.02837
+Epoch-1132 Val   Loss - 1.23768
+2019-08-10 20:20:00
+Epoch-1133 Train Loss - 0.02989
+Epoch-1133 Val   Loss - 1.25623
+2019-08-10 20:20:06
+Epoch-1134 Train Loss - 0.03583
+Epoch-1134 Val   Loss - 1.23293
+2019-08-10 20:20:13
+Epoch-1135 Train Loss - 0.03929
+Epoch-1135 Val   Loss - 1.23196
+2019-08-10 20:20:20
+Epoch-1136 Train Loss - 0.04218
+Epoch-1136 Val   Loss - 1.26018
+2019-08-10 20:20:26
+Epoch-1137 Train Loss - 0.04533
+Epoch-1137 Val   Loss - 1.24897
+2019-08-10 20:20:33
+Epoch-1138 Train Loss - 0.05042
+Epoch-1138 Val   Loss - 1.21983
+2019-08-10 20:20:39
+Epoch-1139 Train Loss - 0.04625
+Epoch-1139 Val   Loss - 1.20396
+2019-08-10 20:20:45
+Epoch-1140 Train Loss - 0.04698
+Epoch-1140 Val   Loss - 1.14988
+2019-08-10 20:20:52
+Epoch-1141 Train Loss - 0.04156
+Epoch-1141 Val   Loss - 1.14127
+2019-08-10 20:20:58
+Epoch-1142 Train Loss - 0.03835
+Epoch-1142 Val   Loss - 1.10964
+2019-08-10 20:21:05
+Epoch-1143 Train Loss - 0.03454
+Epoch-1143 Val   Loss - 1.10665
+2019-08-10 20:21:11
+Epoch-1144 Train Loss - 0.03076
+Epoch-1144 Val   Loss - 1.12150
+2019-08-10 20:21:18
+Epoch-1145 Train Loss - 0.03087
+Epoch-1145 Val   Loss - 1.12596
+2019-08-10 20:21:24
+Epoch-1146 Train Loss - 0.03174
+Epoch-1146 Val   Loss - 1.13735
+2019-08-10 20:21:31
+Epoch-1147 Train Loss - 0.03316
+Epoch-1147 Val   Loss - 1.14728
+2019-08-10 20:21:37
+Epoch-1148 Train Loss - 0.03473
+Epoch-1148 Val   Loss - 1.15860
+2019-08-10 20:21:44
+Epoch-1149 Train Loss - 0.03837
+Epoch-1149 Val   Loss - 1.18941
+2019-08-10 20:21:51
+Epoch-1150 Train Loss - 0.03898
+Epoch-1150 Val   Loss - 1.16150
+2019-08-10 20:21:57
+Epoch-1151 Train Loss - 0.03779
+Epoch-1151 Val   Loss - 1.17890
+2019-08-10 20:22:04
+Epoch-1152 Train Loss - 0.03958
+Epoch-1152 Val   Loss - 1.14079
+2019-08-10 20:22:11
+Epoch-1153 Train Loss - 0.03919
+Epoch-1153 Val   Loss - 1.11743
+2019-08-10 20:22:17
+Epoch-1154 Train Loss - 0.03781
+Epoch-1154 Val   Loss - 1.11632
+2019-08-10 20:22:23
+Epoch-1155 Train Loss - 0.03546
+Epoch-1155 Val   Loss - 1.13305
+2019-08-10 20:22:30
+Epoch-1156 Train Loss - 0.03393
+Epoch-1156 Val   Loss - 1.22230
+2019-08-10 20:22:36
+Epoch-1157 Train Loss - 0.03516
+Epoch-1157 Val   Loss - 1.26228
+2019-08-10 20:22:43
+Epoch-1158 Train Loss - 0.03476
+Epoch-1158 Val   Loss - 1.28798
+2019-08-10 20:22:49
+Epoch-1159 Train Loss - 0.03345
+Epoch-1159 Val   Loss - 1.28142
+2019-08-10 20:22:56
+Epoch-1160 Train Loss - 0.03295
+Epoch-1160 Val   Loss - 1.25702
+2019-08-10 20:23:02
+Epoch-1161 Train Loss - 0.03166
+Epoch-1161 Val   Loss - 1.23341
+2019-08-10 20:23:09
+Epoch-1162 Train Loss - 0.03004
+Epoch-1162 Val   Loss - 1.26277
+2019-08-10 20:23:15
+Epoch-1163 Train Loss - 0.02919
+Epoch-1163 Val   Loss - 1.31688
+2019-08-10 20:23:22
+Epoch-1164 Train Loss - 0.02750
+Epoch-1164 Val   Loss - 1.35646
+2019-08-10 20:23:29
+Epoch-1165 Train Loss - 0.02758
+Epoch-1165 Val   Loss - 1.35289
+2019-08-10 20:23:35
+Epoch-1166 Train Loss - 0.02749
+Epoch-1166 Val   Loss - 1.33851
+2019-08-10 20:23:42
+Epoch-1167 Train Loss - 0.02783
+Epoch-1167 Val   Loss - 1.37988
+2019-08-10 20:23:48
+Epoch-1168 Train Loss - 0.02866
+Epoch-1168 Val   Loss - 1.38595
+2019-08-10 20:23:55
+Epoch-1169 Train Loss - 0.02843
+Epoch-1169 Val   Loss - 1.30851
+2019-08-10 20:24:01
+Epoch-1170 Train Loss - 0.03015
+Epoch-1170 Val   Loss - 1.23304
+2019-08-10 20:24:08
+Epoch-1171 Train Loss - 0.03062
+Epoch-1171 Val   Loss - 1.20306
+2019-08-10 20:24:15
+Epoch-1172 Train Loss - 0.03190
+Epoch-1172 Val   Loss - 1.20315
+2019-08-10 20:24:21
+Epoch-1173 Train Loss - 0.03264
+Epoch-1173 Val   Loss - 1.21387
+2019-08-10 20:24:28
+Epoch-1174 Train Loss - 0.03211
+Epoch-1174 Val   Loss - 1.17051
+2019-08-10 20:24:34
+Epoch-1175 Train Loss - 0.03198
+Epoch-1175 Val   Loss - 1.14548
+2019-08-10 20:24:40
+Epoch-1176 Train Loss - 0.03233
+Epoch-1176 Val   Loss - 1.15521
+2019-08-10 20:24:47
+Epoch-1177 Train Loss - 0.03474
+Epoch-1177 Val   Loss - 1.15998
+2019-08-10 20:24:54
+Epoch-1178 Train Loss - 0.03479
+Epoch-1178 Val   Loss - 1.19935
+2019-08-10 20:25:00
+Epoch-1179 Train Loss - 0.02958
+Epoch-1179 Val   Loss - 1.26710
+2019-08-10 20:25:07
+Epoch-1180 Train Loss - 0.02355
+Epoch-1180 Val   Loss - 1.28219
+2019-08-10 20:25:13
+Epoch-1181 Train Loss - 0.02229
+Epoch-1181 Val   Loss - 1.27942
+2019-08-10 20:25:20
+Epoch-1182 Train Loss - 0.02164
+Epoch-1182 Val   Loss - 1.23979
+2019-08-10 20:25:26
+Epoch-1183 Train Loss - 0.02087
+Epoch-1183 Val   Loss - 1.22131
+2019-08-10 20:25:33
+Epoch-1184 Train Loss - 0.02126
+Epoch-1184 Val   Loss - 1.24893
+2019-08-10 20:25:39
+Epoch-1185 Train Loss - 0.02167
+Epoch-1185 Val   Loss - 1.24414
+2019-08-10 20:25:46
+Epoch-1186 Train Loss - 0.02201
+Epoch-1186 Val   Loss - 1.24558
+2019-08-10 20:25:53
+Epoch-1187 Train Loss - 0.02250
+Epoch-1187 Val   Loss - 1.24330
+2019-08-10 20:25:59
+Epoch-1188 Train Loss - 0.02351
+Epoch-1188 Val   Loss - 1.25167
+2019-08-10 20:26:06
+Epoch-1189 Train Loss - 0.02359
+Epoch-1189 Val   Loss - 1.21632
+2019-08-10 20:26:12
+Epoch-1190 Train Loss - 0.02417
+Epoch-1190 Val   Loss - 1.18325
+2019-08-10 20:26:19
+Epoch-1191 Train Loss - 0.02715
+Epoch-1191 Val   Loss - 1.16413
+2019-08-10 20:26:25
+Epoch-1192 Train Loss - 0.02843
+Epoch-1192 Val   Loss - 1.16433
+2019-08-10 20:26:32
+Epoch-1193 Train Loss - 0.02582
+Epoch-1193 Val   Loss - 1.26985
+2019-08-10 20:26:38
+Epoch-1194 Train Loss - 0.02574
+Epoch-1194 Val   Loss - 1.24514
+2019-08-10 20:26:45
+Epoch-1195 Train Loss - 0.02318
+Epoch-1195 Val   Loss - 1.16830
+2019-08-10 20:26:51
+Epoch-1196 Train Loss - 0.02246
+Epoch-1196 Val   Loss - 1.14785
+2019-08-10 20:26:58
+Epoch-1197 Train Loss - 0.02012
+Epoch-1197 Val   Loss - 1.12670
+2019-08-10 20:27:04
+Epoch-1198 Train Loss - 0.02042
+Epoch-1198 Val   Loss - 1.16066
+2019-08-10 20:27:11
+Epoch-1199 Train Loss - 0.02068
+Epoch-1199 Val   Loss - 1.17400
+2019-08-10 20:27:18
+Epoch-1200 Train Loss - 0.02193
+Epoch-1200 Val   Loss - 1.16124
+2019-08-10 20:27:24
+Epoch-1201 Train Loss - 0.02167
+Epoch-1201 Val   Loss - 1.18103
+2019-08-10 20:27:31
+Epoch-1202 Train Loss - 0.02288
+Epoch-1202 Val   Loss - 1.21792
+2019-08-10 20:27:37
+Epoch-1203 Train Loss - 0.02477
+Epoch-1203 Val   Loss - 1.25069
+2019-08-10 20:27:44
+Epoch-1204 Train Loss - 0.02582
+Epoch-1204 Val   Loss - 1.24686
+2019-08-10 20:27:51
+Epoch-1205 Train Loss - 0.02865
+Epoch-1205 Val   Loss - 1.21181
+2019-08-10 20:27:57
+Epoch-1206 Train Loss - 0.02965
+Epoch-1206 Val   Loss - 1.22809
+2019-08-10 20:28:03
+Epoch-1207 Train Loss - 0.03185
+Epoch-1207 Val   Loss - 1.26286
+2019-08-10 20:28:10
+Epoch-1208 Train Loss - 0.03232
+Epoch-1208 Val   Loss - 1.23524
+2019-08-10 20:28:16
+Epoch-1209 Train Loss - 0.03393
+Epoch-1209 Val   Loss - 1.19117
+2019-08-10 20:28:23
+Epoch-1210 Train Loss - 0.03229
+Epoch-1210 Val   Loss - 1.15981
+2019-08-10 20:28:29
+Epoch-1211 Train Loss - 0.03252
+Epoch-1211 Val   Loss - 1.14204
+2019-08-10 20:28:36
+Epoch-1212 Train Loss - 0.03271
+Epoch-1212 Val   Loss - 1.16290
+2019-08-10 20:28:42
+Epoch-1213 Train Loss - 0.03324
+Epoch-1213 Val   Loss - 1.15105
+2019-08-10 20:28:49
+Epoch-1214 Train Loss - 0.03011
+Epoch-1214 Val   Loss - 1.16375
+2019-08-10 20:28:55
+Epoch-1215 Train Loss - 0.02656
+Epoch-1215 Val   Loss - 1.14970
+2019-08-10 20:29:02
+Epoch-1216 Train Loss - 0.02167
+Epoch-1216 Val   Loss - 1.14735
+2019-08-10 20:29:08
+Epoch-1217 Train Loss - 0.02073
+Epoch-1217 Val   Loss - 1.17174
+2019-08-10 20:29:15
+Epoch-1218 Train Loss - 0.02102
+Epoch-1218 Val   Loss - 1.18597
+2019-08-10 20:29:21
+Epoch-1219 Train Loss - 0.02153
+Epoch-1219 Val   Loss - 1.21324
+2019-08-10 20:29:27
+Epoch-1220 Train Loss - 0.02067
+Epoch-1220 Val   Loss - 1.23629
+2019-08-10 20:29:33
+Epoch-1221 Train Loss - 0.02083
+Epoch-1221 Val   Loss - 1.26407
+2019-08-10 20:29:40
+Epoch-1222 Train Loss - 0.02069
+Epoch-1222 Val   Loss - 1.25167
+2019-08-10 20:29:46
+Epoch-1223 Train Loss - 0.02138
+Epoch-1223 Val   Loss - 1.27115
+2019-08-10 20:29:53
+Epoch-1224 Train Loss - 0.02240
+Epoch-1224 Val   Loss - 1.25962
+2019-08-10 20:29:59
+Epoch-1225 Train Loss - 0.02262
+Epoch-1225 Val   Loss - 1.22434
+2019-08-10 20:30:06
+Epoch-1226 Train Loss - 0.02500
+Epoch-1226 Val   Loss - 1.20058
+2019-08-10 20:30:12
+Epoch-1227 Train Loss - 0.02504
+Epoch-1227 Val   Loss - 1.25632
+2019-08-10 20:30:19
+Epoch-1228 Train Loss - 0.02355
+Epoch-1228 Val   Loss - 1.30278
+2019-08-10 20:30:25
+Epoch-1229 Train Loss - 0.02182
+Epoch-1229 Val   Loss - 1.28187
+2019-08-10 20:30:32
+Epoch-1230 Train Loss - 0.02210
+Epoch-1230 Val   Loss - 1.24458
+2019-08-10 20:30:39
+Epoch-1231 Train Loss - 0.02220
+Epoch-1231 Val   Loss - 1.22920
+2019-08-10 20:30:45
+Epoch-1232 Train Loss - 0.02414
+Epoch-1232 Val   Loss - 1.25111
+2019-08-10 20:30:52
+Epoch-1233 Train Loss - 0.02625
+Epoch-1233 Val   Loss - 1.22934
+2019-08-10 20:30:58
+Epoch-1234 Train Loss - 0.03054
+Epoch-1234 Val   Loss - 1.22681
+2019-08-10 20:31:05
+Epoch-1235 Train Loss - 0.03121
+Epoch-1235 Val   Loss - 1.24915
+2019-08-10 20:31:11
+Epoch-1236 Train Loss - 0.02917
+Epoch-1236 Val   Loss - 1.24477
+2019-08-10 20:31:18
+Epoch-1237 Train Loss - 0.02873
+Epoch-1237 Val   Loss - 1.24241
+2019-08-10 20:31:24
+Epoch-1238 Train Loss - 0.02973
+Epoch-1238 Val   Loss - 1.26020
+2019-08-10 20:31:31
+Epoch-1239 Train Loss - 0.02897
+Epoch-1239 Val   Loss - 1.20274
+2019-08-10 20:31:37
+Epoch-1240 Train Loss - 0.02891
+Epoch-1240 Val   Loss - 1.21440
+2019-08-10 20:31:44
+Epoch-1241 Train Loss - 0.02923
+Epoch-1241 Val   Loss - 1.24289
+2019-08-10 20:31:51
+Epoch-1242 Train Loss - 0.03057
+Epoch-1242 Val   Loss - 1.28500
+2019-08-10 20:31:57
+Epoch-1243 Train Loss - 0.03210
+Epoch-1243 Val   Loss - 1.29958
+2019-08-10 20:32:04
+Epoch-1244 Train Loss - 0.03249
+Epoch-1244 Val   Loss - 1.21657
+2019-08-10 20:32:10
+Epoch-1245 Train Loss - 0.02852
+Epoch-1245 Val   Loss - 1.16792
+2019-08-10 20:32:17
+Epoch-1246 Train Loss - 0.02619
+Epoch-1246 Val   Loss - 1.14307
+2019-08-10 20:32:24
+Epoch-1247 Train Loss - 0.02175
+Epoch-1247 Val   Loss - 1.13750
+2019-08-10 20:32:30
+Epoch-1248 Train Loss - 0.01930
+Epoch-1248 Val   Loss - 1.14690
+2019-08-10 20:32:37
+Epoch-1249 Train Loss - 0.01888
+Epoch-1249 Val   Loss - 1.16929
+2019-08-10 20:32:43
+Epoch-1250 Train Loss - 0.01946
+Epoch-1250 Val   Loss - 1.17014
+2019-08-10 20:32:50
+Epoch-1251 Train Loss - 0.01964
+Epoch-1251 Val   Loss - 1.17713
+2019-08-10 20:32:56
+Epoch-1252 Train Loss - 0.02120
+Epoch-1252 Val   Loss - 1.20207
+2019-08-10 20:33:03
+Epoch-1253 Train Loss - 0.02174
+Epoch-1253 Val   Loss - 1.16333
+2019-08-10 20:33:09
+Epoch-1254 Train Loss - 0.02233
+Epoch-1254 Val   Loss - 1.14127
+2019-08-10 20:33:16
+Epoch-1255 Train Loss - 0.02224
+Epoch-1255 Val   Loss - 1.19029
+2019-08-10 20:33:22
+Epoch-1256 Train Loss - 0.02223
+Epoch-1256 Val   Loss - 1.18414
+2019-08-10 20:33:29
+Epoch-1257 Train Loss - 0.02411
+Epoch-1257 Val   Loss - 1.15517
+2019-08-10 20:33:35
+Epoch-1258 Train Loss - 0.02499
+Epoch-1258 Val   Loss - 1.17511
+2019-08-10 20:33:42
+Epoch-1259 Train Loss - 0.02843
+Epoch-1259 Val   Loss - 1.17290
+2019-08-10 20:33:48
+Epoch-1260 Train Loss - 0.02595
+Epoch-1260 Val   Loss - 1.22208
+2019-08-10 20:33:55
+Epoch-1261 Train Loss - 0.02670
+Epoch-1261 Val   Loss - 1.24238
+2019-08-10 20:34:02
+Epoch-1262 Train Loss - 0.02929
+Epoch-1262 Val   Loss - 1.21254
+2019-08-10 20:34:08
+Epoch-1263 Train Loss - 0.02946
+Epoch-1263 Val   Loss - 1.17841
+2019-08-10 20:34:15
+Epoch-1264 Train Loss - 0.02534
+Epoch-1264 Val   Loss - 1.20640
+2019-08-10 20:34:21
+Epoch-1265 Train Loss - 0.02377
+Epoch-1265 Val   Loss - 1.22904
+2019-08-10 20:34:28
+Epoch-1266 Train Loss - 0.02136
+Epoch-1266 Val   Loss - 1.23540
+2019-08-10 20:34:34
+Epoch-1267 Train Loss - 0.02140
+Epoch-1267 Val   Loss - 1.22846
+2019-08-10 20:34:41
+Epoch-1268 Train Loss - 0.02148
+Epoch-1268 Val   Loss - 1.21018
+2019-08-10 20:34:47
+Epoch-1269 Train Loss - 0.02079
+Epoch-1269 Val   Loss - 1.21646
+2019-08-10 20:34:54
+Epoch-1270 Train Loss - 0.02186
+Epoch-1270 Val   Loss - 1.20483
+2019-08-10 20:35:00
+Epoch-1271 Train Loss - 0.02415
+Epoch-1271 Val   Loss - 1.19641
+2019-08-10 20:35:06
+Epoch-1272 Train Loss - 0.02709
+Epoch-1272 Val   Loss - 1.21992
+2019-08-10 20:35:13
+Epoch-1273 Train Loss - 0.03136
+Epoch-1273 Val   Loss - 1.20525
+2019-08-10 20:35:19
+Epoch-1274 Train Loss - 0.03209
+Epoch-1274 Val   Loss - 1.27861
+2019-08-10 20:35:26
+Epoch-1275 Train Loss - 0.02855
+Epoch-1275 Val   Loss - 1.29215
+2019-08-10 20:35:32
+Epoch-1276 Train Loss - 0.02836
+Epoch-1276 Val   Loss - 1.27702
+2019-08-10 20:35:39
+Epoch-1277 Train Loss - 0.02816
+Epoch-1277 Val   Loss - 1.24422
+2019-08-10 20:35:46
+Epoch-1278 Train Loss - 0.02782
+Epoch-1278 Val   Loss - 1.23882
+2019-08-10 20:35:52
+Epoch-1279 Train Loss - 0.02810
+Epoch-1279 Val   Loss - 1.21594
+2019-08-10 20:35:59
+Epoch-1280 Train Loss - 0.02717
+Epoch-1280 Val   Loss - 1.23459
+2019-08-10 20:36:05
+Epoch-1281 Train Loss - 0.02742
+Epoch-1281 Val   Loss - 1.20652
+2019-08-10 20:36:12
+Epoch-1282 Train Loss - 0.02874
+Epoch-1282 Val   Loss - 1.17096
+2019-08-10 20:36:18
+Epoch-1283 Train Loss - 0.02811
+Epoch-1283 Val   Loss - 1.11362
+2019-08-10 20:36:25
+Epoch-1284 Train Loss - 0.02901
+Epoch-1284 Val   Loss - 1.10581
+2019-08-10 20:36:31
+Epoch-1285 Train Loss - 0.02862
+Epoch-1285 Val   Loss - 1.08618
+2019-08-10 20:36:38
+Epoch-1286 Train Loss - 0.02797
+Epoch-1286 Val   Loss - 1.12999
+2019-08-10 20:36:44
+Epoch-1287 Train Loss - 0.02683
+Epoch-1287 Val   Loss - 1.18320
+2019-08-10 20:36:51
+Epoch-1288 Train Loss - 0.02501
+Epoch-1288 Val   Loss - 1.17272
+2019-08-10 20:36:57
+Epoch-1289 Train Loss - 0.02457
+Epoch-1289 Val   Loss - 1.18793
+2019-08-10 20:37:04
+Epoch-1290 Train Loss - 0.02332
+Epoch-1290 Val   Loss - 1.18219
+2019-08-10 20:37:10
+Epoch-1291 Train Loss - 0.02222
+Epoch-1291 Val   Loss - 1.19513
+2019-08-10 20:37:17
+Epoch-1292 Train Loss - 0.02389
+Epoch-1292 Val   Loss - 1.17877
+2019-08-10 20:37:23
+Epoch-1293 Train Loss - 0.02472
+Epoch-1293 Val   Loss - 1.18511
+2019-08-10 20:37:30
+Epoch-1294 Train Loss - 0.02524
+Epoch-1294 Val   Loss - 1.20123
+2019-08-10 20:37:36
+Epoch-1295 Train Loss - 0.02466
+Epoch-1295 Val   Loss - 1.19473
+2019-08-10 20:37:43
+Epoch-1296 Train Loss - 0.02439
+Epoch-1296 Val   Loss - 1.18373
+2019-08-10 20:37:49
+Epoch-1297 Train Loss - 0.02545
+Epoch-1297 Val   Loss - 1.20078
+2019-08-10 20:37:56
+Epoch-1298 Train Loss - 0.02651
+Epoch-1298 Val   Loss - 1.21372
+2019-08-10 20:38:02
+Epoch-1299 Train Loss - 0.02924
+Epoch-1299 Val   Loss - 1.23894
+2019-08-10 20:38:09
+Epoch-1300 Train Loss - 0.02973
+Epoch-1300 Val   Loss - 1.21611
+2019-08-10 20:38:15
+Epoch-1301 Train Loss - 0.02875
+Epoch-1301 Val   Loss - 1.26113
+2019-08-10 20:38:22
+Epoch-1302 Train Loss - 0.02625
+Epoch-1302 Val   Loss - 1.23572
+2019-08-10 20:38:28
+Epoch-1303 Train Loss - 0.02472
+Epoch-1303 Val   Loss - 1.22682
+2019-08-10 20:38:35
+Epoch-1304 Train Loss - 0.02516
+Epoch-1304 Val   Loss - 1.24588
+2019-08-10 20:38:41
+Epoch-1305 Train Loss - 0.02706
+Epoch-1305 Val   Loss - 1.24344
+2019-08-10 20:38:48
+Epoch-1306 Train Loss - 0.02826
+Epoch-1306 Val   Loss - 1.25844
+2019-08-10 20:38:54
+Epoch-1307 Train Loss - 0.03076
+Epoch-1307 Val   Loss - 1.23079
+2019-08-10 20:39:01
+Epoch-1308 Train Loss - 0.03100
+Epoch-1308 Val   Loss - 1.15218
+2019-08-10 20:39:07
+Epoch-1309 Train Loss - 0.03304
+Epoch-1309 Val   Loss - 1.13403
+2019-08-10 20:39:14
+Epoch-1310 Train Loss - 0.02927
+Epoch-1310 Val   Loss - 1.08314
+2019-08-10 20:39:21
+Epoch-1311 Train Loss - 0.02820
+Epoch-1311 Val   Loss - 1.12716
+2019-08-10 20:39:27
+Epoch-1312 Train Loss - 0.02802
+Epoch-1312 Val   Loss - 1.21187
+2019-08-10 20:39:34
+Epoch-1313 Train Loss - 0.02669
+Epoch-1313 Val   Loss - 1.27718
+2019-08-10 20:39:39
+Epoch-1314 Train Loss - 0.02426
+Epoch-1314 Val   Loss - 1.30951
+2019-08-10 20:39:46
+Epoch-1315 Train Loss - 0.02232
+Epoch-1315 Val   Loss - 1.31421
+2019-08-10 20:39:53
+Epoch-1316 Train Loss - 0.02204
+Epoch-1316 Val   Loss - 1.30492
+2019-08-10 20:39:59
+Epoch-1317 Train Loss - 0.02252
+Epoch-1317 Val   Loss - 1.29442
+2019-08-10 20:40:06
+Epoch-1318 Train Loss - 0.02377
+Epoch-1318 Val   Loss - 1.29173
+2019-08-10 20:40:13
+Epoch-1319 Train Loss - 0.02433
+Epoch-1319 Val   Loss - 1.29098
+2019-08-10 20:40:19
+Epoch-1320 Train Loss - 0.02508
+Epoch-1320 Val   Loss - 1.31562
+2019-08-10 20:40:26
+Epoch-1321 Train Loss - 0.02627
+Epoch-1321 Val   Loss - 1.29964
+2019-08-10 20:40:32
+Epoch-1322 Train Loss - 0.02688
+Epoch-1322 Val   Loss - 1.31857
+2019-08-10 20:40:38
+Epoch-1323 Train Loss - 0.02725
+Epoch-1323 Val   Loss - 1.36864
+2019-08-10 20:40:45
+Epoch-1324 Train Loss - 0.02668
+Epoch-1324 Val   Loss - 1.38486
+2019-08-10 20:40:51
+Epoch-1325 Train Loss - 0.02689
+Epoch-1325 Val   Loss - 1.39982
+2019-08-10 20:40:58
+Epoch-1326 Train Loss - 0.02910
+Epoch-1326 Val   Loss - 1.41749
+2019-08-10 20:41:04
+Epoch-1327 Train Loss - 0.03044
+Epoch-1327 Val   Loss - 1.41853
+2019-08-10 20:41:11
+Epoch-1328 Train Loss - 0.03212
+Epoch-1328 Val   Loss - 1.40437
+2019-08-10 20:41:17
+Epoch-1329 Train Loss - 0.03436
+Epoch-1329 Val   Loss - 1.37416
+2019-08-10 20:41:24
+Epoch-1330 Train Loss - 0.03357
+Epoch-1330 Val   Loss - 1.30767
+2019-08-10 20:41:30
+Epoch-1331 Train Loss - 0.03397
+Epoch-1331 Val   Loss - 1.33690
+2019-08-10 20:41:37
+Epoch-1332 Train Loss - 0.03842
+Epoch-1332 Val   Loss - 1.35283
+2019-08-10 20:41:43
+Epoch-1333 Train Loss - 0.04723
+Epoch-1333 Val   Loss - 1.30688
+2019-08-10 20:41:50
+Epoch-1334 Train Loss - 0.03596
+Epoch-1334 Val   Loss - 1.32341
+2019-08-10 20:41:56
+Epoch-1335 Train Loss - 0.02995
+Epoch-1335 Val   Loss - 1.35553
+2019-08-10 20:42:03
+Epoch-1336 Train Loss - 0.02628
+Epoch-1336 Val   Loss - 1.36670
+2019-08-10 20:42:09
+Epoch-1337 Train Loss - 0.02641
+Epoch-1337 Val   Loss - 1.30280
+2019-08-10 20:42:16
+Epoch-1338 Train Loss - 0.02671
+Epoch-1338 Val   Loss - 1.28143
+2019-08-10 20:42:22
+Epoch-1339 Train Loss - 0.02708
+Epoch-1339 Val   Loss - 1.26506
+2019-08-10 20:42:29
+Epoch-1340 Train Loss - 0.02659
+Epoch-1340 Val   Loss - 1.27022
+2019-08-10 20:42:35
+Epoch-1341 Train Loss - 0.02661
+Epoch-1341 Val   Loss - 1.28297
+2019-08-10 20:42:42
+Epoch-1342 Train Loss - 0.02614
+Epoch-1342 Val   Loss - 1.25588
+2019-08-10 20:42:48
+Epoch-1343 Train Loss - 0.02505
+Epoch-1343 Val   Loss - 1.23056
+2019-08-10 20:42:55
+Epoch-1344 Train Loss - 0.02339
+Epoch-1344 Val   Loss - 1.25288
+2019-08-10 20:43:01
+Epoch-1345 Train Loss - 0.02231
+Epoch-1345 Val   Loss - 1.27687
+2019-08-10 20:43:08
+Epoch-1346 Train Loss - 0.02216
+Epoch-1346 Val   Loss - 1.28779
+2019-08-10 20:43:14
+Epoch-1347 Train Loss - 0.02157
+Epoch-1347 Val   Loss - 1.28288
+2019-08-10 20:43:21
+Epoch-1348 Train Loss - 0.02069
+Epoch-1348 Val   Loss - 1.25454
+2019-08-10 20:43:27
+Epoch-1349 Train Loss - 0.02073
+Epoch-1349 Val   Loss - 1.24244
+2019-08-10 20:43:34
+Epoch-1350 Train Loss - 0.02068
+Epoch-1350 Val   Loss - 1.27693
+2019-08-10 20:43:41
+Epoch-1351 Train Loss - 0.02017
+Epoch-1351 Val   Loss - 1.27310
+2019-08-10 20:43:47
+Epoch-1352 Train Loss - 0.01981
+Epoch-1352 Val   Loss - 1.25519
+2019-08-10 20:43:54
+Epoch-1353 Train Loss - 0.02025
+Epoch-1353 Val   Loss - 1.28525
+2019-08-10 20:44:00
+Epoch-1354 Train Loss - 0.02099
+Epoch-1354 Val   Loss - 1.30886
+2019-08-10 20:44:07
+Epoch-1355 Train Loss - 0.02088
+Epoch-1355 Val   Loss - 1.26455
+2019-08-10 20:44:13
+Epoch-1356 Train Loss - 0.02106
+Epoch-1356 Val   Loss - 1.23454
+2019-08-10 20:44:20
+Epoch-1357 Train Loss - 0.02151
+Epoch-1357 Val   Loss - 1.26479
+2019-08-10 20:44:26
+Epoch-1358 Train Loss - 0.02087
+Epoch-1358 Val   Loss - 1.26515
+2019-08-10 20:44:33
+Epoch-1359 Train Loss - 0.01901
+Epoch-1359 Val   Loss - 1.24101
+2019-08-10 20:44:39
+Epoch-1360 Train Loss - 0.01940
+Epoch-1360 Val   Loss - 1.22742
+2019-08-10 20:44:46
+Epoch-1361 Train Loss - 0.01927
+Epoch-1361 Val   Loss - 1.19488
+2019-08-10 20:44:53
+Epoch-1362 Train Loss - 0.01956
+Epoch-1362 Val   Loss - 1.26031
+2019-08-10 20:44:59
+Epoch-1363 Train Loss - 0.01994
+Epoch-1363 Val   Loss - 1.29704
+2019-08-10 20:45:06
+Epoch-1364 Train Loss - 0.02031
+Epoch-1364 Val   Loss - 1.31484
+2019-08-10 20:45:12
+Epoch-1365 Train Loss - 0.01846
+Epoch-1365 Val   Loss - 1.32109
+2019-08-10 20:45:19
+Epoch-1366 Train Loss - 0.01652
+Epoch-1366 Val   Loss - 1.30596
+2019-08-10 20:45:25
+Epoch-1367 Train Loss - 0.01718
+Epoch-1367 Val   Loss - 1.30540
+2019-08-10 20:45:32
+Epoch-1368 Train Loss - 0.01527
+Epoch-1368 Val   Loss - 1.32618
+2019-08-10 20:45:38
+Epoch-1369 Train Loss - 0.01573
+Epoch-1369 Val   Loss - 1.28975
+2019-08-10 20:45:45
+Epoch-1370 Train Loss - 0.01550
+Epoch-1370 Val   Loss - 1.31698
+2019-08-10 20:45:52
+Epoch-1371 Train Loss - 0.01576
+Epoch-1371 Val   Loss - 1.35402
+2019-08-10 20:45:58
+Epoch-1372 Train Loss - 0.01601
+Epoch-1372 Val   Loss - 1.38751
+2019-08-10 20:46:04
+Epoch-1373 Train Loss - 0.01586
+Epoch-1373 Val   Loss - 1.39976
+2019-08-10 20:46:11
+Epoch-1374 Train Loss - 0.01670
+Epoch-1374 Val   Loss - 1.40899
+2019-08-10 20:46:17
+Epoch-1375 Train Loss - 0.01813
+Epoch-1375 Val   Loss - 1.37677
+2019-08-10 20:46:24
+Epoch-1376 Train Loss - 0.01897
+Epoch-1376 Val   Loss - 1.35876
+2019-08-10 20:46:30
+Epoch-1377 Train Loss - 0.02066
+Epoch-1377 Val   Loss - 1.32336
+2019-08-10 20:46:37
+Epoch-1378 Train Loss - 0.02477
+Epoch-1378 Val   Loss - 1.30520
+2019-08-10 20:46:44
+Epoch-1379 Train Loss - 0.02429
+Epoch-1379 Val   Loss - 1.29042
+2019-08-10 20:46:50
+Epoch-1380 Train Loss - 0.02185
+Epoch-1380 Val   Loss - 1.31085
+2019-08-10 20:46:56
+Epoch-1381 Train Loss - 0.01869
+Epoch-1381 Val   Loss - 1.36620
+2019-08-10 20:47:03
+Epoch-1382 Train Loss - 0.01663
+Epoch-1382 Val   Loss - 1.38351
+2019-08-10 20:47:10
+Epoch-1383 Train Loss - 0.01653
+Epoch-1383 Val   Loss - 1.37527
+2019-08-10 20:47:16
+Epoch-1384 Train Loss - 0.01646
+Epoch-1384 Val   Loss - 1.38089
+2019-08-10 20:47:23
+Epoch-1385 Train Loss - 0.01698
+Epoch-1385 Val   Loss - 1.41911
+2019-08-10 20:47:29
+Epoch-1386 Train Loss - 0.01705
+Epoch-1386 Val   Loss - 1.43697
+2019-08-10 20:47:35
+Epoch-1387 Train Loss - 0.01710
+Epoch-1387 Val   Loss - 1.45798
+2019-08-10 20:47:42
+Epoch-1388 Train Loss - 0.01809
+Epoch-1388 Val   Loss - 1.42285
+2019-08-10 20:47:48
+Epoch-1389 Train Loss - 0.01956
+Epoch-1389 Val   Loss - 1.40975
+2019-08-10 20:47:55
+Epoch-1390 Train Loss - 0.02179
+Epoch-1390 Val   Loss - 1.39485
+2019-08-10 20:48:01
+Epoch-1391 Train Loss - 0.02235
+Epoch-1391 Val   Loss - 1.38033
+2019-08-10 20:48:08
+Epoch-1392 Train Loss - 0.02442
+Epoch-1392 Val   Loss - 1.37719
+2019-08-10 20:48:14
+Epoch-1393 Train Loss - 0.02575
+Epoch-1393 Val   Loss - 1.41828
+2019-08-10 20:48:21
+Epoch-1394 Train Loss - 0.02474
+Epoch-1394 Val   Loss - 1.40994
+2019-08-10 20:48:27
+Epoch-1395 Train Loss - 0.02296
+Epoch-1395 Val   Loss - 1.42135
+2019-08-10 20:48:34
+Epoch-1396 Train Loss - 0.02145
+Epoch-1396 Val   Loss - 1.36245
+2019-08-10 20:48:40
+Epoch-1397 Train Loss - 0.02140
+Epoch-1397 Val   Loss - 1.40352
+2019-08-10 20:48:47
+Epoch-1398 Train Loss - 0.02111
+Epoch-1398 Val   Loss - 1.42418
+2019-08-10 20:48:53
+Epoch-1399 Train Loss - 0.02129
+Epoch-1399 Val   Loss - 1.43336
+2019-08-10 20:48:59
+Epoch-1400 Train Loss - 0.01942
+Epoch-1400 Val   Loss - 1.39448
+2019-08-10 20:49:06
+Epoch-1401 Train Loss - 0.01909
+Epoch-1401 Val   Loss - 1.38407
+2019-08-10 20:49:13
+Epoch-1402 Train Loss - 0.01961
+Epoch-1402 Val   Loss - 1.33341
+2019-08-10 20:49:19
+Epoch-1403 Train Loss - 0.01914
+Epoch-1403 Val   Loss - 1.31484
+2019-08-10 20:49:26
+Epoch-1404 Train Loss - 0.01912
+Epoch-1404 Val   Loss - 1.35979
+2019-08-10 20:49:32
+Epoch-1405 Train Loss - 0.01920
+Epoch-1405 Val   Loss - 1.40186
+2019-08-10 20:49:39
+Epoch-1406 Train Loss - 0.01818
+Epoch-1406 Val   Loss - 1.45731
+2019-08-10 20:49:44
+Epoch-1407 Train Loss - 0.01779
+Epoch-1407 Val   Loss - 1.44518
+2019-08-10 20:49:51
+Epoch-1408 Train Loss - 0.01579
+Epoch-1408 Val   Loss - 1.42200
+2019-08-10 20:49:57
+Epoch-1409 Train Loss - 0.01518
+Epoch-1409 Val   Loss - 1.41503
+2019-08-10 20:50:04
+Epoch-1410 Train Loss - 0.01429
+Epoch-1410 Val   Loss - 1.42612
+2019-08-10 20:50:10
+Epoch-1411 Train Loss - 0.01365
+Epoch-1411 Val   Loss - 1.46569
+2019-08-10 20:50:17
+Epoch-1412 Train Loss - 0.01388
+Epoch-1412 Val   Loss - 1.46409
+2019-08-10 20:50:23
+Epoch-1413 Train Loss - 0.01357
+Epoch-1413 Val   Loss - 1.47874
+2019-08-10 20:50:30
+Epoch-1414 Train Loss - 0.01446
+Epoch-1414 Val   Loss - 1.46281
+2019-08-10 20:50:36
+Epoch-1415 Train Loss - 0.01433
+Epoch-1415 Val   Loss - 1.49398
+2019-08-10 20:50:43
+Epoch-1416 Train Loss - 0.01479
+Epoch-1416 Val   Loss - 1.47820
+2019-08-10 20:50:49
+Epoch-1417 Train Loss - 0.01466
+Epoch-1417 Val   Loss - 1.48744
+2019-08-10 20:50:56
+Epoch-1418 Train Loss - 0.01605
+Epoch-1418 Val   Loss - 1.48447
+2019-08-10 20:51:02
+Epoch-1419 Train Loss - 0.01695
+Epoch-1419 Val   Loss - 1.49095
+2019-08-10 20:51:09
+Epoch-1420 Train Loss - 0.01733
+Epoch-1420 Val   Loss - 1.45710
+2019-08-10 20:51:15
+Epoch-1421 Train Loss - 0.01823
+Epoch-1421 Val   Loss - 1.47464
+2019-08-10 20:51:21
+Epoch-1422 Train Loss - 0.01744
+Epoch-1422 Val   Loss - 1.48493
+2019-08-10 20:51:28
+Epoch-1423 Train Loss - 0.01596
+Epoch-1423 Val   Loss - 1.48759
+2019-08-10 20:51:35
+Epoch-1424 Train Loss - 0.01504
+Epoch-1424 Val   Loss - 1.47908
+2019-08-10 20:51:41
+Epoch-1425 Train Loss - 0.01483
+Epoch-1425 Val   Loss - 1.46692
+2019-08-10 20:51:48
+Epoch-1426 Train Loss - 0.01546
+Epoch-1426 Val   Loss - 1.48091
+2019-08-10 20:51:54
+Epoch-1427 Train Loss - 0.01708
+Epoch-1427 Val   Loss - 1.51534
+2019-08-10 20:52:01
+Epoch-1428 Train Loss - 0.01940
+Epoch-1428 Val   Loss - 1.54033
+2019-08-10 20:52:08
+Epoch-1429 Train Loss - 0.02512
+Epoch-1429 Val   Loss - 1.54374
+2019-08-10 20:52:14
+Epoch-1430 Train Loss - 0.03271
+Epoch-1430 Val   Loss - 1.52919
+2019-08-10 20:52:20
+Epoch-1431 Train Loss - 0.02854
+Epoch-1431 Val   Loss - 1.44217
+2019-08-10 20:52:27
+Epoch-1432 Train Loss - 0.02121
+Epoch-1432 Val   Loss - 1.45724
+2019-08-10 20:52:33
+Epoch-1433 Train Loss - 0.01822
+Epoch-1433 Val   Loss - 1.49082
+2019-08-10 20:52:40
+Epoch-1434 Train Loss - 0.01839
+Epoch-1434 Val   Loss - 1.50923
+2019-08-10 20:52:46
+Epoch-1435 Train Loss - 0.01889
+Epoch-1435 Val   Loss - 1.48288
+2019-08-10 20:52:53
+Epoch-1436 Train Loss - 0.01833
+Epoch-1436 Val   Loss - 1.42581
+2019-08-10 20:52:59
+Epoch-1437 Train Loss - 0.01854
+Epoch-1437 Val   Loss - 1.43644
+2019-08-10 20:53:06
+Epoch-1438 Train Loss - 0.01966
+Epoch-1438 Val   Loss - 1.44407
+2019-08-10 20:53:12
+Epoch-1439 Train Loss - 0.02065
+Epoch-1439 Val   Loss - 1.44012
+2019-08-10 20:53:19
+Epoch-1440 Train Loss - 0.02206
+Epoch-1440 Val   Loss - 1.38765
+2019-08-10 20:53:25
+Epoch-1441 Train Loss - 0.02322
+Epoch-1441 Val   Loss - 1.44474
+2019-08-10 20:53:32
+Epoch-1442 Train Loss - 0.02181
+Epoch-1442 Val   Loss - 1.36335
+2019-08-10 20:53:38
+Epoch-1443 Train Loss - 0.02373
+Epoch-1443 Val   Loss - 1.38442
+2019-08-10 20:53:45
+Epoch-1444 Train Loss - 0.02607
+Epoch-1444 Val   Loss - 1.42468
+2019-08-10 20:53:52
+Epoch-1445 Train Loss - 0.02818
+Epoch-1445 Val   Loss - 1.49991
+2019-08-10 20:53:58
+Epoch-1446 Train Loss - 0.03104
+Epoch-1446 Val   Loss - 1.52241
+2019-08-10 20:54:04
+Epoch-1447 Train Loss - 0.03900
+Epoch-1447 Val   Loss - 1.49370
+2019-08-10 20:54:11
+Epoch-1448 Train Loss - 0.03119
+Epoch-1448 Val   Loss - 1.46118
+2019-08-10 20:54:18
+Epoch-1449 Train Loss - 0.02435
+Epoch-1449 Val   Loss - 1.48330
+2019-08-10 20:54:24
+Epoch-1450 Train Loss - 0.02234
+Epoch-1450 Val   Loss - 1.51051
+2019-08-10 20:54:30
+Epoch-1451 Train Loss - 0.02003
+Epoch-1451 Val   Loss - 1.47039
+2019-08-10 20:54:37
+Epoch-1452 Train Loss - 0.02008
+Epoch-1452 Val   Loss - 1.44461
+2019-08-10 20:54:44
+Epoch-1453 Train Loss - 0.01979
+Epoch-1453 Val   Loss - 1.48305
+2019-08-10 20:54:50
+Epoch-1454 Train Loss - 0.01925
+Epoch-1454 Val   Loss - 1.48995
+2019-08-10 20:54:57
+Epoch-1455 Train Loss - 0.01863
+Epoch-1455 Val   Loss - 1.46965
+2019-08-10 20:55:03
+Epoch-1456 Train Loss - 0.01887
+Epoch-1456 Val   Loss - 1.49758
+2019-08-10 20:55:10
+Epoch-1457 Train Loss - 0.01975
+Epoch-1457 Val   Loss - 1.56457
+2019-08-10 20:55:16
+Epoch-1458 Train Loss - 0.02090
+Epoch-1458 Val   Loss - 1.58333
+2019-08-10 20:55:22
+Epoch-1459 Train Loss - 0.02302
+Epoch-1459 Val   Loss - 1.51747
+2019-08-10 20:55:29
+Epoch-1460 Train Loss - 0.02022
+Epoch-1460 Val   Loss - 1.52980
+2019-08-10 20:55:35
+Epoch-1461 Train Loss - 0.01889
+Epoch-1461 Val   Loss - 1.57792
+2019-08-10 20:55:42
+Epoch-1462 Train Loss - 0.01851
+Epoch-1462 Val   Loss - 1.69280
+2019-08-10 20:55:49
+Epoch-1463 Train Loss - 0.02076
+Epoch-1463 Val   Loss - 1.68165
+2019-08-10 20:55:55
+Epoch-1464 Train Loss - 0.02215
+Epoch-1464 Val   Loss - 1.64994
+2019-08-10 20:56:02
+Epoch-1465 Train Loss - 0.02358
+Epoch-1465 Val   Loss - 1.62113
+2019-08-10 20:56:08
+Epoch-1466 Train Loss - 0.02509
+Epoch-1466 Val   Loss - 1.57577
+2019-08-10 20:56:15
+Epoch-1467 Train Loss - 0.02621
+Epoch-1467 Val   Loss - 1.51030
+2019-08-10 20:56:22
+Epoch-1468 Train Loss - 0.02305
+Epoch-1468 Val   Loss - 1.54475
+2019-08-10 20:56:28
+Epoch-1469 Train Loss - 0.02306
+Epoch-1469 Val   Loss - 1.59003
+2019-08-10 20:56:35
+Epoch-1470 Train Loss - 0.02200
+Epoch-1470 Val   Loss - 1.52590
+2019-08-10 20:56:41
+Epoch-1471 Train Loss - 0.02261
+Epoch-1471 Val   Loss - 1.50608
+2019-08-10 20:56:48
+Epoch-1472 Train Loss - 0.02173
+Epoch-1472 Val   Loss - 1.53050
+2019-08-10 20:56:54
+Epoch-1473 Train Loss - 0.02133
+Epoch-1473 Val   Loss - 1.50987
+2019-08-10 20:57:00
+Epoch-1474 Train Loss - 0.02204
+Epoch-1474 Val   Loss - 1.49366
+2019-08-10 20:57:07
+Epoch-1475 Train Loss - 0.02277
+Epoch-1475 Val   Loss - 1.47265
+2019-08-10 20:57:13
+Epoch-1476 Train Loss - 0.02576
+Epoch-1476 Val   Loss - 1.47494
+2019-08-10 20:57:19
+Epoch-1477 Train Loss - 0.02632
+Epoch-1477 Val   Loss - 1.44210
+2019-08-10 20:57:26
+Epoch-1478 Train Loss - 0.02577
+Epoch-1478 Val   Loss - 1.44797
+2019-08-10 20:57:32
+Epoch-1479 Train Loss - 0.02313
+Epoch-1479 Val   Loss - 1.48312
+2019-08-10 20:57:39
+Epoch-1480 Train Loss - 0.02113
+Epoch-1480 Val   Loss - 1.50459
+2019-08-10 20:57:46
+Epoch-1481 Train Loss - 0.02013
+Epoch-1481 Val   Loss - 1.53351
+2019-08-10 20:57:52
+Epoch-1482 Train Loss - 0.01897
+Epoch-1482 Val   Loss - 1.51887
+2019-08-10 20:57:58
+Epoch-1483 Train Loss - 0.01911
+Epoch-1483 Val   Loss - 1.52269
+2019-08-10 20:58:05
+Epoch-1484 Train Loss - 0.01947
+Epoch-1484 Val   Loss - 1.53165
+2019-08-10 20:58:11
+Epoch-1485 Train Loss - 0.01946
+Epoch-1485 Val   Loss - 1.51841
+2019-08-10 20:58:18
+Epoch-1486 Train Loss - 0.02002
+Epoch-1486 Val   Loss - 1.49709
+2019-08-10 20:58:25
+Epoch-1487 Train Loss - 0.02067
+Epoch-1487 Val   Loss - 1.46255
+2019-08-10 20:58:31
+Epoch-1488 Train Loss - 0.02193
+Epoch-1488 Val   Loss - 1.46922
+2019-08-10 20:58:38
+Epoch-1489 Train Loss - 0.02159
+Epoch-1489 Val   Loss - 1.43012
+2019-08-10 20:58:44
+Epoch-1490 Train Loss - 0.02172
+Epoch-1490 Val   Loss - 1.45590
+2019-08-10 20:58:50
+Epoch-1491 Train Loss - 0.02259
+Epoch-1491 Val   Loss - 1.48557
+2019-08-10 20:58:57
+Epoch-1492 Train Loss - 0.02144
+Epoch-1492 Val   Loss - 1.49441
+2019-08-10 20:59:04
+Epoch-1493 Train Loss - 0.02213
+Epoch-1493 Val   Loss - 1.48160
+2019-08-10 20:59:10
+Epoch-1494 Train Loss - 0.02328
+Epoch-1494 Val   Loss - 1.44200
+2019-08-10 20:59:17
+Epoch-1495 Train Loss - 0.02353
+Epoch-1495 Val   Loss - 1.44976
+2019-08-10 20:59:23
+Epoch-1496 Train Loss - 0.02441
+Epoch-1496 Val   Loss - 1.44684
+2019-08-10 20:59:30
+Epoch-1497 Train Loss - 0.02696
+Epoch-1497 Val   Loss - 1.44301
+2019-08-10 20:59:36
+Epoch-1498 Train Loss - 0.02225
+Epoch-1498 Val   Loss - 1.53390
+2019-08-10 20:59:42
+Epoch-1499 Train Loss - 0.02022
+Epoch-1499 Val   Loss - 1.45341
+2019-08-10 20:59:48
+Epoch-1500 Train Loss - 0.01780
+Epoch-1500 Val   Loss - 1.39798
+2019-08-10 20:59:54
+Epoch-1501 Train Loss - 0.01693
+Epoch-1501 Val   Loss - 1.41403
+2019-08-10 21:00:01
+Epoch-1502 Train Loss - 0.01539
+Epoch-1502 Val   Loss - 1.42857
+2019-08-10 21:00:07
+Epoch-1503 Train Loss - 0.01530
+Epoch-1503 Val   Loss - 1.42744
+2019-08-10 21:00:14
+Epoch-1504 Train Loss - 0.01620
+Epoch-1504 Val   Loss - 1.42044
+2019-08-10 21:00:20
+Epoch-1505 Train Loss - 0.01629
+Epoch-1505 Val   Loss - 1.41119
+2019-08-10 21:00:27
+Epoch-1506 Train Loss - 0.01734
+Epoch-1506 Val   Loss - 1.42923
+2019-08-10 21:00:33
+Epoch-1507 Train Loss - 0.01755
+Epoch-1507 Val   Loss - 1.41884
+2019-08-10 21:00:40
+Epoch-1508 Train Loss - 0.01889
+Epoch-1508 Val   Loss - 1.38538
+2019-08-10 21:00:46
+Epoch-1509 Train Loss - 0.01939
+Epoch-1509 Val   Loss - 1.36954
+2019-08-10 21:00:53
+Epoch-1510 Train Loss - 0.02001
+Epoch-1510 Val   Loss - 1.37705
+2019-08-10 21:00:59
+Epoch-1511 Train Loss - 0.01903
+Epoch-1511 Val   Loss - 1.43690
+2019-08-10 21:01:06
+Epoch-1512 Train Loss - 0.01853
+Epoch-1512 Val   Loss - 1.49293
+2019-08-10 21:01:12
+Epoch-1513 Train Loss - 0.01805
+Epoch-1513 Val   Loss - 1.48693
+2019-08-10 21:01:18
+Epoch-1514 Train Loss - 0.01716
+Epoch-1514 Val   Loss - 1.50399
+2019-08-10 21:01:25
+Epoch-1515 Train Loss - 0.01662
+Epoch-1515 Val   Loss - 1.47257
+2019-08-10 21:01:31
+Epoch-1516 Train Loss - 0.01685
+Epoch-1516 Val   Loss - 1.43414
+2019-08-10 21:01:38
+Epoch-1517 Train Loss - 0.01599
+Epoch-1517 Val   Loss - 1.42653
+2019-08-10 21:01:44
+Epoch-1518 Train Loss - 0.01571
+Epoch-1518 Val   Loss - 1.46034
+2019-08-10 21:01:51
+Epoch-1519 Train Loss - 0.01545
+Epoch-1519 Val   Loss - 1.44719
+2019-08-10 21:01:57
+Epoch-1520 Train Loss - 0.01455
+Epoch-1520 Val   Loss - 1.47958
+2019-08-10 21:02:04
+Epoch-1521 Train Loss - 0.01559
+Epoch-1521 Val   Loss - 1.48271
+2019-08-10 21:02:10
+Epoch-1522 Train Loss - 0.01469
+Epoch-1522 Val   Loss - 1.51837
+2019-08-10 21:02:17
+Epoch-1523 Train Loss - 0.01574
+Epoch-1523 Val   Loss - 1.54452
+2019-08-10 21:02:23
+Epoch-1524 Train Loss - 0.01674
+Epoch-1524 Val   Loss - 1.51376
+2019-08-10 21:02:30
+Epoch-1525 Train Loss - 0.01762
+Epoch-1525 Val   Loss - 1.60926
+2019-08-10 21:02:36
+Epoch-1526 Train Loss - 0.01894
+Epoch-1526 Val   Loss - 1.64092
+2019-08-10 21:02:43
+Epoch-1527 Train Loss - 0.01841
+Epoch-1527 Val   Loss - 1.57390
+2019-08-10 21:02:49
+Epoch-1528 Train Loss - 0.02093
+Epoch-1528 Val   Loss - 1.56593
+2019-08-10 21:02:55
+Epoch-1529 Train Loss - 0.02278
+Epoch-1529 Val   Loss - 1.59183
+2019-08-10 21:03:02
+Epoch-1530 Train Loss - 0.02303
+Epoch-1530 Val   Loss - 1.58841
+2019-08-10 21:03:09
+Epoch-1531 Train Loss - 0.02319
+Epoch-1531 Val   Loss - 1.57647
+2019-08-10 21:03:15
+Epoch-1532 Train Loss - 0.02298
+Epoch-1532 Val   Loss - 1.53545
+2019-08-10 21:03:21
+Epoch-1533 Train Loss - 0.01894
+Epoch-1533 Val   Loss - 1.53413
+2019-08-10 21:03:28
+Epoch-1534 Train Loss - 0.02002
+Epoch-1534 Val   Loss - 1.51709
+2019-08-10 21:03:35
+Epoch-1535 Train Loss - 0.01861
+Epoch-1535 Val   Loss - 1.53095
+2019-08-10 21:03:41
+Epoch-1536 Train Loss - 0.01508
+Epoch-1536 Val   Loss - 1.63175
+2019-08-10 21:03:47
+Epoch-1537 Train Loss - 0.01388
+Epoch-1537 Val   Loss - 1.64469
+2019-08-10 21:03:54
+Epoch-1538 Train Loss - 0.01362
+Epoch-1538 Val   Loss - 1.56013
+2019-08-10 21:04:01
+Epoch-1539 Train Loss - 0.01390
+Epoch-1539 Val   Loss - 1.54885
+2019-08-10 21:04:08
+Epoch-1540 Train Loss - 0.01524
+Epoch-1540 Val   Loss - 1.52234
+2019-08-10 21:04:14
+Epoch-1541 Train Loss - 0.01552
+Epoch-1541 Val   Loss - 1.53130
+2019-08-10 21:04:20
+Epoch-1542 Train Loss - 0.01467
+Epoch-1542 Val   Loss - 1.54481
+2019-08-10 21:04:27
+Epoch-1543 Train Loss - 0.01496
+Epoch-1543 Val   Loss - 1.54278
+2019-08-10 21:04:33
+Epoch-1544 Train Loss - 0.01580
+Epoch-1544 Val   Loss - 1.54038
+2019-08-10 21:04:40
+Epoch-1545 Train Loss - 0.01604
+Epoch-1545 Val   Loss - 1.56313
+2019-08-10 21:04:46
+Epoch-1546 Train Loss - 0.01522
+Epoch-1546 Val   Loss - 1.55160
+2019-08-10 21:04:53
+Epoch-1547 Train Loss - 0.01547
+Epoch-1547 Val   Loss - 1.51269
+2019-08-10 21:04:59
+Epoch-1548 Train Loss - 0.01575
+Epoch-1548 Val   Loss - 1.53361
+2019-08-10 21:05:06
+Epoch-1549 Train Loss - 0.01730
+Epoch-1549 Val   Loss - 1.53896
+2019-08-10 21:05:12
+Epoch-1550 Train Loss - 0.01705
+Epoch-1550 Val   Loss - 1.52910
+2019-08-10 21:05:18
+Epoch-1551 Train Loss - 0.02112
+Epoch-1551 Val   Loss - 1.50910
+2019-08-10 21:05:25
+Epoch-1552 Train Loss - 0.02452
+Epoch-1552 Val   Loss - 1.51991
+2019-08-10 21:05:31
+Epoch-1553 Train Loss - 0.03162
+Epoch-1553 Val   Loss - 1.48171
+2019-08-10 21:05:38
+Epoch-1554 Train Loss - 0.03095
+Epoch-1554 Val   Loss - 1.51490
+2019-08-10 21:05:45
+Epoch-1555 Train Loss - 0.02589
+Epoch-1555 Val   Loss - 1.51293
+2019-08-10 21:05:51
+Epoch-1556 Train Loss - 0.02001
+Epoch-1556 Val   Loss - 1.51434
+2019-08-10 21:05:57
+Epoch-1557 Train Loss - 0.01980
+Epoch-1557 Val   Loss - 1.50190
+2019-08-10 21:06:04
+Epoch-1558 Train Loss - 0.01946
+Epoch-1558 Val   Loss - 1.50643
+2019-08-10 21:06:10
+Epoch-1559 Train Loss - 0.01911
+Epoch-1559 Val   Loss - 1.52005
+2019-08-10 21:06:17
+Epoch-1560 Train Loss - 0.01798
+Epoch-1560 Val   Loss - 1.56764
+2019-08-10 21:06:24
+Epoch-1561 Train Loss - 0.01577
+Epoch-1561 Val   Loss - 1.57394
+2019-08-10 21:06:30
+Epoch-1562 Train Loss - 0.01464
+Epoch-1562 Val   Loss - 1.54369
+2019-08-10 21:06:37
+Epoch-1563 Train Loss - 0.01364
+Epoch-1563 Val   Loss - 1.53137
+2019-08-10 21:06:43
+Epoch-1564 Train Loss - 0.01295
+Epoch-1564 Val   Loss - 1.49924
+2019-08-10 21:06:50
+Epoch-1565 Train Loss - 0.01277
+Epoch-1565 Val   Loss - 1.51107
+2019-08-10 21:06:56
+Epoch-1566 Train Loss - 0.01306
+Epoch-1566 Val   Loss - 1.51245
+2019-08-10 21:07:02
+Epoch-1567 Train Loss - 0.01214
+Epoch-1567 Val   Loss - 1.52889
+2019-08-10 21:07:09
+Epoch-1568 Train Loss - 0.01251
+Epoch-1568 Val   Loss - 1.54219
+2019-08-10 21:07:15
+Epoch-1569 Train Loss - 0.01260
+Epoch-1569 Val   Loss - 1.54814
+2019-08-10 21:07:22
+Epoch-1570 Train Loss - 0.01269
+Epoch-1570 Val   Loss - 1.51662
+2019-08-10 21:07:29
+Epoch-1571 Train Loss - 0.01369
+Epoch-1571 Val   Loss - 1.51905
+2019-08-10 21:07:35
+Epoch-1572 Train Loss - 0.01450
+Epoch-1572 Val   Loss - 1.53537
+2019-08-10 21:07:42
+Epoch-1573 Train Loss - 0.01525
+Epoch-1573 Val   Loss - 1.53619
+2019-08-10 21:07:48
+Epoch-1574 Train Loss - 0.01557
+Epoch-1574 Val   Loss - 1.56589
+2019-08-10 21:07:55
+Epoch-1575 Train Loss - 0.01488
+Epoch-1575 Val   Loss - 1.54240
+2019-08-10 21:08:01
+Epoch-1576 Train Loss - 0.01458
+Epoch-1576 Val   Loss - 1.55922
+2019-08-10 21:08:08
+Epoch-1577 Train Loss - 0.01511
+Epoch-1577 Val   Loss - 1.55623
+2019-08-10 21:08:14
+Epoch-1578 Train Loss - 0.01623
+Epoch-1578 Val   Loss - 1.55832
+2019-08-10 21:08:21
+Epoch-1579 Train Loss - 0.01547
+Epoch-1579 Val   Loss - 1.60272
+2019-08-10 21:08:27
+Epoch-1580 Train Loss - 0.01483
+Epoch-1580 Val   Loss - 1.53502
+2019-08-10 21:08:34
+Epoch-1581 Train Loss - 0.01415
+Epoch-1581 Val   Loss - 1.56157
+2019-08-10 21:08:40
+Epoch-1582 Train Loss - 0.01371
+Epoch-1582 Val   Loss - 1.52796
+2019-08-10 21:08:47
+Epoch-1583 Train Loss - 0.01357
+Epoch-1583 Val   Loss - 1.50458
+2019-08-10 21:08:54
+Epoch-1584 Train Loss - 0.01531
+Epoch-1584 Val   Loss - 1.49617
+2019-08-10 21:09:00
+Epoch-1585 Train Loss - 0.01509
+Epoch-1585 Val   Loss - 1.51815
+2019-08-10 21:09:07
+Epoch-1586 Train Loss - 0.01394
+Epoch-1586 Val   Loss - 1.47631
+2019-08-10 21:09:13
+Epoch-1587 Train Loss - 0.01430
+Epoch-1587 Val   Loss - 1.47338
+2019-08-10 21:09:20
+Epoch-1588 Train Loss - 0.01464
+Epoch-1588 Val   Loss - 1.53170
+2019-08-10 21:09:26
+Epoch-1589 Train Loss - 0.01587
+Epoch-1589 Val   Loss - 1.53712
+2019-08-10 21:09:33
+Epoch-1590 Train Loss - 0.01595
+Epoch-1590 Val   Loss - 1.59023
+2019-08-10 21:09:40
+Epoch-1591 Train Loss - 0.01544
+Epoch-1591 Val   Loss - 1.60316
+2019-08-10 21:09:46
+Epoch-1592 Train Loss - 0.01725
+Epoch-1592 Val   Loss - 1.62469
+2019-08-10 21:09:53
+Epoch-1593 Train Loss - 0.01741
+Epoch-1593 Val   Loss - 1.61904
+2019-08-10 21:09:58
+Epoch-1594 Train Loss - 0.01899
+Epoch-1594 Val   Loss - 1.59970
+2019-08-10 21:10:05
+Epoch-1595 Train Loss - 0.02140
+Epoch-1595 Val   Loss - 1.58971
+2019-08-10 21:10:11
+Epoch-1596 Train Loss - 0.02235
+Epoch-1596 Val   Loss - 1.57726
+2019-08-10 21:10:18
+Epoch-1597 Train Loss - 0.02643
+Epoch-1597 Val   Loss - 1.58931
+2019-08-10 21:10:25
+Epoch-1598 Train Loss - 0.02608
+Epoch-1598 Val   Loss - 1.52332
+2019-08-10 21:10:31
+Epoch-1599 Train Loss - 0.02345
+Epoch-1599 Val   Loss - 1.47251
+2019-08-10 21:10:37
+Epoch-1600 Train Loss - 0.01909
+Epoch-1600 Val   Loss - 1.49586
+2019-08-10 21:10:44
+Epoch-1601 Train Loss - 0.01686
+Epoch-1601 Val   Loss - 1.58355
+2019-08-10 21:10:51
+Epoch-1602 Train Loss - 0.01384
+Epoch-1602 Val   Loss - 1.62181
+2019-08-10 21:10:57
+Epoch-1603 Train Loss - 0.01424
+Epoch-1603 Val   Loss - 1.61219
+2019-08-10 21:11:04
+Epoch-1604 Train Loss - 0.01412
+Epoch-1604 Val   Loss - 1.57022
+2019-08-10 21:11:10
+Epoch-1605 Train Loss - 0.01401
+Epoch-1605 Val   Loss - 1.59867
+2019-08-10 21:11:17
+Epoch-1606 Train Loss - 0.01426
+Epoch-1606 Val   Loss - 1.60276
+2019-08-10 21:11:23
+Epoch-1607 Train Loss - 0.01494
+Epoch-1607 Val   Loss - 1.61241
+2019-08-10 21:11:30
+Epoch-1608 Train Loss - 0.01514
+Epoch-1608 Val   Loss - 1.61890
+2019-08-10 21:11:37
+Epoch-1609 Train Loss - 0.01520
+Epoch-1609 Val   Loss - 1.61759
+2019-08-10 21:11:43
+Epoch-1610 Train Loss - 0.01597
+Epoch-1610 Val   Loss - 1.58596
+2019-08-10 21:11:50
+Epoch-1611 Train Loss - 0.01550
+Epoch-1611 Val   Loss - 1.59155
+2019-08-10 21:11:56
+Epoch-1612 Train Loss - 0.01500
+Epoch-1612 Val   Loss - 1.60884
+2019-08-10 21:12:02
+Epoch-1613 Train Loss - 0.01498
+Epoch-1613 Val   Loss - 1.61724
+2019-08-10 21:12:09
+Epoch-1614 Train Loss - 0.01594
+Epoch-1614 Val   Loss - 1.57746
+2019-08-10 21:12:15
+Epoch-1615 Train Loss - 0.01541
+Epoch-1615 Val   Loss - 1.59543
+2019-08-10 21:12:22
+Epoch-1616 Train Loss - 0.01620
+Epoch-1616 Val   Loss - 1.61168
+2019-08-10 21:12:28
+Epoch-1617 Train Loss - 0.01622
+Epoch-1617 Val   Loss - 1.61438
+2019-08-10 21:12:34
+Epoch-1618 Train Loss - 0.01618
+Epoch-1618 Val   Loss - 1.57296
+2019-08-10 21:12:41
+Epoch-1619 Train Loss - 0.01619
+Epoch-1619 Val   Loss - 1.54887
+2019-08-10 21:12:48
+Epoch-1620 Train Loss - 0.01702
+Epoch-1620 Val   Loss - 1.55566
+2019-08-10 21:12:54
+Epoch-1621 Train Loss - 0.01686
+Epoch-1621 Val   Loss - 1.58259
+2019-08-10 21:13:01
+Epoch-1622 Train Loss - 0.01797
+Epoch-1622 Val   Loss - 1.60006
+2019-08-10 21:13:07
+Epoch-1623 Train Loss - 0.01777
+Epoch-1623 Val   Loss - 1.57776
+2019-08-10 21:13:14
+Epoch-1624 Train Loss - 0.01612
+Epoch-1624 Val   Loss - 1.59715
+2019-08-10 21:13:21
+Epoch-1625 Train Loss - 0.01701
+Epoch-1625 Val   Loss - 1.61911
+2019-08-10 21:13:27
+Epoch-1626 Train Loss - 0.01808
+Epoch-1626 Val   Loss - 1.63344
+2019-08-10 21:13:34
+Epoch-1627 Train Loss - 0.01798
+Epoch-1627 Val   Loss - 1.65327
+2019-08-10 21:13:40
+Epoch-1628 Train Loss - 0.01855
+Epoch-1628 Val   Loss - 1.61989
+2019-08-10 21:13:47
+Epoch-1629 Train Loss - 0.01783
+Epoch-1629 Val   Loss - 1.54081
+2019-08-10 21:13:53
+Epoch-1630 Train Loss - 0.01615
+Epoch-1630 Val   Loss - 1.56065
+2019-08-10 21:14:00
+Epoch-1631 Train Loss - 0.01472
+Epoch-1631 Val   Loss - 1.59530
+2019-08-10 21:14:06
+Epoch-1632 Train Loss - 0.01326
+Epoch-1632 Val   Loss - 1.58780
+2019-08-10 21:14:13
+Epoch-1633 Train Loss - 0.01302
+Epoch-1633 Val   Loss - 1.59482
+2019-08-10 21:14:19
+Epoch-1634 Train Loss - 0.01310
+Epoch-1634 Val   Loss - 1.59786
+2019-08-10 21:14:26
+Epoch-1635 Train Loss - 0.01378
+Epoch-1635 Val   Loss - 1.56503
+2019-08-10 21:14:33
+Epoch-1636 Train Loss - 0.01468
+Epoch-1636 Val   Loss - 1.55280
+2019-08-10 21:14:39
+Epoch-1637 Train Loss - 0.01431
+Epoch-1637 Val   Loss - 1.56553
+2019-08-10 21:14:45
+Epoch-1638 Train Loss - 0.01588
+Epoch-1638 Val   Loss - 1.54029
+2019-08-10 21:14:52
+Epoch-1639 Train Loss - 0.01771
+Epoch-1639 Val   Loss - 1.59156
+2019-08-10 21:14:58
+Epoch-1640 Train Loss - 0.01895
+Epoch-1640 Val   Loss - 1.60489
+2019-08-10 21:15:05
+Epoch-1641 Train Loss - 0.01776
+Epoch-1641 Val   Loss - 1.58317
+2019-08-10 21:15:11
+Epoch-1642 Train Loss - 0.01619
+Epoch-1642 Val   Loss - 1.58438
+2019-08-10 21:15:18
+Epoch-1643 Train Loss - 0.01633
+Epoch-1643 Val   Loss - 1.58657
+2019-08-10 21:15:24
+Epoch-1644 Train Loss - 0.01779
+Epoch-1644 Val   Loss - 1.66758
+2019-08-10 21:15:31
+Epoch-1645 Train Loss - 0.01838
+Epoch-1645 Val   Loss - 1.70416
+2019-08-10 21:15:37
+Epoch-1646 Train Loss - 0.02045
+Epoch-1646 Val   Loss - 1.63340
+2019-08-10 21:15:44
+Epoch-1647 Train Loss - 0.02085
+Epoch-1647 Val   Loss - 1.53729
+2019-08-10 21:15:51
+Epoch-1648 Train Loss - 0.02026
+Epoch-1648 Val   Loss - 1.51806
+2019-08-10 21:15:57
+Epoch-1649 Train Loss - 0.01897
+Epoch-1649 Val   Loss - 1.54346
+2019-08-10 21:16:04
+Epoch-1650 Train Loss - 0.01875
+Epoch-1650 Val   Loss - 1.56774
+2019-08-10 21:16:11
+Epoch-1651 Train Loss - 0.01932
+Epoch-1651 Val   Loss - 1.58609
+2019-08-10 21:16:17
+Epoch-1652 Train Loss - 0.01920
+Epoch-1652 Val   Loss - 1.53727
+2019-08-10 21:16:24
+Epoch-1653 Train Loss - 0.01759
+Epoch-1653 Val   Loss - 1.48672
+2019-08-10 21:16:30
+Epoch-1654 Train Loss - 0.01687
+Epoch-1654 Val   Loss - 1.52283
+2019-08-10 21:16:37
+Epoch-1655 Train Loss - 0.01740
+Epoch-1655 Val   Loss - 1.53975
+2019-08-10 21:16:44
+Epoch-1656 Train Loss - 0.01650
+Epoch-1656 Val   Loss - 1.54174
+2019-08-10 21:16:50
+Epoch-1657 Train Loss - 0.01607
+Epoch-1657 Val   Loss - 1.54260
+2019-08-10 21:16:57
+Epoch-1658 Train Loss - 0.01710
+Epoch-1658 Val   Loss - 1.53041
+2019-08-10 21:17:03
+Epoch-1659 Train Loss - 0.01699
+Epoch-1659 Val   Loss - 1.56642
+2019-08-10 21:17:10
+Epoch-1660 Train Loss - 0.01744
+Epoch-1660 Val   Loss - 1.57824
+2019-08-10 21:17:16
+Epoch-1661 Train Loss - 0.01773
+Epoch-1661 Val   Loss - 1.58002
+2019-08-10 21:17:23
+Epoch-1662 Train Loss - 0.01700
+Epoch-1662 Val   Loss - 1.54916
+2019-08-10 21:17:29
+Epoch-1663 Train Loss - 0.01589
+Epoch-1663 Val   Loss - 1.56418
+2019-08-10 21:17:36
+Epoch-1664 Train Loss - 0.01466
+Epoch-1664 Val   Loss - 1.56501
+2019-08-10 21:17:43
+Epoch-1665 Train Loss - 0.01413
+Epoch-1665 Val   Loss - 1.56479
+2019-08-10 21:17:49
+Epoch-1666 Train Loss - 0.01543
+Epoch-1666 Val   Loss - 1.59347
+2019-08-10 21:17:56
+Epoch-1667 Train Loss - 0.01516
+Epoch-1667 Val   Loss - 1.62382
+2019-08-10 21:18:02
+Epoch-1668 Train Loss - 0.01442
+Epoch-1668 Val   Loss - 1.61758
+2019-08-10 21:18:09
+Epoch-1669 Train Loss - 0.01574
+Epoch-1669 Val   Loss - 1.60168
+2019-08-10 21:18:15
+Epoch-1670 Train Loss - 0.01613
+Epoch-1670 Val   Loss - 1.58818
+2019-08-10 21:18:22
+Epoch-1671 Train Loss - 0.01732
+Epoch-1671 Val   Loss - 1.58134
+2019-08-10 21:18:28
+Epoch-1672 Train Loss - 0.01886
+Epoch-1672 Val   Loss - 1.55925
+2019-08-10 21:18:35
+Epoch-1673 Train Loss - 0.01762
+Epoch-1673 Val   Loss - 1.62466
+2019-08-10 21:18:41
+Epoch-1674 Train Loss - 0.01704
+Epoch-1674 Val   Loss - 1.59926
+2019-08-10 21:18:48
+Epoch-1675 Train Loss - 0.01459
+Epoch-1675 Val   Loss - 1.62414
+2019-08-10 21:18:54
+Epoch-1676 Train Loss - 0.01475
+Epoch-1676 Val   Loss - 1.62256
+2019-08-10 21:19:01
+Epoch-1677 Train Loss - 0.01674
+Epoch-1677 Val   Loss - 1.65320
+2019-08-10 21:19:08
+Epoch-1678 Train Loss - 0.01919
+Epoch-1678 Val   Loss - 1.63645
+2019-08-10 21:19:14
+Epoch-1679 Train Loss - 0.02052
+Epoch-1679 Val   Loss - 1.61814
+2019-08-10 21:19:21
+Epoch-1680 Train Loss - 0.02077
+Epoch-1680 Val   Loss - 1.52446
+2019-08-10 21:19:27
+Epoch-1681 Train Loss - 0.01871
+Epoch-1681 Val   Loss - 1.52781
+2019-08-10 21:19:34
+Epoch-1682 Train Loss - 0.01876
+Epoch-1682 Val   Loss - 1.55874
+2019-08-10 21:19:40
+Epoch-1683 Train Loss - 0.02090
+Epoch-1683 Val   Loss - 1.59677
+2019-08-10 21:19:47
+Epoch-1684 Train Loss - 0.02100
+Epoch-1684 Val   Loss - 1.64457
+2019-08-10 21:19:53
+Epoch-1685 Train Loss - 0.02117
+Epoch-1685 Val   Loss - 1.63429
+2019-08-10 21:20:00
+Epoch-1686 Train Loss - 0.01932
+Epoch-1686 Val   Loss - 1.63112
+2019-08-10 21:20:06
+Epoch-1687 Train Loss - 0.01948
+Epoch-1687 Val   Loss - 1.63416
+2019-08-10 21:20:13
+Epoch-1688 Train Loss - 0.02100
+Epoch-1688 Val   Loss - 1.61173
+2019-08-10 21:20:19
+Epoch-1689 Train Loss - 0.01920
+Epoch-1689 Val   Loss - 1.64790
+2019-08-10 21:20:25
+Epoch-1690 Train Loss - 0.01896
+Epoch-1690 Val   Loss - 1.66045
+2019-08-10 21:20:32
+Epoch-1691 Train Loss - 0.02060
+Epoch-1691 Val   Loss - 1.64042
+2019-08-10 21:20:39
+Epoch-1692 Train Loss - 0.02262
+Epoch-1692 Val   Loss - 1.62688
+2019-08-10 21:20:45
+Epoch-1693 Train Loss - 0.02310
+Epoch-1693 Val   Loss - 1.58216
+2019-08-10 21:20:51
+Epoch-1694 Train Loss - 0.02505
+Epoch-1694 Val   Loss - 1.60389
+2019-08-10 21:20:58
+Epoch-1695 Train Loss - 0.02652
+Epoch-1695 Val   Loss - 1.59889
+2019-08-10 21:21:04
+Epoch-1696 Train Loss - 0.02917
+Epoch-1696 Val   Loss - 1.58681
+2019-08-10 21:21:11
+Epoch-1697 Train Loss - 0.03184
+Epoch-1697 Val   Loss - 1.55475
+2019-08-10 21:21:18
+Epoch-1698 Train Loss - 0.03166
+Epoch-1698 Val   Loss - 1.51973
+2019-08-10 21:21:24
+Epoch-1699 Train Loss - 0.02928
+Epoch-1699 Val   Loss - 1.51668
+2019-08-10 21:21:31
+Epoch-1700 Train Loss - 0.02733
+Epoch-1700 Val   Loss - 1.55270
+2019-08-10 21:21:37
+Epoch-1701 Train Loss - 0.02395
+Epoch-1701 Val   Loss - 1.62607
+2019-08-10 21:21:44
+Epoch-1702 Train Loss - 0.02137
+Epoch-1702 Val   Loss - 1.60368
+2019-08-10 21:21:50
+Epoch-1703 Train Loss - 0.02125
+Epoch-1703 Val   Loss - 1.54307
+2019-08-10 21:21:57
+Epoch-1704 Train Loss - 0.02425
+Epoch-1704 Val   Loss - 1.53556
+2019-08-10 21:22:03
+Epoch-1705 Train Loss - 0.02364
+Epoch-1705 Val   Loss - 1.54435
+2019-08-10 21:22:09
+Epoch-1706 Train Loss - 0.02432
+Epoch-1706 Val   Loss - 1.54562
+2019-08-10 21:22:16
+Epoch-1707 Train Loss - 0.02618
+Epoch-1707 Val   Loss - 1.52877
+2019-08-10 21:22:23
+Epoch-1708 Train Loss - 0.02515
+Epoch-1708 Val   Loss - 1.53991
+2019-08-10 21:22:29
+Epoch-1709 Train Loss - 0.02520
+Epoch-1709 Val   Loss - 1.53976
+2019-08-10 21:22:36
+Epoch-1710 Train Loss - 0.02655
+Epoch-1710 Val   Loss - 1.54516
+2019-08-10 21:22:42
+Epoch-1711 Train Loss - 0.02686
+Epoch-1711 Val   Loss - 1.56446
+2019-08-10 21:22:49
+Epoch-1712 Train Loss - 0.02658
+Epoch-1712 Val   Loss - 1.55852
+2019-08-10 21:22:55
+Epoch-1713 Train Loss - 0.02726
+Epoch-1713 Val   Loss - 1.51494
+2019-08-10 21:23:02
+Epoch-1714 Train Loss - 0.02428
+Epoch-1714 Val   Loss - 1.55180
+2019-08-10 21:23:08
+Epoch-1715 Train Loss - 0.02243
+Epoch-1715 Val   Loss - 1.53197
+2019-08-10 21:23:15
+Epoch-1716 Train Loss - 0.02117
+Epoch-1716 Val   Loss - 1.55616
+2019-08-10 21:23:21
+Epoch-1717 Train Loss - 0.02111
+Epoch-1717 Val   Loss - 1.55392
+2019-08-10 21:23:28
+Epoch-1718 Train Loss - 0.01926
+Epoch-1718 Val   Loss - 1.55362
+2019-08-10 21:23:35
+Epoch-1719 Train Loss - 0.01911
+Epoch-1719 Val   Loss - 1.51202
+2019-08-10 21:23:41
+Epoch-1720 Train Loss - 0.01994
+Epoch-1720 Val   Loss - 1.50577
+2019-08-10 21:23:48
+Epoch-1721 Train Loss - 0.02031
+Epoch-1721 Val   Loss - 1.55948
+2019-08-10 21:23:54
+Epoch-1722 Train Loss - 0.02024
+Epoch-1722 Val   Loss - 1.59255
+2019-08-10 21:24:01
+Epoch-1723 Train Loss - 0.02079
+Epoch-1723 Val   Loss - 1.62905
+2019-08-10 21:24:06
+Epoch-1724 Train Loss - 0.02279
+Epoch-1724 Val   Loss - 1.59427
+2019-08-10 21:24:12
+Epoch-1725 Train Loss - 0.02370
+Epoch-1725 Val   Loss - 1.57997
+2019-08-10 21:24:19
+Epoch-1726 Train Loss - 0.02448
+Epoch-1726 Val   Loss - 1.58680
+2019-08-10 21:24:25
+Epoch-1727 Train Loss - 0.02519
+Epoch-1727 Val   Loss - 1.60326
+2019-08-10 21:24:32
+Epoch-1728 Train Loss - 0.02528
+Epoch-1728 Val   Loss - 1.60528
+2019-08-10 21:24:38
+Epoch-1729 Train Loss - 0.02814
+Epoch-1729 Val   Loss - 1.63459
+2019-08-10 21:24:45
+Epoch-1730 Train Loss - 0.02779
+Epoch-1730 Val   Loss - 1.64850
+2019-08-10 21:24:51
+Epoch-1731 Train Loss - 0.02695
+Epoch-1731 Val   Loss - 1.66352
+2019-08-10 21:24:58
+Epoch-1732 Train Loss - 0.02593
+Epoch-1732 Val   Loss - 1.67263
+2019-08-10 21:25:04
+Epoch-1733 Train Loss - 0.02457
+Epoch-1733 Val   Loss - 1.65310
+2019-08-10 21:25:10
+Epoch-1734 Train Loss - 0.02145
+Epoch-1734 Val   Loss - 1.65498
+2019-08-10 21:25:17
+Epoch-1735 Train Loss - 0.02006
+Epoch-1735 Val   Loss - 1.66095
+2019-08-10 21:25:24
+Epoch-1736 Train Loss - 0.01950
+Epoch-1736 Val   Loss - 1.65665
+2019-08-10 21:25:30
+Epoch-1737 Train Loss - 0.02035
+Epoch-1737 Val   Loss - 1.65214
+2019-08-10 21:25:37
+Epoch-1738 Train Loss - 0.02104
+Epoch-1738 Val   Loss - 1.69025
+2019-08-10 21:25:43
+Epoch-1739 Train Loss - 0.02108
+Epoch-1739 Val   Loss - 1.74614
+2019-08-10 21:25:50
+Epoch-1740 Train Loss - 0.02250
+Epoch-1740 Val   Loss - 1.72766
+2019-08-10 21:25:56
+Epoch-1741 Train Loss - 0.02417
+Epoch-1741 Val   Loss - 1.71636
+2019-08-10 21:26:03
+Epoch-1742 Train Loss - 0.02335
+Epoch-1742 Val   Loss - 1.73417
+2019-08-10 21:26:10
+Epoch-1743 Train Loss - 0.02556
+Epoch-1743 Val   Loss - 1.68666
+2019-08-10 21:26:16
+Epoch-1744 Train Loss - 0.02741
+Epoch-1744 Val   Loss - 1.63054
+2019-08-10 21:26:23
+Epoch-1745 Train Loss - 0.02607
+Epoch-1745 Val   Loss - 1.57177
+2019-08-10 21:26:29
+Epoch-1746 Train Loss - 0.02483
+Epoch-1746 Val   Loss - 1.59373
+2019-08-10 21:26:36
+Epoch-1747 Train Loss - 0.02188
+Epoch-1747 Val   Loss - 1.62582
+2019-08-10 21:26:42
+Epoch-1748 Train Loss - 0.02083
+Epoch-1748 Val   Loss - 1.63993
+2019-08-10 21:26:49
+Epoch-1749 Train Loss - 0.01937
+Epoch-1749 Val   Loss - 1.67252
+2019-08-10 21:26:56
+Epoch-1750 Train Loss - 0.01875
+Epoch-1750 Val   Loss - 1.70506
+2019-08-10 21:27:02
+Epoch-1751 Train Loss - 0.01840
+Epoch-1751 Val   Loss - 1.68571
+2019-08-10 21:27:09
+Epoch-1752 Train Loss - 0.01786
+Epoch-1752 Val   Loss - 1.63180
+2019-08-10 21:27:15
+Epoch-1753 Train Loss - 0.01772
+Epoch-1753 Val   Loss - 1.63111
+2019-08-10 21:27:22
+Epoch-1754 Train Loss - 0.01772
+Epoch-1754 Val   Loss - 1.65730
+2019-08-10 21:27:28
+Epoch-1755 Train Loss - 0.01694
+Epoch-1755 Val   Loss - 1.64899
+2019-08-10 21:27:35
+Epoch-1756 Train Loss - 0.01848
+Epoch-1756 Val   Loss - 1.59767
+2019-08-10 21:27:41
+Epoch-1757 Train Loss - 0.01923
+Epoch-1757 Val   Loss - 1.62313
+2019-08-10 21:27:48
+Epoch-1758 Train Loss - 0.02016
+Epoch-1758 Val   Loss - 1.64671
+2019-08-10 21:27:55
+Epoch-1759 Train Loss - 0.01998
+Epoch-1759 Val   Loss - 1.66573
+2019-08-10 21:28:02
+Epoch-1760 Train Loss - 0.02064
+Epoch-1760 Val   Loss - 1.63023
+2019-08-10 21:28:08
+Epoch-1761 Train Loss - 0.02253
+Epoch-1761 Val   Loss - 1.63544
+2019-08-10 21:28:15
+Epoch-1762 Train Loss - 0.02352
+Epoch-1762 Val   Loss - 1.64223
+2019-08-10 21:28:22
+Epoch-1763 Train Loss - 0.02512
+Epoch-1763 Val   Loss - 1.61588
+2019-08-10 21:28:28
+Epoch-1764 Train Loss - 0.02889
+Epoch-1764 Val   Loss - 1.61472
+2019-08-10 21:28:35
+Epoch-1765 Train Loss - 0.02815
+Epoch-1765 Val   Loss - 1.69566
+2019-08-10 21:28:41
+Epoch-1766 Train Loss - 0.02481
+Epoch-1766 Val   Loss - 1.65696
+2019-08-10 21:28:48
+Epoch-1767 Train Loss - 0.02351
+Epoch-1767 Val   Loss - 1.58985
+2019-08-10 21:28:55
+Epoch-1768 Train Loss - 0.01947
+Epoch-1768 Val   Loss - 1.59274
+2019-08-10 21:29:01
+Epoch-1769 Train Loss - 0.01777
+Epoch-1769 Val   Loss - 1.61433
+2019-08-10 21:29:08
+Epoch-1770 Train Loss - 0.01743
+Epoch-1770 Val   Loss - 1.65480
+2019-08-10 21:29:14
+Epoch-1771 Train Loss - 0.01649
+Epoch-1771 Val   Loss - 1.62900
+2019-08-10 21:29:21
+Epoch-1772 Train Loss - 0.01655
+Epoch-1772 Val   Loss - 1.64540
+2019-08-10 21:29:27
+Epoch-1773 Train Loss - 0.01701
+Epoch-1773 Val   Loss - 1.64288
+2019-08-10 21:29:34
+Epoch-1774 Train Loss - 0.01826
+Epoch-1774 Val   Loss - 1.63817
+2019-08-10 21:29:40
+Epoch-1775 Train Loss - 0.01884
+Epoch-1775 Val   Loss - 1.60852
+2019-08-10 21:29:47
+Epoch-1776 Train Loss - 0.01938
+Epoch-1776 Val   Loss - 1.60198
+2019-08-10 21:29:53
+Epoch-1777 Train Loss - 0.01980
+Epoch-1777 Val   Loss - 1.60821
+2019-08-10 21:30:00
+Epoch-1778 Train Loss - 0.02079
+Epoch-1778 Val   Loss - 1.63555
+2019-08-10 21:30:07
+Epoch-1779 Train Loss - 0.02098
+Epoch-1779 Val   Loss - 1.65745
+2019-08-10 21:30:13
+Epoch-1780 Train Loss - 0.02184
+Epoch-1780 Val   Loss - 1.64213
+2019-08-10 21:30:20
+Epoch-1781 Train Loss - 0.02289
+Epoch-1781 Val   Loss - 1.67022
+2019-08-10 21:30:26
+Epoch-1782 Train Loss - 0.02174
+Epoch-1782 Val   Loss - 1.68267
+2019-08-10 21:30:33
+Epoch-1783 Train Loss - 0.01981
+Epoch-1783 Val   Loss - 1.70646
+2019-08-10 21:30:39
+Epoch-1784 Train Loss - 0.01989
+Epoch-1784 Val   Loss - 1.66015
+2019-08-10 21:30:46
+Epoch-1785 Train Loss - 0.01973
+Epoch-1785 Val   Loss - 1.64647
+2019-08-10 21:30:52
+Epoch-1786 Train Loss - 0.01957
+Epoch-1786 Val   Loss - 1.62126
+2019-08-10 21:30:59
+Epoch-1787 Train Loss - 0.01989
+Epoch-1787 Val   Loss - 1.62608
+2019-08-10 21:31:05
+Epoch-1788 Train Loss - 0.01836
+Epoch-1788 Val   Loss - 1.63852
+2019-08-10 21:31:12
+Epoch-1789 Train Loss - 0.01694
+Epoch-1789 Val   Loss - 1.66657
+2019-08-10 21:31:18
+Epoch-1790 Train Loss - 0.01604
+Epoch-1790 Val   Loss - 1.68651
+2019-08-10 21:31:25
+Epoch-1791 Train Loss - 0.01690
+Epoch-1791 Val   Loss - 1.68418
+2019-08-10 21:31:31
+Epoch-1792 Train Loss - 0.01720
+Epoch-1792 Val   Loss - 1.66117
+2019-08-10 21:31:38
+Epoch-1793 Train Loss - 0.01907
+Epoch-1793 Val   Loss - 1.68957
+2019-08-10 21:31:45
+Epoch-1794 Train Loss - 0.02120
+Epoch-1794 Val   Loss - 1.66145
+2019-08-10 21:31:51
+Epoch-1795 Train Loss - 0.01918
+Epoch-1795 Val   Loss - 1.61405
+2019-08-10 21:31:58
+Epoch-1796 Train Loss - 0.01976
+Epoch-1796 Val   Loss - 1.61081
+2019-08-10 21:32:05
+Epoch-1797 Train Loss - 0.01874
+Epoch-1797 Val   Loss - 1.59312
+2019-08-10 21:32:11
+Epoch-1798 Train Loss - 0.01779
+Epoch-1798 Val   Loss - 1.63444
+2019-08-10 21:32:17
+Epoch-1799 Train Loss - 0.01836
+Epoch-1799 Val   Loss - 1.70206
+2019-08-10 21:32:24
+Epoch-1800 Train Loss - 0.01842
+Epoch-1800 Val   Loss - 1.69472
+2019-08-10 21:32:30
+Epoch-1801 Train Loss - 0.01749
+Epoch-1801 Val   Loss - 1.65941
+2019-08-10 21:32:37
+Epoch-1802 Train Loss - 0.01774
+Epoch-1802 Val   Loss - 1.59294
+2019-08-10 21:32:44
+Epoch-1803 Train Loss - 0.01775
+Epoch-1803 Val   Loss - 1.62530
+2019-08-10 21:32:50
+Epoch-1804 Train Loss - 0.01805
+Epoch-1804 Val   Loss - 1.66472
+2019-08-10 21:32:57
+Epoch-1805 Train Loss - 0.01648
+Epoch-1805 Val   Loss - 1.66551
+2019-08-10 21:33:03
+Epoch-1806 Train Loss - 0.01724
+Epoch-1806 Val   Loss - 1.71267
+2019-08-10 21:33:10
+Epoch-1807 Train Loss - 0.01917
+Epoch-1807 Val   Loss - 1.70691
+2019-08-10 21:33:16
+Epoch-1808 Train Loss - 0.01928
+Epoch-1808 Val   Loss - 1.75904
+2019-08-10 21:33:23
+Epoch-1809 Train Loss - 0.01946
+Epoch-1809 Val   Loss - 1.76666
+2019-08-10 21:33:30
+Epoch-1810 Train Loss - 0.01889
+Epoch-1810 Val   Loss - 1.76710
+2019-08-10 21:33:36
+Epoch-1811 Train Loss - 0.02199
+Epoch-1811 Val   Loss - 1.76749
+2019-08-10 21:33:43
+Epoch-1812 Train Loss - 0.02090
+Epoch-1812 Val   Loss - 1.76979
+2019-08-10 21:33:49
+Epoch-1813 Train Loss - 0.02329
+Epoch-1813 Val   Loss - 1.77626
+2019-08-10 21:33:55
+Epoch-1814 Train Loss - 0.02407
+Epoch-1814 Val   Loss - 1.78461
+2019-08-10 21:34:02
+Epoch-1815 Train Loss - 0.02625
+Epoch-1815 Val   Loss - 1.73824
+2019-08-10 21:34:08
+Epoch-1816 Train Loss - 0.02803
+Epoch-1816 Val   Loss - 1.71963
+2019-08-10 21:34:15
+Epoch-1817 Train Loss - 0.03035
+Epoch-1817 Val   Loss - 1.65233
+2019-08-10 21:34:22
+Epoch-1818 Train Loss - 0.03055
+Epoch-1818 Val   Loss - 1.63799
+2019-08-10 21:34:28
+Epoch-1819 Train Loss - 0.02367
+Epoch-1819 Val   Loss - 1.70371
+2019-08-10 21:34:35
+Epoch-1820 Train Loss - 0.01785
+Epoch-1820 Val   Loss - 1.67044
+2019-08-10 21:34:41
+Epoch-1821 Train Loss - 0.01689
+Epoch-1821 Val   Loss - 1.69458
+2019-08-10 21:34:48
+Epoch-1822 Train Loss - 0.01647
+Epoch-1822 Val   Loss - 1.72397
+2019-08-10 21:34:54
+Epoch-1823 Train Loss - 0.01482
+Epoch-1823 Val   Loss - 1.74607
+2019-08-10 21:35:01
+Epoch-1824 Train Loss - 0.01423
+Epoch-1824 Val   Loss - 1.73962
+2019-08-10 21:35:07
+Epoch-1825 Train Loss - 0.01456
+Epoch-1825 Val   Loss - 1.71063
+2019-08-10 21:35:14
+Epoch-1826 Train Loss - 0.01437
+Epoch-1826 Val   Loss - 1.70468
+2019-08-10 21:35:21
+Epoch-1827 Train Loss - 0.01503
+Epoch-1827 Val   Loss - 1.72910
+2019-08-10 21:35:27
+Epoch-1828 Train Loss - 0.01532
+Epoch-1828 Val   Loss - 1.72207
+2019-08-10 21:35:34
+Epoch-1829 Train Loss - 0.01488
+Epoch-1829 Val   Loss - 1.71943
+2019-08-10 21:35:41
+Epoch-1830 Train Loss - 0.01499
+Epoch-1830 Val   Loss - 1.72329
+2019-08-10 21:35:47
+Epoch-1831 Train Loss - 0.01527
+Epoch-1831 Val   Loss - 1.75506
+2019-08-10 21:35:54
+Epoch-1832 Train Loss - 0.01538
+Epoch-1832 Val   Loss - 1.76155
+2019-08-10 21:36:01
+Epoch-1833 Train Loss - 0.01492
+Epoch-1833 Val   Loss - 1.75829
+2019-08-10 21:36:07
+Epoch-1834 Train Loss - 0.01469
+Epoch-1834 Val   Loss - 1.73915
+2019-08-10 21:36:14
+Epoch-1835 Train Loss - 0.01593
+Epoch-1835 Val   Loss - 1.71600
+2019-08-10 21:36:20
+Epoch-1836 Train Loss - 0.01576
+Epoch-1836 Val   Loss - 1.73240
+2019-08-10 21:36:27
+Epoch-1837 Train Loss - 0.01549
+Epoch-1837 Val   Loss - 1.71480
+2019-08-10 21:36:34
+Epoch-1838 Train Loss - 0.01517
+Epoch-1838 Val   Loss - 1.71048
+2019-08-10 21:36:40
+Epoch-1839 Train Loss - 0.01529
+Epoch-1839 Val   Loss - 1.67647
+2019-08-10 21:36:46
+Epoch-1840 Train Loss - 0.01491
+Epoch-1840 Val   Loss - 1.68119
+2019-08-10 21:36:53
+Epoch-1841 Train Loss - 0.01521
+Epoch-1841 Val   Loss - 1.70990
+2019-08-10 21:36:59
+Epoch-1842 Train Loss - 0.01547
+Epoch-1842 Val   Loss - 1.72737
+2019-08-10 21:37:06
+Epoch-1843 Train Loss - 0.01622
+Epoch-1843 Val   Loss - 1.71185
+2019-08-10 21:37:12
+Epoch-1844 Train Loss - 0.01649
+Epoch-1844 Val   Loss - 1.70316
+2019-08-10 21:37:19
+Epoch-1845 Train Loss - 0.01770
+Epoch-1845 Val   Loss - 1.73150
+2019-08-10 21:37:25
+Epoch-1846 Train Loss - 0.01920
+Epoch-1846 Val   Loss - 1.80180
+2019-08-10 21:37:32
+Epoch-1847 Train Loss - 0.01879
+Epoch-1847 Val   Loss - 1.82609
+2019-08-10 21:37:38
+Epoch-1848 Train Loss - 0.02139
+Epoch-1848 Val   Loss - 1.77138
+2019-08-10 21:37:45
+Epoch-1849 Train Loss - 0.02011
+Epoch-1849 Val   Loss - 1.81580
+2019-08-10 21:37:51
+Epoch-1850 Train Loss - 0.01959
+Epoch-1850 Val   Loss - 1.81725
+2019-08-10 21:37:58
+Epoch-1851 Train Loss - 0.01731
+Epoch-1851 Val   Loss - 1.72302
+2019-08-10 21:38:04
+Epoch-1852 Train Loss - 0.01706
+Epoch-1852 Val   Loss - 1.66068
+2019-08-10 21:38:11
+Epoch-1853 Train Loss - 0.01673
+Epoch-1853 Val   Loss - 1.67424
+2019-08-10 21:38:17
+Epoch-1854 Train Loss - 0.01587
+Epoch-1854 Val   Loss - 1.67366
+2019-08-10 21:38:24
+Epoch-1855 Train Loss - 0.01398
+Epoch-1855 Val   Loss - 1.70134
+2019-08-10 21:38:30
+Epoch-1856 Train Loss - 0.01272
+Epoch-1856 Val   Loss - 1.69391
+2019-08-10 21:38:37
+Epoch-1857 Train Loss - 0.01251
+Epoch-1857 Val   Loss - 1.69613
+2019-08-10 21:38:44
+Epoch-1858 Train Loss - 0.01126
+Epoch-1858 Val   Loss - 1.73227
+2019-08-10 21:38:50
+Epoch-1859 Train Loss - 0.01084
+Epoch-1859 Val   Loss - 1.71420
+2019-08-10 21:38:57
+Epoch-1860 Train Loss - 0.01078
+Epoch-1860 Val   Loss - 1.72141
+2019-08-10 21:39:03
+Epoch-1861 Train Loss - 0.01078
+Epoch-1861 Val   Loss - 1.71277
+2019-08-10 21:39:10
+Epoch-1862 Train Loss - 0.01146
+Epoch-1862 Val   Loss - 1.73606
+2019-08-10 21:39:17
+Epoch-1863 Train Loss - 0.01201
+Epoch-1863 Val   Loss - 1.72580
+2019-08-10 21:39:23
+Epoch-1864 Train Loss - 0.01204
+Epoch-1864 Val   Loss - 1.72728
+2019-08-10 21:39:29
+Epoch-1865 Train Loss - 0.01182
+Epoch-1865 Val   Loss - 1.69002
+2019-08-10 21:39:36
+Epoch-1866 Train Loss - 0.01255
+Epoch-1866 Val   Loss - 1.69063
+2019-08-10 21:39:43
+Epoch-1867 Train Loss - 0.01322
+Epoch-1867 Val   Loss - 1.66533
+2019-08-10 21:39:49
+Epoch-1868 Train Loss - 0.01433
+Epoch-1868 Val   Loss - 1.67237
+2019-08-10 21:39:54
+Epoch-1869 Train Loss - 0.01449
+Epoch-1869 Val   Loss - 1.66258
+2019-08-10 21:40:01
+Epoch-1870 Train Loss - 0.01523
+Epoch-1870 Val   Loss - 1.68038
+2019-08-10 21:40:07
+Epoch-1871 Train Loss - 0.01412
+Epoch-1871 Val   Loss - 1.63497
+2019-08-10 21:40:14
+Epoch-1872 Train Loss - 0.01502
+Epoch-1872 Val   Loss - 1.63476
+2019-08-10 21:40:20
+Epoch-1873 Train Loss - 0.01558
+Epoch-1873 Val   Loss - 1.62555
+2019-08-10 21:40:27
+Epoch-1874 Train Loss - 0.01743
+Epoch-1874 Val   Loss - 1.63272
+2019-08-10 21:40:34
+Epoch-1875 Train Loss - 0.01968
+Epoch-1875 Val   Loss - 1.69743
+2019-08-10 21:40:40
+Epoch-1876 Train Loss - 0.01825
+Epoch-1876 Val   Loss - 1.72111
+2019-08-10 21:40:47
+Epoch-1877 Train Loss - 0.01922
+Epoch-1877 Val   Loss - 1.74293
+2019-08-10 21:40:54
+Epoch-1878 Train Loss - 0.01888
+Epoch-1878 Val   Loss - 1.75424
+2019-08-10 21:41:00
+Epoch-1879 Train Loss - 0.01690
+Epoch-1879 Val   Loss - 1.70263
+2019-08-10 21:41:06
+Epoch-1880 Train Loss - 0.01694
+Epoch-1880 Val   Loss - 1.63217
+2019-08-10 21:41:13
+Epoch-1881 Train Loss - 0.01457
+Epoch-1881 Val   Loss - 1.63408
+2019-08-10 21:41:19
+Epoch-1882 Train Loss - 0.01308
+Epoch-1882 Val   Loss - 1.65368
+2019-08-10 21:41:26
+Epoch-1883 Train Loss - 0.01191
+Epoch-1883 Val   Loss - 1.67117
+2019-08-10 21:41:32
+Epoch-1884 Train Loss - 0.01178
+Epoch-1884 Val   Loss - 1.67874
+2019-08-10 21:41:39
+Epoch-1885 Train Loss - 0.01195
+Epoch-1885 Val   Loss - 1.68333
+2019-08-10 21:41:45
+Epoch-1886 Train Loss - 0.01201
+Epoch-1886 Val   Loss - 1.69185
+2019-08-10 21:41:52
+Epoch-1887 Train Loss - 0.01247
+Epoch-1887 Val   Loss - 1.68589
+2019-08-10 21:41:58
+Epoch-1888 Train Loss - 0.01277
+Epoch-1888 Val   Loss - 1.66933
+2019-08-10 21:42:05
+Epoch-1889 Train Loss - 0.01372
+Epoch-1889 Val   Loss - 1.67606
+2019-08-10 21:42:11
+Epoch-1890 Train Loss - 0.01383
+Epoch-1890 Val   Loss - 1.73289
+2019-08-10 21:42:18
+Epoch-1891 Train Loss - 0.01350
+Epoch-1891 Val   Loss - 1.70148
+2019-08-10 21:42:24
+Epoch-1892 Train Loss - 0.01354
+Epoch-1892 Val   Loss - 1.70140
+2019-08-10 21:42:31
+Epoch-1893 Train Loss - 0.01417
+Epoch-1893 Val   Loss - 1.68714
+2019-08-10 21:42:38
+Epoch-1894 Train Loss - 0.01421
+Epoch-1894 Val   Loss - 1.64597
+2019-08-10 21:42:44
+Epoch-1895 Train Loss - 0.01378
+Epoch-1895 Val   Loss - 1.62845
+2019-08-10 21:42:51
+Epoch-1896 Train Loss - 0.01429
+Epoch-1896 Val   Loss - 1.63463
+2019-08-10 21:42:57
+Epoch-1897 Train Loss - 0.01469
+Epoch-1897 Val   Loss - 1.66966
+2019-08-10 21:43:04
+Epoch-1898 Train Loss - 0.01464
+Epoch-1898 Val   Loss - 1.70080
+2019-08-10 21:43:11
+Epoch-1899 Train Loss - 0.01357
+Epoch-1899 Val   Loss - 1.71633
+2019-08-10 21:43:18
+Epoch-1900 Train Loss - 0.01343
+Epoch-1900 Val   Loss - 1.74890
+2019-08-10 21:43:24
+Epoch-1901 Train Loss - 0.01339
+Epoch-1901 Val   Loss - 1.71590
+2019-08-10 21:43:31
+Epoch-1902 Train Loss - 0.01471
+Epoch-1902 Val   Loss - 1.71531
+2019-08-10 21:43:37
+Epoch-1903 Train Loss - 0.01509
+Epoch-1903 Val   Loss - 1.68844
+2019-08-10 21:43:44
+Epoch-1904 Train Loss - 0.01636
+Epoch-1904 Val   Loss - 1.71013
+2019-08-10 21:43:50
+Epoch-1905 Train Loss - 0.01795
+Epoch-1905 Val   Loss - 1.67944
+2019-08-10 21:43:57
+Epoch-1906 Train Loss - 0.01999
+Epoch-1906 Val   Loss - 1.66505
+2019-08-10 21:44:03
+Epoch-1907 Train Loss - 0.01600
+Epoch-1907 Val   Loss - 1.65107
+2019-08-10 21:44:10
+Epoch-1908 Train Loss - 0.01177
+Epoch-1908 Val   Loss - 1.64800
+2019-08-10 21:44:16
+Epoch-1909 Train Loss - 0.01074
+Epoch-1909 Val   Loss - 1.69730
+2019-08-10 21:44:23
+Epoch-1910 Train Loss - 0.01110
+Epoch-1910 Val   Loss - 1.69234
+2019-08-10 21:44:29
+Epoch-1911 Train Loss - 0.01141
+Epoch-1911 Val   Loss - 1.72738
+2019-08-10 21:44:36
+Epoch-1912 Train Loss - 0.01188
+Epoch-1912 Val   Loss - 1.68969
+2019-08-10 21:44:43
+Epoch-1913 Train Loss - 0.01162
+Epoch-1913 Val   Loss - 1.71945
+2019-08-10 21:44:49
+Epoch-1914 Train Loss - 0.01315
+Epoch-1914 Val   Loss - 1.70059
+2019-08-10 21:44:56
+Epoch-1915 Train Loss - 0.01489
+Epoch-1915 Val   Loss - 1.66364
+2019-08-10 21:45:03
+Epoch-1916 Train Loss - 0.01744
+Epoch-1916 Val   Loss - 1.69400
+2019-08-10 21:45:09
+Epoch-1917 Train Loss - 0.01702
+Epoch-1917 Val   Loss - 1.71104
+2019-08-10 21:45:16
+Epoch-1918 Train Loss - 0.01859
+Epoch-1918 Val   Loss - 1.68862
+2019-08-10 21:45:22
+Epoch-1919 Train Loss - 0.01661
+Epoch-1919 Val   Loss - 1.61674
+2019-08-10 21:45:29
+Epoch-1920 Train Loss - 0.01342
+Epoch-1920 Val   Loss - 1.63134
+2019-08-10 21:45:35
+Epoch-1921 Train Loss - 0.01272
+Epoch-1921 Val   Loss - 1.67472
+2019-08-10 21:45:42
+Epoch-1922 Train Loss - 0.01223
+Epoch-1922 Val   Loss - 1.68348
+2019-08-10 21:45:48
+Epoch-1923 Train Loss - 0.01386
+Epoch-1923 Val   Loss - 1.67474
+2019-08-10 21:45:55
+Epoch-1924 Train Loss - 0.01348
+Epoch-1924 Val   Loss - 1.67112
+2019-08-10 21:46:02
+Epoch-1925 Train Loss - 0.01392
+Epoch-1925 Val   Loss - 1.65499
+2019-08-10 21:46:08
+Epoch-1926 Train Loss - 0.01482
+Epoch-1926 Val   Loss - 1.66003
+2019-08-10 21:46:15
+Epoch-1927 Train Loss - 0.01490
+Epoch-1927 Val   Loss - 1.65918
+2019-08-10 21:46:21
+Epoch-1928 Train Loss - 0.01478
+Epoch-1928 Val   Loss - 1.66226
+2019-08-10 21:46:28
+Epoch-1929 Train Loss - 0.01555
+Epoch-1929 Val   Loss - 1.67224
+2019-08-10 21:46:34
+Epoch-1930 Train Loss - 0.01578
+Epoch-1930 Val   Loss - 1.68728
+2019-08-10 21:46:40
+Epoch-1931 Train Loss - 0.01442
+Epoch-1931 Val   Loss - 1.70440
+2019-08-10 21:46:47
+Epoch-1932 Train Loss - 0.01336
+Epoch-1932 Val   Loss - 1.68037
+2019-08-10 21:46:54
+Epoch-1933 Train Loss - 0.01364
+Epoch-1933 Val   Loss - 1.67913
+2019-08-10 21:47:00
+Epoch-1934 Train Loss - 0.01269
+Epoch-1934 Val   Loss - 1.68787
+2019-08-10 21:47:07
+Epoch-1935 Train Loss - 0.01233
+Epoch-1935 Val   Loss - 1.70709
+2019-08-10 21:47:13
+Epoch-1936 Train Loss - 0.01301
+Epoch-1936 Val   Loss - 1.68352
+2019-08-10 21:47:20
+Epoch-1937 Train Loss - 0.01243
+Epoch-1937 Val   Loss - 1.66783
+2019-08-10 21:47:26
+Epoch-1938 Train Loss - 0.01262
+Epoch-1938 Val   Loss - 1.66204
+2019-08-10 21:47:33
+Epoch-1939 Train Loss - 0.01221
+Epoch-1939 Val   Loss - 1.69254
+2019-08-10 21:47:39
+Epoch-1940 Train Loss - 0.01367
+Epoch-1940 Val   Loss - 1.73591
+2019-08-10 21:47:46
+Epoch-1941 Train Loss - 0.01416
+Epoch-1941 Val   Loss - 1.73397
+2019-08-10 21:47:52
+Epoch-1942 Train Loss - 0.01326
+Epoch-1942 Val   Loss - 1.68267
+2019-08-10 21:47:59
+Epoch-1943 Train Loss - 0.01209
+Epoch-1943 Val   Loss - 1.64010
+2019-08-10 21:48:05
+Epoch-1944 Train Loss - 0.01150
+Epoch-1944 Val   Loss - 1.64808
+2019-08-10 21:48:12
+Epoch-1945 Train Loss - 0.01104
+Epoch-1945 Val   Loss - 1.65686
+2019-08-10 21:48:18
+Epoch-1946 Train Loss - 0.01121
+Epoch-1946 Val   Loss - 1.68441
+2019-08-10 21:48:25
+Epoch-1947 Train Loss - 0.01170
+Epoch-1947 Val   Loss - 1.73234
+2019-08-10 21:48:31
+Epoch-1948 Train Loss - 0.01115
+Epoch-1948 Val   Loss - 1.61871
+2019-08-10 21:48:38
+Epoch-1949 Train Loss - 0.01071
+Epoch-1949 Val   Loss - 1.61456
+2019-08-10 21:48:45
+Epoch-1950 Train Loss - 0.01012
+Epoch-1950 Val   Loss - 1.62851
+2019-08-10 21:48:51
+Epoch-1951 Train Loss - 0.01059
+Epoch-1951 Val   Loss - 1.62194
+2019-08-10 21:48:58
+Epoch-1952 Train Loss - 0.01092
+Epoch-1952 Val   Loss - 1.64164
+2019-08-10 21:49:04
+Epoch-1953 Train Loss - 0.01073
+Epoch-1953 Val   Loss - 1.60327
+2019-08-10 21:49:11
+Epoch-1954 Train Loss - 0.01048
+Epoch-1954 Val   Loss - 1.62066
+2019-08-10 21:49:17
+Epoch-1955 Train Loss - 0.01068
+Epoch-1955 Val   Loss - 1.62442
+2019-08-10 21:49:24
+Epoch-1956 Train Loss - 0.01112
+Epoch-1956 Val   Loss - 1.63022
+2019-08-10 21:49:30
+Epoch-1957 Train Loss - 0.01143
+Epoch-1957 Val   Loss - 1.66352
+2019-08-10 21:49:37
+Epoch-1958 Train Loss - 0.01055
+Epoch-1958 Val   Loss - 1.63726
+2019-08-10 21:49:44
+Epoch-1959 Train Loss - 0.01146
+Epoch-1959 Val   Loss - 1.65795
+2019-08-10 21:49:50
+Epoch-1960 Train Loss - 0.01296
+Epoch-1960 Val   Loss - 1.69648
+2019-08-10 21:49:57
+Epoch-1961 Train Loss - 0.01377
+Epoch-1961 Val   Loss - 1.68996
+2019-08-10 21:50:02
+Epoch-1962 Train Loss - 0.01348
+Epoch-1962 Val   Loss - 1.68534
+2019-08-10 21:50:08
+Epoch-1963 Train Loss - 0.01399
+Epoch-1963 Val   Loss - 1.68813
+2019-08-10 21:50:15
+Epoch-1964 Train Loss - 0.01368
+Epoch-1964 Val   Loss - 1.69997
+2019-08-10 21:50:22
+Epoch-1965 Train Loss - 0.01271
+Epoch-1965 Val   Loss - 1.68817
+2019-08-10 21:50:29
+Epoch-1966 Train Loss - 0.01106
+Epoch-1966 Val   Loss - 1.74438
+2019-08-10 21:50:35
+Epoch-1967 Train Loss - 0.01045
+Epoch-1967 Val   Loss - 1.76579
+2019-08-10 21:50:41
+Epoch-1968 Train Loss - 0.01069
+Epoch-1968 Val   Loss - 1.70478
+2019-08-10 21:50:48
+Epoch-1969 Train Loss - 0.01086
+Epoch-1969 Val   Loss - 1.70338
+2019-08-10 21:50:55
+Epoch-1970 Train Loss - 0.01218
+Epoch-1970 Val   Loss - 1.70539
+2019-08-10 21:51:01
+Epoch-1971 Train Loss - 0.01299
+Epoch-1971 Val   Loss - 1.72462
+2019-08-10 21:51:08
+Epoch-1972 Train Loss - 0.01338
+Epoch-1972 Val   Loss - 1.63044
+2019-08-10 21:51:14
+Epoch-1973 Train Loss - 0.01216
+Epoch-1973 Val   Loss - 1.55062
+2019-08-10 21:51:21
+Epoch-1974 Train Loss - 0.01210
+Epoch-1974 Val   Loss - 1.62152
+2019-08-10 21:51:27
+Epoch-1975 Train Loss - 0.01126
+Epoch-1975 Val   Loss - 1.60257
+2019-08-10 21:51:34
+Epoch-1976 Train Loss - 0.01271
+Epoch-1976 Val   Loss - 1.58503
+2019-08-10 21:51:41
+Epoch-1977 Train Loss - 0.01364
+Epoch-1977 Val   Loss - 1.61812
+2019-08-10 21:51:47
+Epoch-1978 Train Loss - 0.01550
+Epoch-1978 Val   Loss - 1.66030
+2019-08-10 21:51:54
+Epoch-1979 Train Loss - 0.01683
+Epoch-1979 Val   Loss - 1.63788
+2019-08-10 21:52:00
+Epoch-1980 Train Loss - 0.01797
+Epoch-1980 Val   Loss - 1.70635
+2019-08-10 21:52:07
+Epoch-1981 Train Loss - 0.01849
+Epoch-1981 Val   Loss - 1.74282
+2019-08-10 21:52:13
+Epoch-1982 Train Loss - 0.01802
+Epoch-1982 Val   Loss - 1.73601
+2019-08-10 21:52:20
+Epoch-1983 Train Loss - 0.01444
+Epoch-1983 Val   Loss - 1.77216
+2019-08-10 21:52:26
+Epoch-1984 Train Loss - 0.01389
+Epoch-1984 Val   Loss - 1.74556
+2019-08-10 21:52:33
+Epoch-1985 Train Loss - 0.01195
+Epoch-1985 Val   Loss - 1.76742
+2019-08-10 21:52:39
+Epoch-1986 Train Loss - 0.01207
+Epoch-1986 Val   Loss - 1.78514
+2019-08-10 21:52:46
+Epoch-1987 Train Loss - 0.01196
+Epoch-1987 Val   Loss - 1.76773
+2019-08-10 21:52:52
+Epoch-1988 Train Loss - 0.01217
+Epoch-1988 Val   Loss - 1.74619
+2019-08-10 21:52:59
+Epoch-1989 Train Loss - 0.01337
+Epoch-1989 Val   Loss - 1.76242
+2019-08-10 21:53:05
+Epoch-1990 Train Loss - 0.01119
+Epoch-1990 Val   Loss - 1.75606
+2019-08-10 21:53:12
+Epoch-1991 Train Loss - 0.01175
+Epoch-1991 Val   Loss - 1.74801
+2019-08-10 21:53:19
+Epoch-1992 Train Loss - 0.01073
+Epoch-1992 Val   Loss - 1.76373
+2019-08-10 21:53:26
+Epoch-1993 Train Loss - 0.01175
+Epoch-1993 Val   Loss - 1.75845
+2019-08-10 21:53:32
+Epoch-1994 Train Loss - 0.01181
+Epoch-1994 Val   Loss - 1.73485
+2019-08-10 21:53:38
+Epoch-1995 Train Loss - 0.01121
+Epoch-1995 Val   Loss - 1.72709
+2019-08-10 21:53:45
+Epoch-1996 Train Loss - 0.01037
+Epoch-1996 Val   Loss - 1.74024
+2019-08-10 21:53:52
+Epoch-1997 Train Loss - 0.00964
+Epoch-1997 Val   Loss - 1.76008
+2019-08-10 21:53:58
+Epoch-1998 Train Loss - 0.00861
+Epoch-1998 Val   Loss - 1.79491
+2019-08-10 21:54:05
+Epoch-1999 Train Loss - 0.00914
+Epoch-1999 Val   Loss - 1.78804
